@@ -9000,7 +9000,7 @@
 			"id": "c878dc33-3df4-40df-80d7-070a3d590059",
 			"topic": "/vt/ League 2 - Day 3, Game 2",
 			"open": true,
-			"winOption": null,
+			"winOption": 0,
 			"totalPool": 100951111,
 			"closingTime": 1647018604214,
 			"options": [
