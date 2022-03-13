@@ -13546,7 +13546,7 @@
       "id": "17a3de23-b4e9-4a4a-9fd1-6bfc5ef1ef23",
       "topic": "/vt/ League 2 - Day 6, Game 8 - Finals",
       "open": true,
-      "winOption": null,
+      "winOption": 1,
       "totalPool": 312663860,
       "closingTime": 1647207000000,
       "options": [
