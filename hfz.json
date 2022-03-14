@@ -6674,5 +6674,127 @@
         ]
       }
     }
+  },
+  "03-13-2022": {
+    "d872adab-75f6-4657-a07f-99b423080532": {
+      "id": "d872adab-75f6-4657-a07f-99b423080532",
+      "topic": "HFZ Match 1",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 29768332,
+      "closingTime": 1647231300000,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Korone"
+        },
+        {
+          "optionid": 1,
+          "option": "Okayu"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy",
+            "betAmount": 5000000,
+            "option": 0
+          },
+          {
+            "userid": "28600326-c521-479b-8d75-93e06abafe52",
+            "username": "⛩️Kotone Religion⛩️",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+            "username": " MSN-02 Zeong Yo",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "87e80a81-17b0-4af2-9401-9e99fa617b0d",
+            "username": "Mas F ",
+            "betAmount": 10000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "51126e92-af71-4d39-b0e1-76ba0abe6472",
+            "username": "ilovetowa !!!",
+            "betAmount": 6666,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+            "username": "HFZArchiveAnon",
+            "betAmount": 5000,
+            "option": 1
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 2500000,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 10000,
+            "option": 1
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 5000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "0c074988-8f86-49d5-af90-0c5a44f4b714",
+            "username": "I AM THE TABLE",
+            "betAmount": 20000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "51126e92-af71-4d39-b0e1-76ba0abe6472",
+            "username": "ilovetowa !!!",
+            "betAmount": 6666,
+            "option": 2
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000,
+            "option": 2
+          }
+        ]
+      }
+    }
   }
 }
