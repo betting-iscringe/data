@@ -6795,6 +6795,174 @@
           }
         ]
       }
+    },
+    "966bd0de-3891-4570-b32e-d9ba0cfc37ff": {
+      "id": "966bd0de-3891-4570-b32e-d9ba0cfc37ff",
+      "topic": "HFZ Match 2",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 16803000,
+      "closingTime": 1647232111398,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Risu"
+        },
+        {
+          "optionid": 1,
+          "option": "Fauna"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+            "username": "HFZArchiveAnon",
+            "betAmount": 5000,
+            "option": 0
+          },
+          {
+            "userid": "06372bca-ba66-43b5-9085-2653a53ba9f6",
+            "username": "Salsa",
+            "betAmount": 20000,
+            "option": 0
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 250000,
+            "option": 0
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 150000,
+            "option": 0
+          },
+          {
+            "userid": "e4818ad0-ca7e-4a6e-b89a-4e81e90bebe5",
+            "username": "Panished Haachama",
+            "betAmount": 500000,
+            "option": 0
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 41000,
+            "option": 0
+          },
+          {
+            "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+            "username": "s7unned",
+            "betAmount": 7000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 10000,
+            "option": 0
+          },
+          {
+            "userid": "4e9796c4-dc45-4adc-9ee1-0729f7f95490",
+            "username": "Shubamebachi",
+            "betAmount": 500000,
+            "option": 0
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 10000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "28600326-c521-479b-8d75-93e06abafe52",
+            "username": "⛩️Kotone Religion⛩️",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 1500000,
+            "option": 1
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "ELFSNINENINE",
+            "betAmount": 25000,
+            "option": 1
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "a97f3458-1984-4eb3-bb5f-459ec8263a06",
+            "username": "BasedCringeHFZ",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "0c074988-8f86-49d5-af90-0c5a44f4b714",
+            "username": "I AM THE TABLE",
+            "betAmount": 400000,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 5000,
+            "option": 1
+          },
+          {
+            "userid": "4e9796c4-dc45-4adc-9ee1-0729f7f95490",
+            "username": "Shubamebachi",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 10000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 10000,
+            "option": 2
+          },
+          {
+            "userid": "4e9796c4-dc45-4adc-9ee1-0729f7f95490",
+            "username": "Shubamebachi",
+            "betAmount": 1160000,
+            "option": 2
+          }
+        ]
+      }
     }
   }
 }
