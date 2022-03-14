@@ -7701,6 +7701,258 @@
           }
         ]
       }
+    },
+    "12099e49-6d7f-4243-b8fa-be1bbf977704": {
+      "id": "12099e49-6d7f-4243-b8fa-be1bbf977704",
+      "topic": "HFZ Match 7",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 11990000,
+      "closingTime": 1647238800000,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Okayu"
+        },
+        {
+          "optionid": 1,
+          "option": "Korone"
+        },
+        {
+          "optionid": 2,
+          "option": "Risu"
+        },
+        {
+          "optionid": 3,
+          "option": "Fauna"
+        },
+        {
+          "optionid": 4,
+          "option": "Watame"
+        },
+        {
+          "optionid": 5,
+          "option": "Luna"
+        },
+        {
+          "optionid": 6,
+          "option": "Mori"
+        },
+        {
+          "optionid": 7,
+          "option": "Miko"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "28600326-c521-479b-8d75-93e06abafe52",
+            "username": "⛩️Kotone Religion⛩️",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "28131e00-54cc-4759-a3ca-34c90d6b8f9f",
+            "username": "Lolicon Rights Fund",
+            "betAmount": 100000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 50000,
+            "option": 1
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 280000,
+            "option": 1
+          },
+          {
+            "userid": "59e305af-feb9-43bf-a86d-965bca71ffef",
+            "username": "treerrat1.jpg",
+            "betAmount": 40000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 2500000,
+            "option": 2
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 1000000,
+            "option": 2
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 25000,
+            "option": 2
+          },
+          {
+            "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
+            "username": "Ninjin",
+            "betAmount": 100000,
+            "option": 2
+          },
+          {
+            "userid": "6e42912f-8398-4097-ab3f-6826796c8999",
+            "username": "Reverse",
+            "betAmount": 90000,
+            "option": 2
+          },
+          {
+            "userid": "28131e00-54cc-4759-a3ca-34c90d6b8f9f",
+            "username": "Lolicon Rights Fund",
+            "betAmount": 500000,
+            "option": 2
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 15000,
+            "option": 2
+          },
+          {
+            "userid": "59e305af-feb9-43bf-a86d-965bca71ffef",
+            "username": "treerrat1.jpg",
+            "betAmount": 100000,
+            "option": 2
+          }
+        ],
+        "3": [
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 100000,
+            "option": 3
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 10000,
+            "option": 3
+          },
+          {
+            "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
+            "username": "Ninjin",
+            "betAmount": 1000000,
+            "option": 3
+          },
+          {
+            "userid": "28131e00-54cc-4759-a3ca-34c90d6b8f9f",
+            "username": "Lolicon Rights Fund",
+            "betAmount": 10000,
+            "option": 3
+          }
+        ],
+        "4": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 4
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 500000,
+            "option": 4
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 30000,
+            "option": 4
+          }
+        ],
+        "5": [
+          {
+            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+            "username": "TowaBaby",
+            "betAmount": 5000,
+            "option": 5
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 50000,
+            "option": 5
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy",
+            "betAmount": 100000,
+            "option": 5
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 10000,
+            "option": 5
+          },
+          {
+            "userid": "28131e00-54cc-4759-a3ca-34c90d6b8f9f",
+            "username": "Lolicon Rights Fund",
+            "betAmount": 10000,
+            "option": 5
+          }
+        ],
+        "6": [
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy",
+            "betAmount": 1000000,
+            "option": 6
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 5000,
+            "option": 6
+          }
+        ],
+        "7": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 7
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 250000,
+            "option": 7
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 10000,
+            "option": 7
+          }
+        ]
+      }
     }
   }
 }
