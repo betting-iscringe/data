@@ -8641,6 +8641,66 @@
           }
         ]
       }
+    },
+    "965708a6-db60-4790-83d5-18d82635774b": {
+      "id": "965708a6-db60-4790-83d5-18d82635774b",
+      "topic": "HoloFighter - Royal Rumble",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 4100000,
+      "closingTime": 1653317849846,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "#3 - Suisei"
+        },
+        {
+          "optionid": 1,
+          "option": "#2 - Mio"
+        },
+        {
+          "optionid": 2,
+          "option": "#10 - Shishiron"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 25000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+            "username": "Imyourtarget",
+            "betAmount": 1000000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 75000,
+            "option": 2
+          },
+          {
+            "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
+            "username": "Ninjin",
+            "betAmount": 2000000,
+            "option": 2
+          }
+        ]
+      }
     }
   }
 }
