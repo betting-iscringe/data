@@ -9093,6 +9093,102 @@
           }
         ]
       }
+    },
+    "fe5f3b82-7cc1-472b-ac95-03bfe93035c4": {
+      "id": "fe5f3b82-7cc1-472b-ac95-03bfe93035c4",
+      "topic": "HoloLive Fighter - Match 4",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 7284760,
+      "closingTime": 1653656940000,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Elite Miko"
+        },
+        {
+          "optionid": 1,
+          "option": "Noel DX"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 20000,
+            "option": 0
+          },
+          {
+            "userid": "f48a12cf-564e-428a-925f-9ee52cdcc19a",
+            "username": "Sneed",
+            "betAmount": 20000,
+            "option": 0
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy",
+            "betAmount": 2000000,
+            "option": 0
+          },
+          {
+            "userid": "570f3001-d94d-4f6f-80c4-4128c5257058",
+            "username": "M",
+            "betAmount": 2000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000,
+            "option": 1
+          },
+          {
+            "userid": "f48a12cf-564e-428a-925f-9ee52cdcc19a",
+            "username": "Sneed",
+            "betAmount": 14880,
+            "option": 1
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 2000000,
+            "option": 1
+          },
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 200000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "f48a12cf-564e-428a-925f-9ee52cdcc19a",
+            "username": "Sneed",
+            "betAmount": 14880,
+            "option": 2
+          }
+        ]
+      }
     }
   }
 }
