@@ -8775,6 +8775,139 @@
           }
         ]
       }
+    },
+
+    "6cd31ff7-4838-4f35-93e8-8235eb6e43d9": {
+      "id": "6cd31ff7-4838-4f35-93e8-8235eb6e43d9",
+      "topic": "HoloLive Fighter - Match 2",
+      "open": false,
+      "winOption": 5,
+      "totalPool": 14060000,
+      "closingTime": 1653654989607,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Noel"
+        },
+        {
+          "optionid": 1,
+          "option": "Botan"
+        },
+        {
+          "optionid": 2,
+          "option": "Mio"
+        },
+        {
+          "optionid": 3,
+          "option": "Subaru"
+        },
+        {
+          "optionid": 4,
+          "option": "Elite Miko"
+        },
+        {
+          "optionid": 5,
+          "option": "Watame"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki's cool but Astel is my oshi",
+            "betAmount": 500000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 500000,
+            "option": 1
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy",
+            "betAmount": 2000000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000,
+            "option": 2
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 500000,
+            "option": 2
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy",
+            "betAmount": 500000,
+            "option": 2
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 1000000,
+            "option": 2
+          }
+        ],
+        "3": [
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 1000000,
+            "option": 3
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 1000000,
+            "option": 3
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 2000000,
+            "option": 3
+          }
+        ],
+        "4": [
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 50000,
+            "option": 4
+          }
+        ],
+        "5": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 5
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 1000000,
+            "option": 5
+          },
+          {
+            "userid": "570f3001-d94d-4f6f-80c4-4128c5257058",
+            "username": "M",
+            "betAmount": 3000000,
+            "option": 5
+          }
+        ]
+      }
     }
   }
 }
