@@ -12549,7 +12549,7 @@
       }
     }
   },
-  "05-05-2022 Holofighters": {
+  "06-05-2022 Holofighters": {
     "03068f51-aa45-4b62-8248-657b1be4e5b1": {
       "id": "03068f51-aa45-4b62-8248-657b1be4e5b1",
       "topic": "HoloFighter - Match 1 - One Fall",
@@ -13068,6 +13068,200 @@
             "username": "[HFZ] ELFS99",
             "betAmount": 22222,
             "option": 2
+          }
+        ]
+      }
+    }
+  },
+  "06-08-2022 Holofighters": {
+    "329bc52b-20c7-489f-94c7-00b64d3fe081": {
+      "id": "329bc52b-20c7-489f-94c7-00b64d3fe081",
+      "topic": "HoloFighter - Match 2 - Falls Count Anywhere",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 16331032,
+      "closingTime": 1654692886146,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Kanatan"
+        },
+        {
+          "optionid": 1,
+          "option": "Towasama"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "597120db-2ef8-4328-8e8c-928a4f6eb893",
+            "username": "Tako Inastments™",
+            "betAmount": 282700,
+            "option": 0
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 30000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "2533c120-958b-4299-bd55-c9e5c5185401",
+            "username": "Lolibaba    ",
+            "betAmount": 666666,
+            "option": 0
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki's cool but Astel is my oshi",
+            "betAmount": 2000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "e3ecc580-0677-4910-8056-27b62a1e3240",
+            "username": "straywolf",
+            "betAmount": 300000,
+            "option": 1
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 10000,
+            "option": 1
+          },
+          {
+            "userid": "c7820869-c5b5-46f4-90e9-87380ce8ba31",
+            "username": "CoinInvestor",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 50000,
+            "option": 1
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 75000,
+            "option": 1
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 250000,
+            "option": 1
+          },
+          {
+            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+            "username": "Imyourtarget",
+            "betAmount": 6666666,
+            "option": 1
+          }
+        ]
+      }
+    },
+    "8312a9fa-1412-4fc4-b218-0fcbd4707fa8": {
+      "id": "8312a9fa-1412-4fc4-b218-0fcbd4707fa8",
+      "topic": "HoloFighter - Match 1 - No Holds Barred",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 6433535,
+      "closingTime": 1654687006386,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "35P"
+        },
+        {
+          "optionid": 1,
+          "option": "Goldberg"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 5000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000,
+            "option": 0
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 50000,
+            "option": 0
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "«Knights of the Blood Oath» butwhy",
+            "betAmount": 5000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 353535,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000,
+            "option": 1
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 10000,
+            "option": 1
           }
         ]
       }
