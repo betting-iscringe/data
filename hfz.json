@@ -13439,6 +13439,114 @@
           }
         ]
       }
+    },
+    "86f10e5f-1a4d-4fb3-aeed-7615286d2bfa": {
+      "id": "86f10e5f-1a4d-4fb3-aeed-7615286d2bfa",
+      "topic": "HoloFighter - Match 4 - Extreme Rules Tag",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 37830000,
+      "closingTime": 1654696683481,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "SubaLuna"
+        },
+        {
+          "optionid": 1,
+          "option": "ShishiTowa"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 20000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "«Knights of the Blood Oath» butwhy",
+            "betAmount": 200000,
+            "option": 0
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 2000000,
+            "option": 0
+          },
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 2000000,
+            "option": 0
+          },
+          {
+            "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+            "username": "[草] Multi-Level Taxing",
+            "betAmount": 5000000,
+            "option": 0
+          },
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki's cool but Astel is my oshi",
+            "betAmount": 500000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "«Knights of the Blood Oath» butwhy",
+            "betAmount": 2000000,
+            "option": 1
+          },
+          {
+            "userid": "97e34fcc-55cb-420b-a109-66fa7605318f",
+            "username": "McGoop",
+            "betAmount": 10000,
+            "option": 1
+          },
+          {
+            "userid": "c7820869-c5b5-46f4-90e9-87380ce8ba31",
+            "username": "CoinInvestor",
+            "betAmount": 3000000,
+            "option": 1
+          },
+          {
+            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+            "username": "Imyourtarget",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 100000,
+            "option": 1
+          }
+        ]
+      }
     }
   }
 }
