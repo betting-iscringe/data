@@ -18073,5 +18073,259 @@
         ]
       }
     }
+  },
+  "06-17-2022 Holofighters": {
+    "5516c817-24b2-40ef-bf6e-7bc3070b4ac4": {
+      "id": "5516c817-24b2-40ef-bf6e-7bc3070b4ac4",
+      "topic": "HoloFighter - Match 2 - Fatal Five-Way Extreme Rules",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 30830000,
+      "closingTime": 1655387152126,
+      "options": [
+        { "optionid": 0, "option": "Watame" },
+        { "optionid": 1, "option": "Noel DX" },
+        { "optionid": 2, "option": "ELITE MIKO" },
+        { "optionid": 3, "option": "Marine" },
+        { "optionid": 4, "option": "Koyori" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 250000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki's cool but Astel is my oshi",
+            "betAmount": 50000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000,
+            "option": 1
+          },
+          {
+            "userid": "9e1e3b31-b1e8-46c8-9e5b-80f00f97f98f",
+            "username": "Schizophrenia",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 50000,
+            "option": 1
+          },
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 50000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000,
+            "option": 2
+          },
+          {
+            "userid": "9e1e3b31-b1e8-46c8-9e5b-80f00f97f98f",
+            "username": "Schizophrenia",
+            "betAmount": 100000,
+            "option": 2
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 2000000,
+            "option": 2
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 500000,
+            "option": 2
+          }
+        ],
+        "3": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000,
+            "option": 3
+          },
+          {
+            "userid": "9e1e3b31-b1e8-46c8-9e5b-80f00f97f98f",
+            "username": "Schizophrenia",
+            "betAmount": 100000,
+            "option": 3
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 5000,
+            "option": 3
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "«Knights of the Blood Oath» butwhy",
+            "betAmount": 5000000,
+            "option": 3
+          }
+        ],
+        "4": [
+          {
+            "userid": "c7820869-c5b5-46f4-90e9-87380ce8ba31",
+            "username": "CoinInvestor",
+            "betAmount": 200000,
+            "option": 4
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 2000000,
+            "option": 4
+          },
+          {
+            "userid": "9e1e3b31-b1e8-46c8-9e5b-80f00f97f98f",
+            "username": "Schizophrenia",
+            "betAmount": 100000,
+            "option": 4
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 5000,
+            "option": 4
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 250000,
+            "option": 4
+          },
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 50000,
+            "option": 4
+          }
+        ]
+      }
+    },
+    "3f628731-2254-47ca-9205-2e6d588ff609": {
+      "id": "3f628731-2254-47ca-9205-2e6d588ff609",
+      "topic": "HoloFighter - Match 3 - TLC",
+      "open": false,
+      "winOption": 2,
+      "totalPool": 21605000,
+      "closingTime": 1655392203265,
+      "options": [
+        { "optionid": 0, "option": "ELITEMIKO" },
+        { "optionid": 1, "option": "Haachama" },
+        { "optionid": 2, "option": "Koyori" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 150000,
+            "option": 0
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 100000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "c7820869-c5b5-46f4-90e9-87380ce8ba31",
+            "username": "CoinInvestor",
+            "betAmount": 2000000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 1
+          },
+          {
+            "userid": "d0ea667c-c9b8-4cec-9864-630fa20e6811",
+            "username": "outachi",
+            "betAmount": 5000,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 500000,
+            "option": 1
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 2000000,
+            "option": 1
+          },
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 330000,
+            "option": 1
+          },
+          {
+            "userid": "51ff088b-f6cd-44fb-82d9-e0b728fa1ad6",
+            "username": "Elite Sakura Investments",
+            "betAmount": 320000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 100000,
+            "option": 2
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 1000000,
+            "option": 2
+          }
+        ]
+      }
+    }
   }
 }
