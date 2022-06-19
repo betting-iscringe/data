@@ -18327,5 +18327,1182 @@
         ]
       }
     }
+  },
+  "06-18-2022 HFZ DARK": {
+    "560eba6b-a058-42af-a922-50fa6f3c5903": {
+      "id": "560eba6b-a058-42af-a922-50fa6f3c5903",
+      "topic": "HoloFightZ Dark - Match 2 - Extreme Rules",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 1562215,
+      "closingTime": 1655565650299,
+      "options": [
+        { "optionid": 0, "option": "Yukimin" },
+        { "optionid": 1, "option": "Matsurisu" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 50000,
+            "option": 0
+          },
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki's cool but Astel is my oshi",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "67facbe1-862c-4f87-8100-83642f5441ff",
+            "username": "Tower",
+            "betAmount": 27215,
+            "option": 0
+          },
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 1000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 75000,
+            "option": 1
+          },
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki's cool but Astel is my oshi",
+            "betAmount": 50000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 50000,
+            "option": 1
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 10000,
+            "option": 1
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 100000,
+            "option": 1
+          }
+        ]
+      }
+    },
+    "4df173e3-b9b4-4aaa-878e-69751a180e9d": {
+      "id": "4df173e3-b9b4-4aaa-878e-69751a180e9d",
+      "topic": "HoloFightZ Dark - Match 3 - Tag Team (One Fall)",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 4500000,
+      "closingTime": 1655566694192,
+      "options": [
+        { "optionid": 0, "option": "Bone Bros Inc." },
+        { "optionid": 1, "option": "Kenzoku & Heimin" },
+        { "optionid": 2, "option": "Draw" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 50000,
+            "option": 0
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "«Knights of the Blood Oath» butwhy",
+            "betAmount": 2000000,
+            "option": 0
+          },
+          {
+            "userid": "f7c3b57a-8b4f-4715-9f37-dfcc81fb0c18",
+            "username": "[狐] Kitsune Holdings 🌽🦊🍔",
+            "betAmount": 300000,
+            "option": 0
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 500000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 150000,
+            "option": 1
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 20000,
+            "option": 1
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 100000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki's cool but Astel is my oshi",
+            "betAmount": 20000,
+            "option": 2
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 25000,
+            "option": 2
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 10000,
+            "option": 2
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 10000,
+            "option": 2
+          }
+        ]
+      }
+    },
+    "1a6182bd-358c-41f5-89f3-0d0ce1783322": {
+      "id": "1a6182bd-358c-41f5-89f3-0d0ce1783322",
+      "topic": "HoloFightZ Dark - Match 4 - One Fall",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 37207256,
+      "closingTime": 1655568072016,
+      "options": [
+        { "optionid": 0, "option": "Fandead" },
+        { "optionid": 1, "option": "Investamigator" },
+        { "optionid": 2, "option": "Draw" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 500000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 20000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 1
+          },
+          {
+            "userid": "f7c3b57a-8b4f-4715-9f37-dfcc81fb0c18",
+            "username": "[狐] Kitsune Holdings 🌽🦊🍔",
+            "betAmount": 400000,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 75000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 150000,
+            "option": 1
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "«Knights of the Blood Oath» butwhy",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "67facbe1-862c-4f87-8100-83642f5441ff",
+            "username": "Tower",
+            "betAmount": 27256,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "f7c3b57a-8b4f-4715-9f37-dfcc81fb0c18",
+            "username": "[狐] Kitsune Holdings 🌽🦊🍔",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 20000,
+            "option": 2
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 15000,
+            "option": 2
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 10000,
+            "option": 2
+          }
+        ]
+      }
+    },
+    "fe4533cc-aa04-45c5-b58b-948f5b317168": {
+      "id": "fe4533cc-aa04-45c5-b58b-948f5b317168",
+      "topic": "HoloFightZ Dark - Match 5 - KO Match",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 30801666,
+      "closingTime": 1655568831329,
+      "options": [
+        { "optionid": 0, "option": "Hitomi Chris" },
+        { "optionid": 1, "option": "Plusmate" },
+        { "optionid": 2, "option": "The Legendary Double KO" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 50000,
+            "option": 0
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "«Knights of the Blood Oath» butwhy",
+            "betAmount": 200000,
+            "option": 0
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 1500000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 20000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 500000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "f7c3b57a-8b4f-4715-9f37-dfcc81fb0c18",
+            "username": "[狐] Kitsune Holdings 🌽🦊🍔",
+            "betAmount": 300000,
+            "option": 1
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 1000000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 10000,
+            "option": 2
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000,
+            "option": 2
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 10000,
+            "option": 2
+          },
+          {
+            "userid": "f7c3b57a-8b4f-4715-9f37-dfcc81fb0c18",
+            "username": "[狐] Kitsune Holdings 🌽🦊🍔",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 6666,
+            "option": 2
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 10000,
+            "option": 2
+          }
+        ]
+      }
+    },
+    "c7e32b9e-8a60-4fc5-bec7-c31aaa0f5b85": {
+      "id": "c7e32b9e-8a60-4fc5-bec7-c31aaa0f5b85",
+      "topic": "HoloFightZ Dark - Match 6 - 3v3 Tag Match",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 25630000,
+      "closingTime": 1655569680000,
+      "options": [
+        { "optionid": 0, "option": "Sun Tempo" },
+        { "optionid": 1, "option": "Uproar! -1" },
+        { "optionid": 2, "option": "Draw" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000000,
+            "option": 0
+          },
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki's cool but Astel is my oshi",
+            "betAmount": 500000,
+            "option": 0
+          },
+          {
+            "userid": "f7c3b57a-8b4f-4715-9f37-dfcc81fb0c18",
+            "username": "[狐] Kitsune Holdings 🌽🦊🍔",
+            "betAmount": 450000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 500000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 500000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 1500000,
+            "option": 1
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "«Knights of the Blood Oath» butwhy",
+            "betAmount": 2000000,
+            "option": 1
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 50000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki's cool but Astel is my oshi",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 5000,
+            "option": 2
+          }
+        ]
+      }
+    },
+    "71fa1f3b-93fd-4219-9c4b-3c90885dc869": {
+      "id": "71fa1f3b-93fd-4219-9c4b-3c90885dc869",
+      "topic": "HoloFightZ Dark - Match 7 - One Fall",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 0,
+      "closingTime": 1655571120000,
+      "options": [
+        { "optionid": 0, "option": "Rosentai" },
+        { "optionid": 1, "option": "Shiokko" },
+        { "optionid": 2, "option": "Draw" }
+      ],
+      "userBets": { "0": [], "1": [], "2": [] }
+    },
+    "01369377-533b-464a-8bcf-0bc935a8dec9": {
+      "id": "01369377-533b-464a-8bcf-0bc935a8dec9",
+      "topic": "HoloFightZ Dark - Match 8 - One Fall",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 15058333,
+      "closingTime": 1655571600000,
+      "options": [
+        { "optionid": 0, "option": "Onigirya" },
+        { "optionid": 1, "option": "Koronesuki" },
+        { "optionid": 2, "option": "Draw" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 50000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 1500000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 1500000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 333333,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 1500000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 15000,
+            "option": 2
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 15000,
+            "option": 2
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 10000,
+            "option": 2
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 20000,
+            "option": 2
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 10000,
+            "option": 2
+          }
+        ]
+      }
+    },
+    "c8e0b98f-d3cd-4dc8-aed9-0eb77ad4a95d": {
+      "id": "c8e0b98f-d3cd-4dc8-aed9-0eb77ad4a95d",
+      "topic": "HoloFightZ Dark - Match 9 - Tag Match",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 17013333,
+      "closingTime": 1655572440000,
+      "options": [
+        { "optionid": 0, "option": "35p & Omaruza" },
+        { "optionid": 1, "option": "Merakyat & KFP" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 180000,
+            "option": 1
+          },
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 2500000,
+            "option": 1
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 3333333,
+            "option": 1
+          }
+        ]
+      }
+    },
+    "6d0ec16c-7d94-409a-b228-06e3ae8d8317": {
+      "id": "6d0ec16c-7d94-409a-b228-06e3ae8d8317",
+      "topic": "HFZ Dark - Match 10 - Blood Elimination",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 75432776,
+      "closingTime": 1655574900000,
+      "options": [
+        { "optionid": 0, "option": "Sukonbu" },
+        { "optionid": 1, "option": "Chocomate" },
+        { "optionid": 2, "option": "Zomrade" },
+        { "optionid": 3, "option": "Zecretary" },
+        { "optionid": 4, "option": "Hoshiyomi" },
+        { "optionid": 5, "option": "Nekko" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 10000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 75000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 4444444,
+            "option": 0
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 1000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 20000000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 1000000,
+            "option": 2
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 10000,
+            "option": 2
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 50000,
+            "option": 2
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 250000,
+            "option": 2
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 4444444,
+            "option": 2
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 100000,
+            "option": 2
+          }
+        ],
+        "3": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 500000,
+            "option": 3
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 10000,
+            "option": 3
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 50000,
+            "option": 3
+          },
+          {
+            "userid": "b62d41ca-da98-41eb-875c-dd84f8216431",
+            "username": "やだ",
+            "betAmount": 10000000,
+            "option": 3
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 444444,
+            "option": 3
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 100000,
+            "option": 3
+          }
+        ],
+        "4": [
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 1000000,
+            "option": 4
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 20000000,
+            "option": 4
+          }
+        ],
+        "5": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 500000,
+            "option": 5
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 5
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 444444,
+            "option": 5
+          }
+        ]
+      }
+    },
+    "7de4bf81-35f2-4719-840c-fff890b2e8c3": {
+      "id": "7de4bf81-35f2-4719-840c-fff890b2e8c3",
+      "topic": "HFZ Dark - Match 11 - Tornado Tag",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 58000000,
+      "closingTime": 1655576040000,
+      "options": [
+        { "optionid": 0, "option": "R.Ratman & ENMa" },
+        { "optionid": 1, "option": "Rosa & BIG FOLLOWS" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 1000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 2000000,
+            "option": 1
+          },
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 3000000,
+            "option": 1
+          },
+          {
+            "userid": "67e5e05a-8ee8-4046-b2a1-07488574179d",
+            "username": "[造] Applause",
+            "betAmount": 20000000,
+            "option": 1
+          }
+        ]
+      }
+    },
+    "0eea3bbb-8104-456b-9d78-422f07778869": {
+      "id": "0eea3bbb-8104-456b-9d78-422f07778869",
+      "topic": "HFZ Dark - Match 12 - Title Match (Aururan wins on a draw)",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 68440000,
+      "closingTime": 1655576640000,
+      "options": [
+        { "optionid": 0, "option": "Aragami Oga" },
+        { "optionid": 1, "option": "Aururandis" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 5000000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 740000,
+            "option": 0
+          },
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 2500000,
+            "option": 0
+          },
+          {
+            "userid": "67e5e05a-8ee8-4046-b2a1-07488574179d",
+            "username": "[造] Applause",
+            "betAmount": 20000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 1
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 1
+          }
+        ]
+      }
+    },
+    "998cc237-3aba-4ca6-a322-eae2e8c83335": {
+      "id": "998cc237-3aba-4ca6-a322-eae2e8c83335",
+      "topic": "HFZ Dark - Match 14 - Hell In A Cell (Nakirigumi wins if match goes to time)",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 75384567,
+      "closingTime": 1655580672856,
+      "options": [
+        { "optionid": 0, "option": "Nakirigumi" },
+        { "optionid": 1, "option": "Haaton" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 150000,
+            "option": 0
+          },
+          {
+            "userid": "67e5e05a-8ee8-4046-b2a1-07488574179d",
+            "username": "[造] Applause",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "b62d41ca-da98-41eb-875c-dd84f8216431",
+            "username": "やだ",
+            "betAmount": 10000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 1
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 234567,
+            "option": 1
+          }
+        ]
+      }
+    },
+    "156a1efa-eb9b-4fdd-a993-d99551b272c7": {
+      "id": "156a1efa-eb9b-4fdd-a993-d99551b272c7",
+      "topic": "HFZ Dark - Match 15 - Title Match (B.Rat wins on a Draw)",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 40750000,
+      "closingTime": 1655581380000,
+      "options": [
+        { "optionid": 0, "option": "Civia" },
+        { "optionid": 1, "option": "B.Rat" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 75000,
+            "option": 0
+          },
+          {
+            "userid": "570f3001-d94d-4f6f-80c4-4128c5257058",
+            "username": "M",
+            "betAmount": 250000,
+            "option": 0
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 300000,
+            "option": 0
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 2000000,
+            "option": 0
+          },
+          {
+            "userid": "b62d41ca-da98-41eb-875c-dd84f8216431",
+            "username": "やだ",
+            "betAmount": 5000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 3000000,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 125000,
+            "option": 1
+          }
+        ]
+      }
+    }
   }
 }
