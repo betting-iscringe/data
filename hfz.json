@@ -23954,6 +23954,342 @@
           }
         ]
       }
+    },
+    "37e28dae-f118-4818-9886-8b05b52303ca": {
+      "id": "37e28dae-f118-4818-9886-8b05b52303ca",
+      "topic": "HoloFightZ - Match 16 - Royal Rumble",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 180487531,
+      "closingTime": 1656273062491,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "#15 - Noel"
+        },
+        {
+          "optionid": 1,
+          "option": "#25 - Risu"
+        },
+        {
+          "optionid": 2,
+          "option": "#27 - Luna"
+        },
+        {
+          "optionid": 3,
+          "option": "#28 - Miko"
+        },
+        {
+          "optionid": 4,
+          "option": "#30 - Aki"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+            "username": "HFZArchiveAnon",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "28600326-c521-479b-8d75-93e06abafe52",
+            "username": "⛩️Kotone Religion⛩️",
+            "betAmount": 3000000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000000,
+            "option": 0
+          },
+          {
+            "userid": "d0645b9d-1617-4943-858e-c8a295790901",
+            "username": "[金] The Atlanta Falcons",
+            "betAmount": 333333,
+            "option": 0
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 500000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+            "username": "REAPER REAPER",
+            "betAmount": 58930,
+            "option": 0
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "«Knights of the Blood Oath» butwhy",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 300000,
+            "option": 0
+          },
+          {
+            "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+            "username": "The Tampa Bay Buccaneers",
+            "betAmount": 3333333,
+            "option": 0
+          },
+          {
+            "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+            "username": "[草] Multi-Level Marketing",
+            "betAmount": 5000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "d151de00-6642-4807-8db7-615be63c0103",
+            "username": "skeleturtle-2",
+            "betAmount": 40000,
+            "option": 1
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "79445d48-2fe8-4e5f-80a8-8d6446413567",
+            "username": "Gabydenoy",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 3000000,
+            "option": 1
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "«Knights of the Blood Oath» butwhy",
+            "betAmount": 10000000,
+            "option": 1
+          },
+          {
+            "userid": "d0ea667c-c9b8-4cec-9864-630fa20e6811",
+            "username": "outachi",
+            "betAmount": 10000,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 50000,
+            "option": 1
+          },
+          {
+            "userid": "b62d41ca-da98-41eb-875c-dd84f8216431",
+            "username": "やだ",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+            "username": "6letters",
+            "betAmount": 5000000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+            "username": "TowaBaby",
+            "betAmount": 10000,
+            "option": 2
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000000,
+            "option": 2
+          },
+          {
+            "userid": "d0645b9d-1617-4943-858e-c8a295790901",
+            "username": "[金] The Atlanta Falcons",
+            "betAmount": 44444,
+            "option": 2
+          },
+          {
+            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+            "username": "Imyourtarget",
+            "betAmount": 1000000,
+            "option": 2
+          },
+          {
+            "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+            "username": "REAPER REAPER",
+            "betAmount": 11786,
+            "option": 2
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "«Knights of the Blood Oath» butwhy",
+            "betAmount": 5000000,
+            "option": 2
+          },
+          {
+            "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+            "username": "The Tampa Bay Buccaneers",
+            "betAmount": 3333333,
+            "option": 2
+          }
+        ],
+        "3": [
+          {
+            "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+            "username": "HFZArchiveAnon",
+            "betAmount": 100000,
+            "option": 3
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000000,
+            "option": 3
+          },
+          {
+            "userid": "d0645b9d-1617-4943-858e-c8a295790901",
+            "username": "[金] The Atlanta Falcons",
+            "betAmount": 35353,
+            "option": 3
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 20000000,
+            "option": 3
+          },
+          {
+            "userid": "79445d48-2fe8-4e5f-80a8-8d6446413567",
+            "username": "Gabydenoy",
+            "betAmount": 100000,
+            "option": 3
+          },
+          {
+            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+            "username": "Imyourtarget",
+            "betAmount": 1000000,
+            "option": 3
+          },
+          {
+            "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+            "username": "TFRBATTLERISGAY",
+            "betAmount": 5000,
+            "option": 3
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 1500000,
+            "option": 3
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 2000000,
+            "option": 3
+          },
+          {
+            "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+            "username": "The Tampa Bay Buccaneers",
+            "betAmount": 3535353,
+            "option": 3
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 5000000,
+            "option": 3
+          },
+          {
+            "userid": "d0ea667c-c9b8-4cec-9864-630fa20e6811",
+            "username": "outachi",
+            "betAmount": 20000,
+            "option": 3
+          },
+          {
+            "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+            "username": "[草] Multi-Level Marketing",
+            "betAmount": 5000000,
+            "option": 3
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 50000,
+            "option": 3
+          }
+        ],
+        "4": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000000,
+            "option": 4
+          },
+          {
+            "userid": "d0645b9d-1617-4943-858e-c8a295790901",
+            "username": "[金] The Atlanta Falcons",
+            "betAmount": 333333,
+            "option": 4
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 1000000,
+            "option": 4
+          },
+          {
+            "userid": "f7c3b57a-8b4f-4715-9f37-dfcc81fb0c18",
+            "username": "[狐] Kitsune Holdings 🌽🦊🍔",
+            "betAmount": 250000,
+            "option": 4
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Δ",
+            "betAmount": 20000000,
+            "option": 4
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 1000000,
+            "option": 4
+          },
+          {
+            "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+            "username": "The Tampa Bay Buccaneers",
+            "betAmount": 3333333,
+            "option": 4
+          }
+        ]
+      }
     }
   }
 }
