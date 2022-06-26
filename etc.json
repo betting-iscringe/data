@@ -2841,5 +2841,315 @@
         ]
       }
     }
+  },
+  "Mutual Funds not Updating": {
+    "096a77f7-3147-48a9-a01c-b7028b47e980": {
+      "id": "096a77f7-3147-48a9-a01c-b7028b47e980",
+      "topic": "Divs?",
+      "winOption": "1",
+      "timestamp": 1656247836629,
+      "poolTotal": 25546110,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "No Divs; somebody used the Song of Time too early"
+        },
+        {
+          "optionid": 1,
+          "option": "Divs go through; Dawn of A New Day"
+        }
+      ],
+      "archive": true,
+      "userBets": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Δ",
+          "winAmount": 480358.88
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "winAmount": -10000
+        },
+        {
+          "userid": "363b61c6-0297-47d1-b2c3-8c35631cbfda",
+          "username": "Kaczynski Logistics Co.",
+          "winAmount": 21616.17
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "winAmount": 808.0900000000001
+        },
+        {
+          "userid": "3df7c230-c997-4452-81c6-1a23c63d6cbb",
+          "username": "wuhugm",
+          "winAmount": -145000
+        },
+        {
+          "userid": "51126e92-af71-4d39-b0e1-76ba0abe6472",
+          "username": "[天] 🍒✨",
+          "winAmount": 7204.67
+        },
+        {
+          "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+          "username": "The Tampa Bay Buccaneers",
+          "winAmount": -10000
+        },
+        {
+          "userid": "570f3001-d94d-4f6f-80c4-4128c5257058",
+          "username": "M",
+          "winAmount": -1000000
+        },
+        {
+          "userid": "6964fb38-b459-4c03-a057-2ce41541e1fd",
+          "username": "Houshou Marine Retirement Fund🏴‍☠️",
+          "winAmount": 108080.86
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "winAmount": -4595.96
+        },
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "winAmount": 54040.43
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "winAmount": -10000
+        },
+        {
+          "userid": "9de90f9b-ce13-42d1-96f5-235f417f6e34",
+          "username": "[造] Clocks Yo",
+          "winAmount": -100000
+        },
+        {
+          "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
+          "username": "[ｱﾎ] Ninjin",
+          "winAmount": 3242425.68
+        },
+        {
+          "userid": "c8240517-5b93-4ca7-9737-e8881eecfc04",
+          "username": "Oyakodon Capital",
+          "winAmount": -50000
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "winAmount": -10000
+        },
+        {
+          "userid": "db9c92f9-86da-442e-a3a7-7948a27e7059",
+          "username": "[天] Mystery Heimin",
+          "winAmount": -5000
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "winAmount": 21616171.19
+        },
+        {
+          "userid": "ec1a0c36-e4a8-45a1-a6c6-5980d79ded66",
+          "username": "[夫] Simp & Son Holdings",
+          "winAmount": -500000
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki's cool but Astel is my oshi",
+          "winAmount": -50000
+        }
+      ]
+    },
+    "4845e62f-09e9-4cd7-8019-aef68ea98140": {
+      "id": "4845e62f-09e9-4cd7-8019-aef68ea98140",
+      "topic": "Divs but for funds?",
+      "winOption": "1",
+      "timestamp": 1656247846570,
+      "poolTotal": 22087166,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "It's fucked man. You ain't gettin' shit."
+        },
+        {
+          "optionid": 1,
+          "option": "It'll be fine. Divs will go out to the funds."
+        }
+      ],
+      "archive": true,
+      "userBets": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "winAmount": 143531.92
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "winAmount": 133531.92
+        },
+        {
+          "userid": "3df7c230-c997-4452-81c6-1a23c63d6cbb",
+          "username": "wuhugm",
+          "winAmount": -150000
+        },
+        {
+          "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+          "username": "The Tampa Bay Buccaneers",
+          "winAmount": 145101.96000000002
+        },
+        {
+          "userid": "570f3001-d94d-4f6f-80c4-4128c5257058",
+          "username": "M",
+          "winAmount": 14353192.32
+        },
+        {
+          "userid": "6964fb38-b459-4c03-a057-2ce41541e1fd",
+          "username": "Houshou Marine Retirement Fund🏴‍☠️",
+          "winAmount": 1435319.23
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "winAmount": 66765.96
+        },
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "winAmount": -50000
+        },
+        {
+          "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+          "username": "DibbyDabba",
+          "winAmount": 78942.56
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "winAmount": 143531.92
+        },
+        {
+          "userid": "9de90f9b-ce13-42d1-96f5-235f417f6e34",
+          "username": "[造] Clocks Yo",
+          "winAmount": 1435319.23
+        },
+        {
+          "userid": "c8240517-5b93-4ca7-9737-e8881eecfc04",
+          "username": "Oyakodon Capital",
+          "winAmount": 717659.62
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "winAmount": 717659.62
+        },
+        {
+          "userid": "db9c92f9-86da-442e-a3a7-7948a27e7059",
+          "username": "[天] Mystery Heimin",
+          "winAmount": 71765.96
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "winAmount": -20000000
+        },
+        {
+          "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+          "username": "sakura matou fan",
+          "winAmount": 143531.92
+        },
+        {
+          "userid": "ec1a0c36-e4a8-45a1-a6c6-5980d79ded66",
+          "username": "[夫] Simp & Son Holdings",
+          "winAmount": 1435319.23
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki's cool but Astel is my oshi",
+          "winAmount": 717659.62
+        }
+      ]
+    },
+    "efbcfe78-e49c-4cf8-b1f7-9a3216ec7f76": {
+      "id": "efbcfe78-e49c-4cf8-b1f7-9a3216ec7f76",
+      "topic": "What happens next?",
+      "winOption": "1",
+      "timestamp": 1656169048870,
+      "poolTotal": 31123888,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "TRIAL DEV IS GONNA KILL THE SITE LET'S GOOOOOOOOOOOO"
+        },
+        {
+          "optionid": 1,
+          "option": "Nothing happens"
+        },
+        {
+          "optionid": 2,
+          "option": "Resetting the server somehow fixes it because fuck technology"
+        },
+        {
+          "optionid": 3,
+          "option": "Something else entirely"
+        }
+      ],
+      "archive": true,
+      "userBets": [
+        {
+          "userid": "10dcbbd5-f761-44f3-92ce-ea5b01f1d747",
+          "username": "[造] Miyatsuko-Priestess Treasury",
+          "winAmount": 30949795.38
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "winAmount": 19818.519999999997
+        },
+        {
+          "userid": "314d0bda-d7f0-4636-aed7-5ea02743604b",
+          "username": "指定暴力団ホ口ライブ（株）",
+          "winAmount": -1000000
+        },
+        {
+          "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+          "username": "The Tampa Bay Buccaneers",
+          "winAmount": 12046.309999999998
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "winAmount": 12409.259999999998
+        },
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "winAmount": 4818.519999999997
+        },
+        {
+          "userid": "c10f6cf7-6730-4f06-bbc2-7eefcb776ae8",
+          "username": "[ｱﾎ] smile",
+          "winAmount": -400000
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "winAmount": -20000000
+        },
+        {
+          "userid": "ec1a0c36-e4a8-45a1-a6c6-5980d79ded66",
+          "username": "[夫] Simp & Son Holdings",
+          "winAmount": -150000
+        },
+        {
+          "userid": "f7c3b57a-8b4f-4715-9f37-dfcc81fb0c18",
+          "username": "[狐] Kitsune Holdings 🌽🦊🍔",
+          "winAmount": -500000
+        }
+      ]
+    }
   }
 }
