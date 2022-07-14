@@ -3151,5 +3151,127 @@
         }
       ]
     }
+  },
+  "Ko'one vs Peko SMB": {
+    "823aa7c4-3c39-4dc0-ba63-caff3574dd81": {
+      "id": "823aa7c4-3c39-4dc0-ba63-caff3574dd81",
+      "topic": "Who will win the SMB VS?",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 72856014,
+      "closingTime": 1657802700000,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Korone"
+        },
+        {
+          "optionid": 1,
+          "option": "Pekora"
+        },
+        {
+          "optionid": 2,
+          "option": "No conclusion"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki's cool but Astel is my oshi",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "dfdcbe32-a09a-46ec-9de6-f76fc3d86e0a",
+            "username": "Mr. Wizard",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+            "username": "The Tampa Bay Buccaneers",
+            "betAmount": 5630000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 20000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 10000000,
+            "option": 1
+          },
+          {
+            "userid": "544b372b-b019-44a9-a991-2ff63baf1606",
+            "username": "[造] Drey",
+            "betAmount": 10000,
+            "option": 1
+          },
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki's cool but Astel is my oshi",
+            "betAmount": 200000,
+            "option": 1
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 4000000,
+            "option": 1
+          },
+          {
+            "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+            "username": "The Tampa Bay Buccaneers",
+            "betAmount": 563563,
+            "option": 1
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 4444444,
+            "option": 1
+          },
+          {
+            "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
+            "username": "[ｱﾎ] Ninjin",
+            "betAmount": 10000000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 1000000,
+            "option": 2
+          },
+          {
+            "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+            "username": "The Tampa Bay Buccaneers",
+            "betAmount": 563563,
+            "option": 2
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 4444444,
+            "option": 2
+          }
+        ]
+      }
+    }
   }
 }
