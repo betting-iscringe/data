@@ -3273,5 +3273,73 @@
         ]
       }
     }
+  },
+  "Rust": {
+    "712079fe-db42-4280-96c4-41c2ef076c33": {
+      "id": "712079fe-db42-4280-96c4-41c2ef076c33",
+      "topic": "Will Marine and Pekora manage to get a gun in RUST?",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 25671666,
+      "closingTime": 1657887660000,
+      "options": [
+        { "optionid": 0, "option": "Yes" },
+        { "optionid": 1, "option": "No" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 4000000,
+            "option": 0
+          },
+          {
+            "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+            "username": "sakura matou fan 2001 ⚒️ 👾",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 5000,
+            "option": 0
+          },
+          {
+            "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+            "username": "Pogchamp",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "dfdcbe32-a09a-46ec-9de6-f76fc3d86e0a",
+            "username": "Mr. Wizard",
+            "betAmount": 1000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 4444444,
+            "option": 1
+          },
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki's cool but Astel is my oshi",
+            "betAmount": 222222,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000000,
+            "option": 1
+          }
+        ]
+      }
+    }
   }
 }
