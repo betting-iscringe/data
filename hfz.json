@@ -24896,9 +24896,9 @@
     "fff61f84-6e53-4c2e-9928-75ef09a77d0b": {
       "id": "fff61f84-6e53-4c2e-9928-75ef09a77d0b",
       "topic": "HoloFightZ - Match 4 - Triple Threat Tables",
-      "open": true,
+      "open": false,
       "winOption": null,
-      "totalPool": 66031249,
+      "totalPool": 2,
       "closingTime": 1657986721152,
       "options": [
         { "optionid": 0, "option": "Reine" },
