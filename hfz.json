@@ -24293,35 +24293,24 @@
     }
   },
   "07-16-2022": {
-    "319a491c-5f37-4690-a92b-4a7399f78654": {
-      "id": "319a491c-5f37-4690-a92b-4a7399f78654",
-      "topic": "HoloFightZ - Match 10 - Tag Team Title Match (COEXIST wins on Draw or Disqualification)",
+    "46c71b8f-db9d-435b-8696-abc0d9490b4c": {
+      "id": "46c71b8f-db9d-435b-8696-abc0d9490b4c",
+      "topic": "HoloFightZ - Match 1 - One Fall",
       "open": false,
-      "winOption": 0,
-      "totalPool": 155215755,
-      "closingTime": 1657995747290,
+      "winOption": 1,
+      "totalPool": 40809336,
+      "closingTime": 1657984610672,
       "options": [
-        { "optionid": 0, "option": "Baerys" },
-        { "optionid": 1, "option": "COEXIST" }
+        { "optionid": 0, "option": "Fauna" },
+        { "optionid": 1, "option": "Lamy" },
+        { "optionid": 2, "option": "Draw" }
       ],
       "userBets": {
         "0": [
           {
             "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
             "username": "Bombshell Blondes Banking",
-            "betAmount": 10000000,
-            "option": 0
-          },
-          {
-            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
-            "username": "sanQ",
-            "betAmount": 5000,
-            "option": 0
-          },
-          {
-            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
-            "username": "towasamarich",
-            "betAmount": 5000000,
+            "betAmount": 2000000,
             "option": 0
           },
           {
@@ -24331,102 +24320,152 @@
             "option": 0
           },
           {
-            "userid": "d151de00-6642-4807-8db7-615be63c0103",
-            "username": "skeleturtle-2",
-            "betAmount": 20000,
-            "option": 0
-          },
-          {
-            "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
-            "username": "s7unned",
-            "betAmount": 100000,
-            "option": 0
-          },
-          {
-            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
-            "username": "IKZ",
-            "betAmount": 1440755,
-            "option": 0
-          },
-          {
             "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
             "username": "[1 Free Financial Advice]",
-            "betAmount": 10000000,
+            "betAmount": 5000000,
             "option": 0
           },
           {
-            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
-            "username": "[HFZ] ELFS99",
-            "betAmount": 500000,
+            "userid": "2533c120-958b-4299-bd55-c9e5c5185401",
+            "username": "Lolibaba    ",
+            "betAmount": 3000000,
+            "option": 0
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+            "username": "REAPER REAPER",
+            "betAmount": 21003,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 75000,
             "option": 0
           }
         ],
         "1": [
           {
-            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
-            "username": "DibbyDabba",
-            "betAmount": 1000000,
+            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+            "username": "TowaBaby",
+            "betAmount": 10000,
             "option": 1
           },
           {
-            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
-            "username": "BeerSalad",
+            "userid": "28600326-c521-479b-8d75-93e06abafe52",
+            "username": "⛩️Kotone Religion⛩️",
+            "betAmount": 2000000,
+            "option": 1
+          },
+          {
+            "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+            "username": "HFZArchiveAnon",
             "betAmount": 100000,
             "option": 1
           },
           {
             "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
             "username": "Bombshell Blondes Banking",
-            "betAmount": 20000000,
+            "betAmount": 1000000,
             "option": 1
           },
           {
             "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
             "username": "💕HeartAttack💓 Financials",
-            "betAmount": 20000000,
+            "betAmount": 1000000,
             "option": 1
           },
           {
-            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
-            "username": "6letters",
-            "betAmount": 10000000,
+            "userid": "d151de00-6642-4807-8db7-615be63c0103",
+            "username": "skeleturtle-2",
+            "betAmount": 20000,
+            "option": 1
+          },
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+            "username": "s7unned",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki's cool but Astel is my oshi",
+            "betAmount": 15000,
             "option": 1
           },
           {
             "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
             "username": "towasamarich",
-            "betAmount": 10000000,
+            "betAmount": 750000,
             "option": 1
           },
           {
-            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
-            "username": "Imyourtarget",
-            "betAmount": 10000000,
-            "option": 1
-          },
-          {
-            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
-            "username": "[草] potato",
-            "betAmount": 50000,
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 200000,
             "option": 1
           },
           {
             "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
             "username": "Asdae",
-            "betAmount": 15000000,
+            "betAmount": 3333333,
             "option": 1
           },
           {
-            "userid": "e869bf05-bb93-43d1-bcdb-834763fa8972",
-            "username": "Lurker Tako",
-            "betAmount": 2000000,
+            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+            "username": "6letters",
+            "betAmount": 1000000,
             "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+            "username": "TowaBaby",
+            "betAmount": 5000,
+            "option": 2
           },
           {
-            "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
-            "username": "[ｱﾎ] Ninjin",
-            "betAmount": 20000000,
-            "option": 1
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki's cool but Astel is my oshi",
+            "betAmount": 15000,
+            "option": 2
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 50000,
+            "option": 2
+          },
+          {
+            "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+            "username": "REAPER REAPER",
+            "betAmount": 5000,
+            "option": 2
           }
         ]
       }
@@ -24606,825 +24645,6 @@
             "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
             "username": "TowaBaby",
             "betAmount": 5000,
-            "option": 1
-          }
-        ]
-      }
-    },
-    "21af31d8-4ba6-46b1-9613-0e2dc5419c68": {
-      "id": "21af31d8-4ba6-46b1-9613-0e2dc5419c68",
-      "topic": "HoloFightZ - Match 5 - Tag Team (One Fall)",
-      "open": false,
-      "winOption": 1,
-      "totalPool": 144739112,
-      "closingTime": 1657990620000,
-      "options": [
-        { "optionid": 0, "option": "Kanata & Watamage" },
-        { "optionid": 1, "option": "The Timeline" },
-        { "optionid": 2, "option": "Draw" }
-      ],
-      "userBets": {
-        "0": [
-          {
-            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
-            "username": "Bombshell Blondes Banking",
-            "betAmount": 20000000,
-            "option": 0
-          },
-          {
-            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
-            "username": "💕HeartAttack💓 Financials",
-            "betAmount": 1000000,
-            "option": 0
-          },
-          {
-            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
-            "username": "DibbyDabba",
-            "betAmount": 500000,
-            "option": 0
-          },
-          {
-            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
-            "username": "[造] Triangle Consulting",
-            "betAmount": 20000000,
-            "option": 0
-          },
-          {
-            "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
-            "username": "[ｱﾎ] Ninjin",
-            "betAmount": 20000000,
-            "option": 0
-          },
-          {
-            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
-            "username": "towasamarich",
-            "betAmount": 20000000,
-            "option": 0
-          },
-          {
-            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
-            "username": "[HFZ] ELFS99",
-            "betAmount": 50000,
-            "option": 0
-          },
-          {
-            "userid": "21d89d86-85bd-426f-a9ef-ebe396cb6da1",
-            "username": "Risuna69",
-            "betAmount": 10000,
-            "option": 0
-          }
-        ],
-        "1": [
-          {
-            "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
-            "username": "HFZArchiveAnon",
-            "betAmount": 100000,
-            "option": 1
-          },
-          {
-            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
-            "username": "TowaBaby",
-            "betAmount": 15000,
-            "option": 1
-          },
-          {
-            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
-            "username": "Bombshell Blondes Banking",
-            "betAmount": 5000000,
-            "option": 1
-          },
-          {
-            "userid": "d151de00-6642-4807-8db7-615be63c0103",
-            "username": "skeleturtle-2",
-            "betAmount": 20000,
-            "option": 1
-          },
-          {
-            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
-            "username": "💕HeartAttack💓 Financials",
-            "betAmount": 500000,
-            "option": 1
-          },
-          {
-            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
-            "username": "[造] Triangle Consulting",
-            "betAmount": 10000000,
-            "option": 1
-          },
-          {
-            "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
-            "username": "s7unned",
-            "betAmount": 100000,
-            "option": 1
-          },
-          {
-            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
-            "username": "[1 Free Financial Advice]",
-            "betAmount": 5000000,
-            "option": 1
-          },
-          {
-            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
-            "username": "sanQ",
-            "betAmount": 20000,
-            "option": 1
-          },
-          {
-            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
-            "username": "Imyourtarget",
-            "betAmount": 1000000,
-            "option": 1
-          },
-          {
-            "userid": "0c4b140b-5dcc-44e6-a2e3-1862b2213bf8",
-            "username": "TrialDev",
-            "betAmount": 5000,
-            "option": 1
-          },
-          {
-            "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
-            "username": "REAPER REAPER",
-            "betAmount": 121931,
-            "option": 1
-          },
-          {
-            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
-            "username": "towasamarich",
-            "betAmount": 5000000,
-            "option": 1
-          },
-          {
-            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
-            "username": "butwhy...",
-            "betAmount": 4000000,
-            "option": 1
-          },
-          {
-            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
-            "username": "[HFZ] ELFS99",
-            "betAmount": 100000,
-            "option": 1
-          },
-          {
-            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
-            "username": "IKZ",
-            "betAmount": 747181,
-            "option": 1
-          },
-          {
-            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
-            "username": "[草] potato",
-            "betAmount": 50000,
-            "option": 1
-          },
-          {
-            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
-            "username": "BeerSalad",
-            "betAmount": 100000,
-            "option": 1
-          },
-          {
-            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
-            "username": "Asdae",
-            "betAmount": 10000000,
-            "option": 1
-          },
-          {
-            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
-            "username": "6letters",
-            "betAmount": 20000000,
-            "option": 1
-          }
-        ],
-        "2": [
-          {
-            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
-            "username": "TowaBaby",
-            "betAmount": 5000,
-            "option": 2
-          },
-          {
-            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
-            "username": "Bombshell Blondes Banking",
-            "betAmount": 1000000,
-            "option": 2
-          },
-          {
-            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
-            "username": "DibbyDabba",
-            "betAmount": 5000,
-            "option": 2
-          },
-          {
-            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
-            "username": "sanQ",
-            "betAmount": 5000,
-            "option": 2
-          },
-          {
-            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
-            "username": "Imyourtarget",
-            "betAmount": 100000,
-            "option": 2
-          },
-          {
-            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
-            "username": "towasamarich",
-            "betAmount": 50000,
-            "option": 2
-          },
-          {
-            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
-            "username": "[HFZ] ELFS99",
-            "betAmount": 25000,
-            "option": 2
-          },
-          {
-            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
-            "username": "[草] potato",
-            "betAmount": 10000,
-            "option": 2
-          },
-          {
-            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
-            "username": "Asdae",
-            "betAmount": 100000,
-            "option": 2
-          }
-        ]
-      }
-    },
-    "9ea3a0e5-c036-426d-9ea0-ee3f0b6fd8b1": {
-      "id": "9ea3a0e5-c036-426d-9ea0-ee3f0b6fd8b1",
-      "topic": "HoloFightZ - Match 7 - Tag Match (One Fall)",
-      "open": false,
-      "winOption": 0,
-      "totalPool": 144800951,
-      "closingTime": 1657992240000,
-      "options": [
-        { "optionid": 0, "option": "IoSoRadio" },
-        { "optionid": 1, "option": "BEST FRIENDS" },
-        { "optionid": 2, "option": "Draw" }
-      ],
-      "userBets": {
-        "0": [
-          {
-            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
-            "username": "Bombshell Blondes Banking",
-            "betAmount": 10000000,
-            "option": 0
-          },
-          {
-            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
-            "username": "💕HeartAttack💓 Financials",
-            "betAmount": 1000000,
-            "option": 0
-          },
-          {
-            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
-            "username": "DibbyDabba",
-            "betAmount": 500000,
-            "option": 0
-          },
-          {
-            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
-            "username": "[造] Triangle Consulting",
-            "betAmount": 20000000,
-            "option": 0
-          },
-          {
-            "userid": "2533c120-958b-4299-bd55-c9e5c5185401",
-            "username": "Lolibaba    ",
-            "betAmount": 5000000,
-            "option": 0
-          },
-          {
-            "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
-            "username": "BIG PLANS",
-            "betAmount": 20000000,
-            "option": 0
-          },
-          {
-            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
-            "username": "[HFZ] ELFS99",
-            "betAmount": 255555,
-            "option": 0
-          },
-          {
-            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
-            "username": "towasamarich",
-            "betAmount": 10000000,
-            "option": 0
-          },
-          {
-            "userid": "d0ea667c-c9b8-4cec-9864-630fa20e6811",
-            "username": "outachi",
-            "betAmount": 10000,
-            "option": 0
-          },
-          {
-            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
-            "username": "[草] potato",
-            "betAmount": 50000,
-            "option": 0
-          }
-        ],
-        "1": [
-          {
-            "userid": "d151de00-6642-4807-8db7-615be63c0103",
-            "username": "skeleturtle-2",
-            "betAmount": 20000,
-            "option": 1
-          },
-          {
-            "userid": "e869bf05-bb93-43d1-bcdb-834763fa8972",
-            "username": "Lurker Tako",
-            "betAmount": 500000,
-            "option": 1
-          },
-          {
-            "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
-            "username": "[ｱﾎ] Ninjin",
-            "betAmount": 20000000,
-            "option": 1
-          },
-          {
-            "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
-            "username": "s7unned",
-            "betAmount": 100000,
-            "option": 1
-          },
-          {
-            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
-            "username": "[1 Free Financial Advice]",
-            "betAmount": 5000000,
-            "option": 1
-          },
-          {
-            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
-            "username": "sanQ",
-            "betAmount": 35000,
-            "option": 1
-          },
-          {
-            "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
-            "username": "TFRBATTLERISGAY",
-            "betAmount": 5000,
-            "option": 1
-          },
-          {
-            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
-            "username": "Imyourtarget",
-            "betAmount": 20000000,
-            "option": 1
-          },
-          {
-            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
-            "username": "towasamarich",
-            "betAmount": 10000000,
-            "option": 1
-          },
-          {
-            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
-            "username": "IKZ",
-            "betAmount": 3273730,
-            "option": 1
-          },
-          {
-            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
-            "username": "Asdae",
-            "betAmount": 6666666,
-            "option": 1
-          },
-          {
-            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
-            "username": "BeerSalad",
-            "betAmount": 100000,
-            "option": 1
-          },
-          {
-            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
-            "username": "6letters",
-            "betAmount": 2000000,
-            "option": 1
-          }
-        ],
-        "2": [
-          {
-            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
-            "username": "DibbyDabba",
-            "betAmount": 5000,
-            "option": 2
-          },
-          {
-            "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
-            "username": "[ｱﾎ] Ninjin",
-            "betAmount": 10000000,
-            "option": 2
-          },
-          {
-            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
-            "username": "sanQ",
-            "betAmount": 5000,
-            "option": 2
-          },
-          {
-            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
-            "username": "Imyourtarget",
-            "betAmount": 100000,
-            "option": 2
-          },
-          {
-            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
-            "username": "[HFZ] ELFS99",
-            "betAmount": 10000,
-            "option": 2
-          },
-          {
-            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
-            "username": "towasamarich",
-            "betAmount": 50000,
-            "option": 2
-          },
-          {
-            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
-            "username": "IKZ",
-            "betAmount": 5000,
-            "option": 2
-          },
-          {
-            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
-            "username": "[草] potato",
-            "betAmount": 5000,
-            "option": 2
-          },
-          {
-            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
-            "username": "Asdae",
-            "betAmount": 100000,
-            "option": 2
-          },
-          {
-            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
-            "username": "BeerSalad",
-            "betAmount": 5000,
-            "option": 2
-          }
-        ]
-      }
-    },
-    "46c71b8f-db9d-435b-8696-abc0d9490b4c": {
-      "id": "46c71b8f-db9d-435b-8696-abc0d9490b4c",
-      "topic": "HoloFightZ - Match 1 - One Fall",
-      "open": false,
-      "winOption": 1,
-      "totalPool": 40809336,
-      "closingTime": 1657984610672,
-      "options": [
-        { "optionid": 0, "option": "Fauna" },
-        { "optionid": 1, "option": "Lamy" },
-        { "optionid": 2, "option": "Draw" }
-      ],
-      "userBets": {
-        "0": [
-          {
-            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
-            "username": "Bombshell Blondes Banking",
-            "betAmount": 2000000,
-            "option": 0
-          },
-          {
-            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
-            "username": "[造] Triangle Consulting",
-            "betAmount": 20000000,
-            "option": 0
-          },
-          {
-            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
-            "username": "[1 Free Financial Advice]",
-            "betAmount": 5000000,
-            "option": 0
-          },
-          {
-            "userid": "2533c120-958b-4299-bd55-c9e5c5185401",
-            "username": "Lolibaba    ",
-            "betAmount": 3000000,
-            "option": 0
-          },
-          {
-            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
-            "username": "towasamarich",
-            "betAmount": 1000000,
-            "option": 0
-          },
-          {
-            "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
-            "username": "REAPER REAPER",
-            "betAmount": 21003,
-            "option": 0
-          },
-          {
-            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
-            "username": "BeerSalad",
-            "betAmount": 75000,
-            "option": 0
-          }
-        ],
-        "1": [
-          {
-            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
-            "username": "TowaBaby",
-            "betAmount": 10000,
-            "option": 1
-          },
-          {
-            "userid": "28600326-c521-479b-8d75-93e06abafe52",
-            "username": "⛩️Kotone Religion⛩️",
-            "betAmount": 2000000,
-            "option": 1
-          },
-          {
-            "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
-            "username": "HFZArchiveAnon",
-            "betAmount": 100000,
-            "option": 1
-          },
-          {
-            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
-            "username": "Bombshell Blondes Banking",
-            "betAmount": 1000000,
-            "option": 1
-          },
-          {
-            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
-            "username": "💕HeartAttack💓 Financials",
-            "betAmount": 1000000,
-            "option": 1
-          },
-          {
-            "userid": "d151de00-6642-4807-8db7-615be63c0103",
-            "username": "skeleturtle-2",
-            "betAmount": 20000,
-            "option": 1
-          },
-          {
-            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
-            "username": "DibbyDabba",
-            "betAmount": 100000,
-            "option": 1
-          },
-          {
-            "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
-            "username": "s7unned",
-            "betAmount": 100000,
-            "option": 1
-          },
-          {
-            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
-            "username": "Aki's cool but Astel is my oshi",
-            "betAmount": 15000,
-            "option": 1
-          },
-          {
-            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
-            "username": "towasamarich",
-            "betAmount": 750000,
-            "option": 1
-          },
-          {
-            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
-            "username": "IKZ",
-            "betAmount": 200000,
-            "option": 1
-          },
-          {
-            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
-            "username": "Asdae",
-            "betAmount": 3333333,
-            "option": 1
-          },
-          {
-            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
-            "username": "6letters",
-            "betAmount": 1000000,
-            "option": 1
-          }
-        ],
-        "2": [
-          {
-            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
-            "username": "TowaBaby",
-            "betAmount": 5000,
-            "option": 2
-          },
-          {
-            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
-            "username": "Bombshell Blondes Banking",
-            "betAmount": 5000,
-            "option": 2
-          },
-          {
-            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
-            "username": "DibbyDabba",
-            "betAmount": 5000,
-            "option": 2
-          },
-          {
-            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
-            "username": "Aki's cool but Astel is my oshi",
-            "betAmount": 15000,
-            "option": 2
-          },
-          {
-            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
-            "username": "towasamarich",
-            "betAmount": 50000,
-            "option": 2
-          },
-          {
-            "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
-            "username": "REAPER REAPER",
-            "betAmount": 5000,
-            "option": 2
-          }
-        ]
-      }
-    },
-    "9b50009d-dcdc-40d0-adee-72b79bb9def0": {
-      "id": "9b50009d-dcdc-40d0-adee-72b79bb9def0",
-      "topic": "HoloFightZ - Match 9 - Extreme Rules",
-      "open": false,
-      "winOption": 0,
-      "totalPool": 121720353,
-      "closingTime": 1657994340490,
-      "options": [
-        { "optionid": 0, "option": "Mikoler" },
-        { "optionid": 1, "option": "Battler" }
-      ],
-      "userBets": {
-        "0": [
-          {
-            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
-            "username": "towasamarich",
-            "betAmount": 5000000,
-            "option": 0
-          },
-          {
-            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
-            "username": "[HFZ] ELFS99",
-            "betAmount": 1000000,
-            "option": 0
-          },
-          {
-            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
-            "username": "sanQ",
-            "betAmount": 5000,
-            "option": 0
-          },
-          {
-            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
-            "username": "Bombshell Blondes Banking",
-            "betAmount": 20000000,
-            "option": 0
-          },
-          {
-            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
-            "username": "BeerSalad",
-            "betAmount": 1000000,
-            "option": 0
-          },
-          {
-            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
-            "username": "Asdae",
-            "betAmount": 5000000,
-            "option": 0
-          },
-          {
-            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
-            "username": "IKZ",
-            "betAmount": 5000000,
-            "option": 0
-          },
-          {
-            "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
-            "username": "[ｱﾎ] Ninjin",
-            "betAmount": 20000000,
-            "option": 0
-          },
-          {
-            "userid": "79445d48-2fe8-4e5f-80a8-8d6446413567",
-            "username": "Gabydenoy",
-            "betAmount": 10000,
-            "option": 0
-          },
-          {
-            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
-            "username": "💕HeartAttack💓 Financials",
-            "betAmount": 1000000,
-            "option": 0
-          },
-          {
-            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
-            "username": "Imyourtarget",
-            "betAmount": 1000000,
-            "option": 0
-          },
-          {
-            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
-            "username": "[草] potato",
-            "betAmount": 50000,
-            "option": 0
-          },
-          {
-            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
-            "username": "DibbyDabba",
-            "betAmount": 500000,
-            "option": 0
-          },
-          {
-            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
-            "username": "6letters",
-            "betAmount": 3000000,
-            "option": 0
-          }
-        ],
-        "1": [
-          {
-            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
-            "username": "towasamarich",
-            "betAmount": 8000000,
-            "option": 1
-          },
-          {
-            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
-            "username": "[造] Triangle Consulting",
-            "betAmount": 20000000,
-            "option": 1
-          },
-          {
-            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
-            "username": "[HFZ] ELFS99",
-            "betAmount": 1000000,
-            "option": 1
-          },
-          {
-            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
-            "username": "sanQ",
-            "betAmount": 75000,
-            "option": 1
-          },
-          {
-            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
-            "username": "Bombshell Blondes Banking",
-            "betAmount": 20000000,
-            "option": 1
-          },
-          {
-            "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
-            "username": "s7unned",
-            "betAmount": 100000,
-            "option": 1
-          },
-          {
-            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
-            "username": "BeerSalad",
-            "betAmount": 1000000,
-            "option": 1
-          },
-          {
-            "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
-            "username": "TFRBATTLERISGAY",
-            "betAmount": 5000,
-            "option": 1
-          },
-          {
-            "userid": "d151de00-6642-4807-8db7-615be63c0103",
-            "username": "skeleturtle-2",
-            "betAmount": 20000,
-            "option": 1
-          },
-          {
-            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
-            "username": "[1 Free Financial Advice]",
-            "betAmount": 3535353,
-            "option": 1
-          },
-          {
-            "userid": "d0ea667c-c9b8-4cec-9864-630fa20e6811",
-            "username": "outachi",
-            "betAmount": 20000,
-            "option": 1
-          },
-          {
-            "userid": "2533c120-958b-4299-bd55-c9e5c5185401",
-            "username": "Lolibaba    ",
-            "betAmount": 5000000,
-            "option": 1
-          },
-          {
-            "userid": "db9c92f9-86da-442e-a3a7-7948a27e7059",
-            "username": "[天] Mystery Heimin",
-            "betAmount": 400000,
             "option": 1
           }
         ]
@@ -25673,150 +24893,6 @@
         ]
       }
     },
-    "7885eea2-7c6e-48bd-bcb0-4b851b0659b8": {
-      "id": "7885eea2-7c6e-48bd-bcb0-4b851b0659b8",
-      "topic": "HoloFightZ - Match 11 - Title Match (Haachama wins on Draw/DQ)",
-      "open": false,
-      "winOption": 1,
-      "totalPool": 187787000,
-      "closingTime": 1657997013812,
-      "options": [
-        { "optionid": 0, "option": "Sana" },
-        { "optionid": 1, "option": "Haachama" }
-      ],
-      "userBets": {
-        "0": [
-          {
-            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
-            "username": "Bombshell Blondes Banking",
-            "betAmount": 20000000,
-            "option": 0
-          },
-          {
-            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
-            "username": "[HFZ] ELFS99",
-            "betAmount": 500000,
-            "option": 0
-          },
-          {
-            "userid": "d151de00-6642-4807-8db7-615be63c0103",
-            "username": "skeleturtle-2",
-            "betAmount": 50000,
-            "option": 0
-          },
-          {
-            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
-            "username": "Asdae",
-            "betAmount": 1000000,
-            "option": 0
-          },
-          {
-            "userid": "2533c120-958b-4299-bd55-c9e5c5185401",
-            "username": "Lolibaba    ",
-            "betAmount": 20000000,
-            "option": 0
-          },
-          {
-            "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
-            "username": "[ｱﾎ] Ninjin",
-            "betAmount": 20000000,
-            "option": 0
-          },
-          {
-            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
-            "username": "[造] Triangle Consulting",
-            "betAmount": 20000000,
-            "option": 0
-          },
-          {
-            "userid": "e869bf05-bb93-43d1-bcdb-834763fa8972",
-            "username": "Lurker Tako",
-            "betAmount": 4000000,
-            "option": 0
-          },
-          {
-            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
-            "username": "BeerSalad",
-            "betAmount": 20000000,
-            "option": 0
-          },
-          {
-            "userid": "b7da1c16-b38c-4e13-a6ec-0d586fa9bc95",
-            "username": "greger69",
-            "betAmount": 180000,
-            "option": 0
-          },
-          {
-            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
-            "username": "towasamarich",
-            "betAmount": 9000000,
-            "option": 0
-          },
-          {
-            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
-            "username": "sanQ",
-            "betAmount": 32000,
-            "option": 0
-          },
-          {
-            "userid": "d0ea667c-c9b8-4cec-9864-630fa20e6811",
-            "username": "outachi",
-            "betAmount": 20000,
-            "option": 0
-          }
-        ],
-        "1": [
-          {
-            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
-            "username": "Bombshell Blondes Banking",
-            "betAmount": 20000000,
-            "option": 1
-          },
-          {
-            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
-            "username": "6letters",
-            "betAmount": 15000000,
-            "option": 1
-          },
-          {
-            "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
-            "username": "TFRBATTLERISGAY",
-            "betAmount": 5000,
-            "option": 1
-          },
-          {
-            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
-            "username": "Asdae",
-            "betAmount": 20000000,
-            "option": 1
-          },
-          {
-            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
-            "username": "DibbyDabba",
-            "betAmount": 5000000,
-            "option": 1
-          },
-          {
-            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
-            "username": "Imyourtarget",
-            "betAmount": 1000000,
-            "option": 1
-          },
-          {
-            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
-            "username": "towasamarich",
-            "betAmount": 9000000,
-            "option": 1
-          },
-          {
-            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
-            "username": "IKZ",
-            "betAmount": 3000000,
-            "option": 1
-          }
-        ]
-      }
-    },
     "fff61f84-6e53-4c2e-9928-75ef09a77d0b": {
       "id": "fff61f84-6e53-4c2e-9928-75ef09a77d0b",
       "topic": "HoloFightZ - Match 4 - Triple Threat Tables",
@@ -26036,6 +25112,249 @@
         ]
       }
     },
+    "21af31d8-4ba6-46b1-9613-0e2dc5419c68": {
+      "id": "21af31d8-4ba6-46b1-9613-0e2dc5419c68",
+      "topic": "HoloFightZ - Match 5 - Tag Team (One Fall)",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 144739112,
+      "closingTime": 1657990620000,
+      "options": [
+        { "optionid": 0, "option": "Kanata & Watamage" },
+        { "optionid": 1, "option": "The Timeline" },
+        { "optionid": 2, "option": "Draw" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 500000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
+            "username": "[ｱﾎ] Ninjin",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 50000,
+            "option": 0
+          },
+          {
+            "userid": "21d89d86-85bd-426f-a9ef-ebe396cb6da1",
+            "username": "Risuna69",
+            "betAmount": 10000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+            "username": "HFZArchiveAnon",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+            "username": "TowaBaby",
+            "betAmount": 15000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "d151de00-6642-4807-8db7-615be63c0103",
+            "username": "skeleturtle-2",
+            "betAmount": 20000,
+            "option": 1
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 500000,
+            "option": 1
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 10000000,
+            "option": 1
+          },
+          {
+            "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+            "username": "s7unned",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 20000,
+            "option": 1
+          },
+          {
+            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+            "username": "Imyourtarget",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "0c4b140b-5dcc-44e6-a2e3-1862b2213bf8",
+            "username": "TrialDev",
+            "betAmount": 5000,
+            "option": 1
+          },
+          {
+            "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+            "username": "REAPER REAPER",
+            "betAmount": 121931,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 4000000,
+            "option": 1
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 747181,
+            "option": 1
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 50000,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 10000000,
+            "option": 1
+          },
+          {
+            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+            "username": "6letters",
+            "betAmount": 20000000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+            "username": "TowaBaby",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 2
+          },
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+            "username": "Imyourtarget",
+            "betAmount": 100000,
+            "option": 2
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 50000,
+            "option": 2
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 25000,
+            "option": 2
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 10000,
+            "option": 2
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 100000,
+            "option": 2
+          }
+        ]
+      }
+    },
     "3df1c925-72c3-4d3b-bd00-995e7eaff69e": {
       "id": "3df1c925-72c3-4d3b-bd00-995e7eaff69e",
       "topic": "HoloFightZ - Match 6 - Extreme Rules",
@@ -26194,6 +25513,225 @@
             "username": "TrialDev",
             "betAmount": 5000,
             "option": 1
+          }
+        ]
+      }
+    },
+    "9ea3a0e5-c036-426d-9ea0-ee3f0b6fd8b1": {
+      "id": "9ea3a0e5-c036-426d-9ea0-ee3f0b6fd8b1",
+      "topic": "HoloFightZ - Match 7 - Tag Match (One Fall)",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 144800951,
+      "closingTime": 1657992240000,
+      "options": [
+        { "optionid": 0, "option": "IoSoRadio" },
+        { "optionid": 1, "option": "BEST FRIENDS" },
+        { "optionid": 2, "option": "Draw" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 500000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "2533c120-958b-4299-bd55-c9e5c5185401",
+            "username": "Lolibaba    ",
+            "betAmount": 5000000,
+            "option": 0
+          },
+          {
+            "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+            "username": "BIG PLANS",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 255555,
+            "option": 0
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "d0ea667c-c9b8-4cec-9864-630fa20e6811",
+            "username": "outachi",
+            "betAmount": 10000,
+            "option": 0
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 50000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "d151de00-6642-4807-8db7-615be63c0103",
+            "username": "skeleturtle-2",
+            "betAmount": 20000,
+            "option": 1
+          },
+          {
+            "userid": "e869bf05-bb93-43d1-bcdb-834763fa8972",
+            "username": "Lurker Tako",
+            "betAmount": 500000,
+            "option": 1
+          },
+          {
+            "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
+            "username": "[ｱﾎ] Ninjin",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+            "username": "s7unned",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 35000,
+            "option": 1
+          },
+          {
+            "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+            "username": "TFRBATTLERISGAY",
+            "betAmount": 5000,
+            "option": 1
+          },
+          {
+            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+            "username": "Imyourtarget",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 10000000,
+            "option": 1
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 3273730,
+            "option": 1
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 6666666,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+            "username": "6letters",
+            "betAmount": 2000000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
+            "username": "[ｱﾎ] Ninjin",
+            "betAmount": 10000000,
+            "option": 2
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+            "username": "Imyourtarget",
+            "betAmount": 100000,
+            "option": 2
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 10000,
+            "option": 2
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 50000,
+            "option": 2
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 100000,
+            "option": 2
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 5000,
+            "option": 2
           }
         ]
       }
@@ -26386,6 +25924,468 @@
             "username": "sanQ",
             "betAmount": 30000,
             "option": 3
+          }
+        ]
+      }
+    },
+    "9b50009d-dcdc-40d0-adee-72b79bb9def0": {
+      "id": "9b50009d-dcdc-40d0-adee-72b79bb9def0",
+      "topic": "HoloFightZ - Match 9 - Extreme Rules",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 121720353,
+      "closingTime": 1657994340490,
+      "options": [
+        { "optionid": 0, "option": "Mikoler" },
+        { "optionid": 1, "option": "Battler" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 5000000,
+            "option": 0
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 5000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 5000000,
+            "option": 0
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 5000000,
+            "option": 0
+          },
+          {
+            "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
+            "username": "[ｱﾎ] Ninjin",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "79445d48-2fe8-4e5f-80a8-8d6446413567",
+            "username": "Gabydenoy",
+            "betAmount": 10000,
+            "option": 0
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+            "username": "Imyourtarget",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 50000,
+            "option": 0
+          },
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 500000,
+            "option": 0
+          },
+          {
+            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+            "username": "6letters",
+            "betAmount": 3000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 8000000,
+            "option": 1
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 75000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+            "username": "s7unned",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+            "username": "TFRBATTLERISGAY",
+            "betAmount": 5000,
+            "option": 1
+          },
+          {
+            "userid": "d151de00-6642-4807-8db7-615be63c0103",
+            "username": "skeleturtle-2",
+            "betAmount": 20000,
+            "option": 1
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 3535353,
+            "option": 1
+          },
+          {
+            "userid": "d0ea667c-c9b8-4cec-9864-630fa20e6811",
+            "username": "outachi",
+            "betAmount": 20000,
+            "option": 1
+          },
+          {
+            "userid": "2533c120-958b-4299-bd55-c9e5c5185401",
+            "username": "Lolibaba    ",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "db9c92f9-86da-442e-a3a7-7948a27e7059",
+            "username": "[天] Mystery Heimin",
+            "betAmount": 400000,
+            "option": 1
+          }
+        ]
+      }
+    },
+    "319a491c-5f37-4690-a92b-4a7399f78654": {
+      "id": "319a491c-5f37-4690-a92b-4a7399f78654",
+      "topic": "HoloFightZ - Match 10 - Tag Team Title Match (COEXIST wins on Draw or Disqualification)",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 155215755,
+      "closingTime": 1657995747290,
+      "options": [
+        { "optionid": 0, "option": "Baerys" },
+        { "optionid": 1, "option": "COEXIST" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 5000,
+            "option": 0
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 5000000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "d151de00-6642-4807-8db7-615be63c0103",
+            "username": "skeleturtle-2",
+            "betAmount": 20000,
+            "option": 0
+          },
+          {
+            "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+            "username": "s7unned",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 1440755,
+            "option": 0
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 500000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+            "username": "6letters",
+            "betAmount": 10000000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 10000000,
+            "option": 1
+          },
+          {
+            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+            "username": "Imyourtarget",
+            "betAmount": 10000000,
+            "option": 1
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 50000,
+            "option": 1
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 15000000,
+            "option": 1
+          },
+          {
+            "userid": "e869bf05-bb93-43d1-bcdb-834763fa8972",
+            "username": "Lurker Tako",
+            "betAmount": 2000000,
+            "option": 1
+          },
+          {
+            "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
+            "username": "[ｱﾎ] Ninjin",
+            "betAmount": 20000000,
+            "option": 1
+          }
+        ]
+      }
+    },
+    "7885eea2-7c6e-48bd-bcb0-4b851b0659b8": {
+      "id": "7885eea2-7c6e-48bd-bcb0-4b851b0659b8",
+      "topic": "HoloFightZ - Match 11 - Title Match (Haachama wins on Draw/DQ)",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 187787000,
+      "closingTime": 1657997013812,
+      "options": [
+        { "optionid": 0, "option": "Sana" },
+        { "optionid": 1, "option": "Haachama" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 500000,
+            "option": 0
+          },
+          {
+            "userid": "d151de00-6642-4807-8db7-615be63c0103",
+            "username": "skeleturtle-2",
+            "betAmount": 50000,
+            "option": 0
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "2533c120-958b-4299-bd55-c9e5c5185401",
+            "username": "Lolibaba    ",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
+            "username": "[ｱﾎ] Ninjin",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "e869bf05-bb93-43d1-bcdb-834763fa8972",
+            "username": "Lurker Tako",
+            "betAmount": 4000000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "b7da1c16-b38c-4e13-a6ec-0d586fa9bc95",
+            "username": "greger69",
+            "betAmount": 180000,
+            "option": 0
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 9000000,
+            "option": 0
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 32000,
+            "option": 0
+          },
+          {
+            "userid": "d0ea667c-c9b8-4cec-9864-630fa20e6811",
+            "username": "outachi",
+            "betAmount": 20000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+            "username": "6letters",
+            "betAmount": 15000000,
+            "option": 1
+          },
+          {
+            "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+            "username": "TFRBATTLERISGAY",
+            "betAmount": 5000,
+            "option": 1
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+            "username": "Imyourtarget",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 9000000,
+            "option": 1
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 3000000,
+            "option": 1
           }
         ]
       }
