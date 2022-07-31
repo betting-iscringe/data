@@ -17114,5 +17114,325 @@
         }
       ]
     }
+  },
+  "4cc Summer Cup": {
+    "b79bbcdb-9960-4b77-a585-db7d6198dd36": {
+      "id": "b79bbcdb-9960-4b77-a585-db7d6198dd36",
+      "topic": "4cc Summer Cup - Day 2 - Game 3",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 528189654,
+      "closingTime": 1659203400000,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "/vt/ punishes Messi even more than he already is."
+        },
+        {
+          "optionid": 1,
+          "option": "/sp/ shows /vt/ what REAL rigging is."
+        },
+        {
+          "optionid": 2,
+          "option": "Draws can happen. As a treat."
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 5000,
+            "option": 0
+          },
+          {
+            "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+            "username": "TFRBATTLERISGAY",
+            "betAmount": 5000,
+            "option": 0
+          },
+          {
+            "userid": "db341495-f3b8-4c7c-b059-f469632f9934",
+            "username": "menherafoxgood",
+            "betAmount": 40000,
+            "option": 0
+          },
+          {
+            "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+            "username": "BIG PLANS",
+            "betAmount": 100000000,
+            "option": 0
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 80000,
+            "option": 0
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "6e42912f-8398-4097-ab3f-6826796c8999",
+            "username": "Reverse",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "3df7c230-c997-4452-81c6-1a23c63d6cbb",
+            "username": "wuhugm",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "570f3001-d94d-4f6f-80c4-4128c5257058",
+            "username": "M",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+            "username": "Elbandi",
+            "betAmount": 500000,
+            "option": 0
+          },
+          {
+            "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+            "username": "[天] Tenshi X Tenshi X Tenshi",
+            "betAmount": 3000000,
+            "option": 0
+          },
+          {
+            "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+            "username": "sakura matowa fan 2001",
+            "betAmount": 500000,
+            "option": 0
+          },
+          {
+            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+            "username": "TowaBaby",
+            "betAmount": 50000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+            "username": "Kiryu-kai Holdings Inc.",
+            "betAmount": 60000,
+            "option": 0
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "e355214c-0e6f-4519-bddc-8058ad148344",
+            "username": "HlggDivegrass",
+            "betAmount": 15000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 100000000,
+            "option": 0
+          },
+          {
+            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+            "username": "6letters",
+            "betAmount": 5000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 50000000,
+            "option": 1
+          },
+          {
+            "userid": "733ecb47-07da-4a0a-b6ff-97d9b87e2533",
+            "username": "Gossha",
+            "betAmount": 10000,
+            "option": 1
+          },
+          {
+            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+            "username": "Imyourtarget",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 500000,
+            "option": 1
+          },
+          {
+            "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+            "username": "The Tampa Bay Buccaneers",
+            "betAmount": 5000,
+            "option": 1
+          },
+          {
+            "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+            "username": "[草] Multi-Level Marketing",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "84f5ebde-9629-49f4-b44f-448aa3dc812c",
+            "username": "pinkcatmaybegood",
+            "betAmount": 20000,
+            "option": 1
+          },
+          {
+            "userid": "889a7f7f-9803-440e-b4a4-bdf75b97c5f0",
+            "username": "Tomato",
+            "betAmount": 1268484,
+            "option": 1
+          },
+          {
+            "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+            "username": "[天] Tenshi X Tenshi X Tenshi",
+            "betAmount": 12000000,
+            "option": 1
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 10000000,
+            "option": 1
+          },
+          {
+            "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+            "username": "Puchigire Forma de la Imitacion",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+            "username": "TowaBaby",
+            "betAmount": 5000,
+            "option": 1
+          },
+          {
+            "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+            "username": "Kiryu-kai Holdings Inc.",
+            "betAmount": 60000,
+            "option": 1
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 50000000,
+            "option": 1
+          },
+          {
+            "userid": "829fd0c0-5962-4be4-827d-3c6488a1a6c3",
+            "username": "Buy Pekora. Sell never",
+            "betAmount": 20000000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 500000,
+            "option": 2
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 2000000,
+            "option": 2
+          },
+          {
+            "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+            "username": "The Tampa Bay Buccaneers",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 181170,
+            "option": 2
+          },
+          {
+            "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+            "username": "[草] Multi-Level Marketing",
+            "betAmount": 3000000,
+            "option": 2
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 15000,
+            "option": 2
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 100000,
+            "option": 2
+          },
+          {
+            "userid": "b62d41ca-da98-41eb-875c-dd84f8216431",
+            "username": "刮目せよ",
+            "betAmount": 100000000,
+            "option": 2
+          },
+          {
+            "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+            "username": "[天] Tenshi X Tenshi X Tenshi",
+            "betAmount": 1000000,
+            "option": 2
+          },
+          {
+            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+            "username": "TowaBaby",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 50000,
+            "option": 2
+          },
+          {
+            "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+            "username": "Kiryu-kai Holdings Inc.",
+            "betAmount": 10000,
+            "option": 2
+          }
+        ]
+      }
+    }
   }
 }
