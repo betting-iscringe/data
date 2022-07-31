@@ -30023,6 +30023,150 @@
           }
         ]
       }
+    },
+    "d6a997d3-3d93-4a97-bdb6-6f175734a7a4": {
+      "id": "d6a997d3-3d93-4a97-bdb6-6f175734a7a4",
+      "topic": "HoloFightZ - Match 12 - 4v4 Elimination",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 251266083,
+      "closingTime": 1659291724624,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Council"
+        },
+        {
+          "optionid": 1,
+          "option": "Myth &IRyS"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 2000000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 100000000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "5944d5e1-af54-4896-b84b-d8553a34ddc4",
+            "username": "worldbuilding chad",
+            "betAmount": 85000,
+            "option": 0
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 51885,
+            "option": 0
+          },
+          {
+            "userid": "51712aad-0a34-4b10-a13c-1ea91dced49f",
+            "username": "pengu",
+            "betAmount": 100000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 15000000,
+            "option": 1
+          },
+          {
+            "userid": "d151de00-6642-4807-8db7-615be63c0103",
+            "username": "skeleturtle-2",
+            "betAmount": 40000,
+            "option": 1
+          },
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 50000000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "623db1d4-915a-4d2b-bf83-c25c4709a9a5",
+            "username": "Homura",
+            "betAmount": 300000,
+            "option": 1
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 2273043,
+            "option": 1
+          },
+          {
+            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+            "username": "TowaBaby",
+            "betAmount": 50000,
+            "option": 1
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 25000,
+            "option": 1
+          },
+          {
+            "userid": "51712aad-0a34-4b10-a13c-1ea91dced49f",
+            "username": "pengu",
+            "betAmount": 250000,
+            "option": 1
+          },
+          {
+            "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+            "username": "REAPER REAPER",
+            "betAmount": 91155,
+            "option": 1
+          },
+          {
+            "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+            "username": "Imyourtarget",
+            "betAmount": 10000000,
+            "option": 1
+          }
+        ]
+      }
     }
   }
 }
