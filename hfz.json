@@ -30167,6 +30167,144 @@
           }
         ]
       }
+    },
+    "f360805b-3168-4df6-afb2-5c8f502c79a8": {
+      "id": "f360805b-3168-4df6-afb2-5c8f502c79a8",
+      "topic": "HoloFightZ - Match 13 - Extreme Rules",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 332699413,
+      "closingTime": 1659295847801,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Subaru"
+        },
+        {
+          "optionid": 1,
+          "option": "Sana"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "d151de00-6642-4807-8db7-615be63c0103",
+            "username": "skeleturtle-2",
+            "betAmount": 40000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 50000000,
+            "option": 0
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "3f01a558-87a8-4bcf-baef-84d87324b0e3",
+            "username": "[金] Pudding Management Firm",
+            "betAmount": 50000,
+            "option": 0
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 3054370,
+            "option": 0
+          },
+          {
+            "userid": "51712aad-0a34-4b10-a13c-1ea91dced49f",
+            "username": "pengu",
+            "betAmount": 200000,
+            "option": 0
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "623db1d4-915a-4d2b-bf83-c25c4709a9a5",
+            "username": "Homura",
+            "betAmount": 300000,
+            "option": 0
+          },
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 50000000,
+            "option": 0
+          },
+          {
+            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+            "username": "TowaBaby",
+            "betAmount": 10000,
+            "option": 0
+          },
+          {
+            "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+            "username": "REAPER REAPER",
+            "betAmount": 25043,
+            "option": 0
+          },
+          {
+            "userid": "5944d5e1-af54-4896-b84b-d8553a34ddc4",
+            "username": "worldbuilding chad",
+            "betAmount": 20000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 100000000,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 100000000,
+            "option": 1
+          },
+          {
+            "userid": "3f01a558-87a8-4bcf-baef-84d87324b0e3",
+            "username": "[金] Pudding Management Firm",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "51712aad-0a34-4b10-a13c-1ea91dced49f",
+            "username": "pengu",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+            "username": "s7unned",
+            "betAmount": 1000000,
+            "option": 1
+          }
+        ]
+      }
     }
   }
 }
