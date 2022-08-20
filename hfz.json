@@ -13558,9 +13558,18 @@
       "totalPool": 61129444,
       "closingTime": 1655046910227,
       "options": [
-        { "optionid": 0, "option": "Kureiji Ollie" },
-        { "optionid": 1, "option": "Anya Melfissa" },
-        { "optionid": 2, "option": "InDRAWnesia" }
+        {
+          "optionid": 0,
+          "option": "Kureiji Ollie"
+        },
+        {
+          "optionid": 1,
+          "option": "Anya Melfissa"
+        },
+        {
+          "optionid": 2,
+          "option": "InDRAWnesia"
+        }
       ],
       "userBets": {
         "0": [
@@ -18083,11 +18092,26 @@
       "totalPool": 30830000,
       "closingTime": 1655387152126,
       "options": [
-        { "optionid": 0, "option": "Watame" },
-        { "optionid": 1, "option": "Noel DX" },
-        { "optionid": 2, "option": "ELITE MIKO" },
-        { "optionid": 3, "option": "Marine" },
-        { "optionid": 4, "option": "Koyori" }
+        {
+          "optionid": 0,
+          "option": "Watame"
+        },
+        {
+          "optionid": 1,
+          "option": "Noel DX"
+        },
+        {
+          "optionid": 2,
+          "option": "ELITE MIKO"
+        },
+        {
+          "optionid": 3,
+          "option": "Marine"
+        },
+        {
+          "optionid": 4,
+          "option": "Koyori"
+        }
       ],
       "userBets": {
         "0": [
@@ -18236,9 +18260,18 @@
       "totalPool": 21605000,
       "closingTime": 1655392203265,
       "options": [
-        { "optionid": 0, "option": "ELITEMIKO" },
-        { "optionid": 1, "option": "Haachama" },
-        { "optionid": 2, "option": "Koyori" }
+        {
+          "optionid": 0,
+          "option": "ELITEMIKO"
+        },
+        {
+          "optionid": 1,
+          "option": "Haachama"
+        },
+        {
+          "optionid": 2,
+          "option": "Koyori"
+        }
       ],
       "userBets": {
         "0": [
@@ -18337,8 +18370,14 @@
       "totalPool": 1562215,
       "closingTime": 1655565650299,
       "options": [
-        { "optionid": 0, "option": "Yukimin" },
-        { "optionid": 1, "option": "Matsurisu" }
+        {
+          "optionid": 0,
+          "option": "Yukimin"
+        },
+        {
+          "optionid": 1,
+          "option": "Matsurisu"
+        }
       ],
       "userBets": {
         "0": [
@@ -18415,9 +18454,18 @@
       "totalPool": 4500000,
       "closingTime": 1655566694192,
       "options": [
-        { "optionid": 0, "option": "Bone Bros Inc." },
-        { "optionid": 1, "option": "Kenzoku & Heimin" },
-        { "optionid": 2, "option": "Draw" }
+        {
+          "optionid": 0,
+          "option": "Bone Bros Inc."
+        },
+        {
+          "optionid": 1,
+          "option": "Kenzoku & Heimin"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
       ],
       "userBets": {
         "0": [
@@ -18544,9 +18592,18 @@
       "totalPool": 37207256,
       "closingTime": 1655568072016,
       "options": [
-        { "optionid": 0, "option": "Fandead" },
-        { "optionid": 1, "option": "Investamigator" },
-        { "optionid": 2, "option": "Draw" }
+        {
+          "optionid": 0,
+          "option": "Fandead"
+        },
+        {
+          "optionid": 1,
+          "option": "Investamigator"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
       ],
       "userBets": {
         "0": [
@@ -18649,9 +18706,18 @@
       "totalPool": 30801666,
       "closingTime": 1655568831329,
       "options": [
-        { "optionid": 0, "option": "Hitomi Chris" },
-        { "optionid": 1, "option": "Plusmate" },
-        { "optionid": 2, "option": "The Legendary Double KO" }
+        {
+          "optionid": 0,
+          "option": "Hitomi Chris"
+        },
+        {
+          "optionid": 1,
+          "option": "Plusmate"
+        },
+        {
+          "optionid": 2,
+          "option": "The Legendary Double KO"
+        }
       ],
       "userBets": {
         "0": [
@@ -18778,9 +18844,18 @@
       "totalPool": 25630000,
       "closingTime": 1655569680000,
       "options": [
-        { "optionid": 0, "option": "Sun Tempo" },
-        { "optionid": 1, "option": "Uproar! -1" },
-        { "optionid": 2, "option": "Draw" }
+        {
+          "optionid": 0,
+          "option": "Sun Tempo"
+        },
+        {
+          "optionid": 1,
+          "option": "Uproar! -1"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
       ],
       "userBets": {
         "0": [
@@ -18901,11 +18976,24 @@
       "totalPool": 0,
       "closingTime": 1655571120000,
       "options": [
-        { "optionid": 0, "option": "Rosentai" },
-        { "optionid": 1, "option": "Shiokko" },
-        { "optionid": 2, "option": "Draw" }
+        {
+          "optionid": 0,
+          "option": "Rosentai"
+        },
+        {
+          "optionid": 1,
+          "option": "Shiokko"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
       ],
-      "userBets": { "0": [], "1": [], "2": [] }
+      "userBets": {
+        "0": [],
+        "1": [],
+        "2": []
+      }
     },
     "01369377-533b-464a-8bcf-0bc935a8dec9": {
       "id": "01369377-533b-464a-8bcf-0bc935a8dec9",
@@ -18915,9 +19003,18 @@
       "totalPool": 15058333,
       "closingTime": 1655571600000,
       "options": [
-        { "optionid": 0, "option": "Onigirya" },
-        { "optionid": 1, "option": "Koronesuki" },
-        { "optionid": 2, "option": "Draw" }
+        {
+          "optionid": 0,
+          "option": "Onigirya"
+        },
+        {
+          "optionid": 1,
+          "option": "Koronesuki"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
       ],
       "userBets": {
         "0": [
@@ -19020,8 +19117,14 @@
       "totalPool": 17013333,
       "closingTime": 1655572440000,
       "options": [
-        { "optionid": 0, "option": "35p & Omaruza" },
-        { "optionid": 1, "option": "Merakyat & KFP" }
+        {
+          "optionid": 0,
+          "option": "35p & Omaruza"
+        },
+        {
+          "optionid": 1,
+          "option": "Merakyat & KFP"
+        }
       ],
       "userBets": {
         "0": [
@@ -19068,12 +19171,30 @@
       "totalPool": 75432776,
       "closingTime": 1655574900000,
       "options": [
-        { "optionid": 0, "option": "Sukonbu" },
-        { "optionid": 1, "option": "Chocomate" },
-        { "optionid": 2, "option": "Zomrade" },
-        { "optionid": 3, "option": "Zecretary" },
-        { "optionid": 4, "option": "Hoshiyomi" },
-        { "optionid": 5, "option": "Nekko" }
+        {
+          "optionid": 0,
+          "option": "Sukonbu"
+        },
+        {
+          "optionid": 1,
+          "option": "Chocomate"
+        },
+        {
+          "optionid": 2,
+          "option": "Zomrade"
+        },
+        {
+          "optionid": 3,
+          "option": "Zecretary"
+        },
+        {
+          "optionid": 4,
+          "option": "Hoshiyomi"
+        },
+        {
+          "optionid": 5,
+          "option": "Nekko"
+        }
       ],
       "userBets": {
         "0": [
@@ -19236,8 +19357,14 @@
       "totalPool": 58000000,
       "closingTime": 1655576040000,
       "options": [
-        { "optionid": 0, "option": "R.Ratman & ENMa" },
-        { "optionid": 1, "option": "Rosa & BIG FOLLOWS" }
+        {
+          "optionid": 0,
+          "option": "R.Ratman & ENMa"
+        },
+        {
+          "optionid": 1,
+          "option": "Rosa & BIG FOLLOWS"
+        }
       ],
       "userBets": {
         "0": [
@@ -19302,8 +19429,14 @@
       "totalPool": 68440000,
       "closingTime": 1655576640000,
       "options": [
-        { "optionid": 0, "option": "Aragami Oga" },
-        { "optionid": 1, "option": "Aururandis" }
+        {
+          "optionid": 0,
+          "option": "Aragami Oga"
+        },
+        {
+          "optionid": 1,
+          "option": "Aururandis"
+        }
       ],
       "userBets": {
         "0": [
@@ -19374,8 +19507,14 @@
       "totalPool": 75384567,
       "closingTime": 1655580672856,
       "options": [
-        { "optionid": 0, "option": "Nakirigumi" },
-        { "optionid": 1, "option": "Haaton" }
+        {
+          "optionid": 0,
+          "option": "Nakirigumi"
+        },
+        {
+          "optionid": 1,
+          "option": "Haaton"
+        }
       ],
       "userBets": {
         "0": [
@@ -19440,8 +19579,14 @@
       "totalPool": 40750000,
       "closingTime": 1655581380000,
       "options": [
-        { "optionid": 0, "option": "Civia" },
-        { "optionid": 1, "option": "B.Rat" }
+        {
+          "optionid": 0,
+          "option": "Civia"
+        },
+        {
+          "optionid": 1,
+          "option": "B.Rat"
+        }
       ],
       "userBets": {
         "0": [
@@ -24301,9 +24446,18 @@
       "totalPool": 40809336,
       "closingTime": 1657984610672,
       "options": [
-        { "optionid": 0, "option": "Fauna" },
-        { "optionid": 1, "option": "Lamy" },
-        { "optionid": 2, "option": "Draw" }
+        {
+          "optionid": 0,
+          "option": "Fauna"
+        },
+        {
+          "optionid": 1,
+          "option": "Lamy"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
       ],
       "userBets": {
         "0": [
@@ -24478,8 +24632,14 @@
       "totalPool": 81809328,
       "closingTime": 1657985502503,
       "options": [
-        { "optionid": 0, "option": "Team HELL NAAAAAAAAAAAAAAAAAAAAAAAA" },
-        { "optionid": 1, "option": "La+ & Lui" }
+        {
+          "optionid": 0,
+          "option": "Team HELL NAAAAAAAAAAAAAAAAAAAAAAAA"
+        },
+        {
+          "optionid": 1,
+          "option": "La+ & Lui"
+        }
       ],
       "userBets": {
         "0": [
@@ -24658,9 +24818,18 @@
       "totalPool": 88463770,
       "closingTime": 1657986060000,
       "options": [
-        { "optionid": 0, "option": "Korone" },
-        { "optionid": 1, "option": "Fubuki" },
-        { "optionid": 2, "option": "Draw" }
+        {
+          "optionid": 0,
+          "option": "Korone"
+        },
+        {
+          "optionid": 1,
+          "option": "Fubuki"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
       ],
       "userBets": {
         "0": [
@@ -24901,9 +25070,18 @@
       "totalPool": 66031249,
       "closingTime": 1657986721152,
       "options": [
-        { "optionid": 0, "option": "Reine" },
-        { "optionid": 1, "option": "Anya" },
-        { "optionid": 2, "option": "Ollie" }
+        {
+          "optionid": 0,
+          "option": "Reine"
+        },
+        {
+          "optionid": 1,
+          "option": "Anya"
+        },
+        {
+          "optionid": 2,
+          "option": "Ollie"
+        }
       ],
       "userBets": {
         "0": [
@@ -25120,9 +25298,18 @@
       "totalPool": 144739112,
       "closingTime": 1657990620000,
       "options": [
-        { "optionid": 0, "option": "Kanata & Watamage" },
-        { "optionid": 1, "option": "The Timeline" },
-        { "optionid": 2, "option": "Draw" }
+        {
+          "optionid": 0,
+          "option": "Kanata & Watamage"
+        },
+        {
+          "optionid": 1,
+          "option": "The Timeline"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
       ],
       "userBets": {
         "0": [
@@ -25363,8 +25550,14 @@
       "totalPool": 102876666,
       "closingTime": 1657991409531,
       "options": [
-        { "optionid": 0, "option": "Nene" },
-        { "optionid": 1, "option": "Iroha" }
+        {
+          "optionid": 0,
+          "option": "Nene"
+        },
+        {
+          "optionid": 1,
+          "option": "Iroha"
+        }
       ],
       "userBets": {
         "0": [
@@ -25525,9 +25718,18 @@
       "totalPool": 144800951,
       "closingTime": 1657992240000,
       "options": [
-        { "optionid": 0, "option": "IoSoRadio" },
-        { "optionid": 1, "option": "BEST FRIENDS" },
-        { "optionid": 2, "option": "Draw" }
+        {
+          "optionid": 0,
+          "option": "IoSoRadio"
+        },
+        {
+          "optionid": 1,
+          "option": "BEST FRIENDS"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
       ],
       "userBets": {
         "0": [
@@ -25744,10 +25946,22 @@
       "totalPool": 70285121,
       "closingTime": 1657993628034,
       "options": [
-        { "optionid": 0, "option": "Ina" },
-        { "optionid": 1, "option": "Gura" },
-        { "optionid": 2, "option": "Kiara" },
-        { "optionid": 3, "option": "Mori" }
+        {
+          "optionid": 0,
+          "option": "Ina"
+        },
+        {
+          "optionid": 1,
+          "option": "Gura"
+        },
+        {
+          "optionid": 2,
+          "option": "Kiara"
+        },
+        {
+          "optionid": 3,
+          "option": "Mori"
+        }
       ],
       "userBets": {
         "0": [
@@ -25936,8 +26150,14 @@
       "totalPool": 121720353,
       "closingTime": 1657994340490,
       "options": [
-        { "optionid": 0, "option": "Mikoler" },
-        { "optionid": 1, "option": "Battler" }
+        {
+          "optionid": 0,
+          "option": "Mikoler"
+        },
+        {
+          "optionid": 1,
+          "option": "Battler"
+        }
       ],
       "userBets": {
         "0": [
@@ -26116,8 +26336,14 @@
       "totalPool": 155215755,
       "closingTime": 1657995747290,
       "options": [
-        { "optionid": 0, "option": "Baerys" },
-        { "optionid": 1, "option": "COEXIST" }
+        {
+          "optionid": 0,
+          "option": "Baerys"
+        },
+        {
+          "optionid": 1,
+          "option": "COEXIST"
+        }
       ],
       "userBets": {
         "0": [
@@ -26254,8 +26480,14 @@
       "totalPool": 187787000,
       "closingTime": 1657997013812,
       "options": [
-        { "optionid": 0, "option": "Sana" },
-        { "optionid": 1, "option": "Haachama" }
+        {
+          "optionid": 0,
+          "option": "Sana"
+        },
+        {
+          "optionid": 1,
+          "option": "Haachama"
+        }
       ],
       "userBets": {
         "0": [
@@ -26400,8 +26632,14 @@
       "totalPool": 14550000,
       "closingTime": 1658070000000,
       "options": [
-        { "optionid": 0, "option": "Laplus" },
-        { "optionid": 1, "option": "Towasama" }
+        {
+          "optionid": 0,
+          "option": "Laplus"
+        },
+        {
+          "optionid": 1,
+          "option": "Towasama"
+        }
       ],
       "userBets": {
         "0": [
@@ -26466,9 +26704,18 @@
       "totalPool": 20835000,
       "closingTime": 1658073088950,
       "options": [
-        { "optionid": 0, "option": "Laplus" },
-        { "optionid": 1, "option": "Lui" },
-        { "optionid": 2, "option": "Draw" }
+        {
+          "optionid": 0,
+          "option": "Laplus"
+        },
+        {
+          "optionid": 1,
+          "option": "Lui"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
       ],
       "userBets": {
         "0": [
@@ -26547,14 +26794,38 @@
       "totalPool": 88395000,
       "closingTime": 1658074112156,
       "options": [
-        { "optionid": 0, "option": "Lui" },
-        { "optionid": 1, "option": "Laplus" },
-        { "optionid": 2, "option": "Koyori" },
-        { "optionid": 3, "option": "Marine" },
-        { "optionid": 4, "option": "Kanatan" },
-        { "optionid": 5, "option": "Luna" },
-        { "optionid": 6, "option": "Towasama" },
-        { "optionid": 7, "option": "Haachama" }
+        {
+          "optionid": 0,
+          "option": "Lui"
+        },
+        {
+          "optionid": 1,
+          "option": "Laplus"
+        },
+        {
+          "optionid": 2,
+          "option": "Koyori"
+        },
+        {
+          "optionid": 3,
+          "option": "Marine"
+        },
+        {
+          "optionid": 4,
+          "option": "Kanatan"
+        },
+        {
+          "optionid": 5,
+          "option": "Luna"
+        },
+        {
+          "optionid": 6,
+          "option": "Towasama"
+        },
+        {
+          "optionid": 7,
+          "option": "Haachama"
+        }
       ],
       "userBets": {
         "0": [
@@ -26861,9 +27132,18 @@
       "totalPool": 755000,
       "closingTime": 1658503344247,
       "options": [
-        { "optionid": 0, "option": "Amelia Wanson" },
-        { "optionid": 1, "option": "Bee Ame" },
-        { "optionid": 2, "option": "Minecraft Ame" }
+        {
+          "optionid": 0,
+          "option": "Amelia Wanson"
+        },
+        {
+          "optionid": 1,
+          "option": "Bee Ame"
+        },
+        {
+          "optionid": 2,
+          "option": "Minecraft Ame"
+        }
       ],
       "userBets": {
         "0": [
@@ -26936,8 +27216,14 @@
       "totalPool": 1015000,
       "closingTime": 1658504520000,
       "options": [
-        { "optionid": 0, "option": "Amelia Bowson (forma de Oblivion)" },
-        { "optionid": 1, "option": "Amelia Bowson (forma de Elden Ring)" }
+        {
+          "optionid": 0,
+          "option": "Amelia Bowson (forma de Oblivion)"
+        },
+        {
+          "optionid": 1,
+          "option": "Amelia Bowson (forma de Elden Ring)"
+        }
       ],
       "userBets": {
         "0": [
@@ -26996,8 +27282,14 @@
       "totalPool": 2065000,
       "closingTime": 1658505390011,
       "options": [
-        { "optionid": 0, "option": "Amelia Watson" },
-        { "optionid": 1, "option": "Amelia Buffson" }
+        {
+          "optionid": 0,
+          "option": "Amelia Watson"
+        },
+        {
+          "optionid": 1,
+          "option": "Amelia Buffson"
+        }
       ],
       "userBets": {
         "0": [
@@ -27056,8 +27348,14 @@
       "totalPool": 1620000,
       "closingTime": 1658505976851,
       "options": [
-        { "optionid": 0, "option": "Armando Watson" },
-        { "optionid": 1, "option": "Amelia Watson" }
+        {
+          "optionid": 0,
+          "option": "Armando Watson"
+        },
+        {
+          "optionid": 1,
+          "option": "Amelia Watson"
+        }
       ],
       "userBets": {
         "0": [
@@ -27104,9 +27402,18 @@
       "totalPool": 1345000,
       "closingTime": 1658502637500,
       "options": [
-        { "optionid": 0, "option": "Ryan & Investigator" },
-        { "optionid": 1, "option": "Bubba & Henri" },
-        { "optionid": 2, "option": "Draw, somehow" }
+        {
+          "optionid": 0,
+          "option": "Ryan & Investigator"
+        },
+        {
+          "optionid": 1,
+          "option": "Bubba & Henri"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw, somehow"
+        }
       ],
       "userBets": {
         "0": [
@@ -30310,7 +30617,7 @@
       "id": "20cc7a3e-5377-4b72-bbef-d1624fb861f6",
       "topic": "HoloFightZ - Match 14 - Title vs Title",
       "open": false,
-      "winOption":  1,
+      "winOption": 1,
       "totalPool": 411410808,
       "closingTime": 1659296400000,
       "options": [
@@ -31702,6 +32009,530 @@
             "username": "Bombshell Blondes Banking",
             "betAmount": 1000000,
             "option": 2
+          }
+        ]
+      }
+    }
+  }
+  "08-20-2022 Immagine Not Using YYYY-MM-DD": {
+    "59a5cb42-a163-4f5b-bd34-4a4dc0a00f07": {
+      "id": "59a5cb42-a163-4f5b-bd34-4a4dc0a00f07",
+      "topic": "HoloFightZ - Match 3 - Blood Elimination",
+      "open": false,
+      "winOption": 3,
+      "totalPool": 59536362,
+      "closingTime": 1661010480000,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Matsuri"
+        },
+        {
+          "optionid": 1,
+          "option": "Fubuki"
+        },
+        {
+          "optionid": 2,
+          "option": "Anya"
+        },
+        {
+          "optionid": 3,
+          "option": "Mikoler"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "e869bf05-bb93-43d1-bcdb-834763fa8972",
+            "username": "Lurker Tako",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "5944d5e1-af54-4896-b84b-d8553a34ddc4",
+            "username": "worldbuilding chad",
+            "betAmount": 40000,
+            "option": 0
+          },
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 3000000,
+            "option": 0
+          },
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki is cute",
+            "betAmount": 1500000,
+            "option": 0
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 150000,
+            "option": 0
+          },
+          {
+            "userid": "6e42912f-8398-4097-ab3f-6826796c8999",
+            "username": "Reverse",
+            "betAmount": 400000,
+            "option": 0
+          },
+          {
+            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+            "username": "6letters",
+            "betAmount": 10000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 2000000,
+            "option": 1
+          },
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 150000,
+            "option": 1
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 10000,
+            "option": 1
+          },
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 2000000,
+            "option": 1
+          },
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki is cute",
+            "betAmount": 1500000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 200000,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 50000,
+            "option": 1
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 3333333,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+            "username": "HFZArchiveAnon",
+            "betAmount": 100000,
+            "option": 2
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000000,
+            "option": 2
+          },
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 350000,
+            "option": 2
+          },
+          {
+            "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+            "username": "Kilimansharo",
+            "betAmount": 20000000,
+            "option": 2
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 15000,
+            "option": 2
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 750000,
+            "option": 2
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 300000,
+            "option": 2
+          }
+        ],
+        "3": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 3000000,
+            "option": 3
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 2000000,
+            "option": 3
+          },
+          {
+            "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+            "username": "TFRBATTLERISGAY",
+            "betAmount": 5000,
+            "option": 3
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 1000000,
+            "option": 3
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 500000,
+            "option": 3
+          },
+          {
+            "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+            "username": "REAPER REAPER",
+            "betAmount": 58029,
+            "option": 3
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 125000,
+            "option": 3
+          }
+        ]
+      }
+    },
+    "8efcaa3f-3e79-4851-ba3c-d83e51ad62fe": {
+      "id": "8efcaa3f-3e79-4851-ba3c-d83e51ad62fe",
+      "topic": "HoloFightZ - Match 2 - One Fall",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 86417024,
+      "closingTime": 1661009460000,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Suisei"
+        },
+        {
+          "optionid": 1,
+          "option": "Risu"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+            "username": "HFZArchiveAnon",
+            "betAmount": 5000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 2000000,
+            "option": 0
+          },
+          {
+            "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+            "username": "TFRBATTLERISGAY",
+            "betAmount": 5000,
+            "option": 0
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 5000000,
+            "option": 0
+          },
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 500000,
+            "option": 0
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+            "username": "REAPER REAPER",
+            "betAmount": 82024,
+            "option": 0
+          },
+          {
+            "userid": "e869bf05-bb93-43d1-bcdb-834763fa8972",
+            "username": "Lurker Tako",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 9000000,
+            "option": 0
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 50000,
+            "option": 0
+          },
+          {
+            "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+            "username": "s7unned",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 250000,
+            "option": 0
+          },
+          {
+            "userid": "5944d5e1-af54-4896-b84b-d8553a34ddc4",
+            "username": "worldbuilding chad",
+            "betAmount": 40000,
+            "option": 0
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 5000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 50000000,
+            "option": 1
+          },
+          {
+            "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+            "username": "HFZArchiveAnon",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 10000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+            "username": "HFZArchiveAnon",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 2
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 100000,
+            "option": 2
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 150000,
+            "option": 2
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 50000,
+            "option": 2
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 10000,
+            "option": 2
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 50000,
+            "option": 2
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 5000,
+            "option": 2
+          }
+        ]
+      }
+    },
+    "702cc048-f747-4ace-b166-e810edde9636": {
+      "id": "702cc048-f747-4ace-b166-e810edde9636",
+      "topic": "HoloFightZ - Match 1 - Extreme Rules",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 210720000,
+      "closingTime": 1661008523463,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Iofi"
+        },
+        {
+          "optionid": 1,
+          "option": "Nene"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 100000000,
+            "option": 0
+          },
+          {
+            "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+            "username": "[HFZ] ELFS99",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 500000,
+            "option": 0
+          },
+          {
+            "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+            "username": "sanQ",
+            "betAmount": 10000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+            "username": "HFZArchiveAnon",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 100000000,
+            "option": 1
+          },
+          {
+            "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+            "username": "TFRBATTLERISGAY",
+            "betAmount": 5000,
+            "option": 1
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+            "username": "REAPER REAPER",
+            "betAmount": 5000,
+            "option": 1
+          },
+          {
+            "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+            "username": "DibbyDabba",
+            "betAmount": 500000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 2000000,
+            "option": 1
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 1500000,
+            "option": 1
+          },
+          {
+            "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+            "username": "s7unned",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+            "username": "6letters",
+            "betAmount": 3000000,
+            "option": 1
           }
         ]
       }
