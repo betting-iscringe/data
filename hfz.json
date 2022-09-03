@@ -34370,7 +34370,7 @@
     }
   },
 	"09-03 Akarana Corridor": {
-		"e6506258-57f1-4837-b884-10ee0b909b71": {
+    "e6506258-57f1-4837-b884-10ee0b909b71": {
       "id": "e6506258-57f1-4837-b884-10ee0b909b71",
       "topic": "Akarana Corridor - Match 1 - One Fall",
       "open": false,
@@ -34430,7 +34430,7 @@
         ]
       }
     },
-		"c51a22fa-fd28-4564-b40d-2b36dc2a086e": {
+    "c51a22fa-fd28-4564-b40d-2b36dc2a086e": {
       "id": "c51a22fa-fd28-4564-b40d-2b36dc2a086e",
       "topic": "Akarana Corridor - Match 2 - Tag Match (One Fall)",
       "open": false,
@@ -34514,7 +34514,7 @@
         ]
       }
     },
-		"6f7b54b8-26e2-42f6-850a-634919a72211": {
+    "6f7b54b8-26e2-42f6-850a-634919a72211": {
       "id": "6f7b54b8-26e2-42f6-850a-634919a72211",
       "topic": "Akarana Corridor - Match 3 - Extreme Rules",
       "open": false,
@@ -34592,7 +34592,7 @@
         ]
       }
     },
-		"2f32a58c-cf72-4ac2-99c1-10f73606fe72": {
+    "2f32a58c-cf72-4ac2-99c1-10f73606fe72": {
       "id": "2f32a58c-cf72-4ac2-99c1-10f73606fe72",
       "topic": "Akarana Corridor - Match 4 - Yakuza Standoff Match",
       "open": false,
@@ -34664,7 +34664,7 @@
         ]
       }
     },
-		"d91dc3aa-e8ac-413f-9063-4cd078fdf9a3": {
+    "d91dc3aa-e8ac-413f-9063-4cd078fdf9a3": {
       "id": "d91dc3aa-e8ac-413f-9063-4cd078fdf9a3",
       "topic": "Akarana Corridor - Match 5 - Ironman Submission",
       "open": false,
@@ -34777,6 +34777,84 @@
           }
         ]
       }
-		}
-	}
+    },
+    "af18802f-8d71-4be8-95f9-881aba158b45": {
+      "id": "af18802f-8d71-4be8-95f9-881aba158b45",
+      "topic": "Akarana Corridor - Match 6 - Money-In-The-Bank",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 102633333,
+      "closingTime": 1662215280000,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Mikoler"
+        },
+        {
+          "optionid": 1,
+          "option": "Zeta 47"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 5000000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 30000000,
+            "option": 0
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 3333333,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 2000000,
+            "option": 0
+          },
+          {
+            "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+            "username": "[草] Multi-Level Marketing",
+            "betAmount": 9200000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 50000000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 2000000,
+            "option": 1
+          }
+        ]
+      }
+    }
+  }
 }
