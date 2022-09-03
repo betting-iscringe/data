@@ -35113,6 +35113,138 @@
           }
         ]
       }
+    },
+		"c9ef3cf1-e222-435d-8bec-a0bfb1d0cb71": {
+      "id": "c9ef3cf1-e222-435d-8bec-a0bfb1d0cb71",
+      "topic": "Akarana Corridor - Match 10 - Royal Rumble",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 115433332,
+      "closingTime": 1662223440000,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "#14 - Battler Show"
+        },
+        {
+          "optionid": 1,
+          "option": "#19 - Shadow BANS"
+        },
+        {
+          "optionid": 2,
+          "option": "#26 - Kiryuler"
+        },
+        {
+          "optionid": 3,
+          "option": "#28 - Hunkler"
+        },
+        {
+          "optionid": 4,
+          "option": "#30 - Cape Battler"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 2000000,
+            "option": 0
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 3000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 5000000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 2
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 2000000,
+            "option": 2
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 4444444,
+            "option": 2
+          }
+        ],
+        "3": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 3
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 14444444,
+            "option": 3
+          }
+        ],
+        "4": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 5000000,
+            "option": 4
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 4
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 4
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 5000000,
+            "option": 4
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 14444444,
+            "option": 4
+          }
+        ]
+      }
     }
   }
 }
