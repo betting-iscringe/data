@@ -34369,7 +34369,7 @@
       }
     }
   },
-	"Akarana Corridor": {
+	"09-03 Akarana Corridor": {
 		"e6506258-57f1-4837-b884-10ee0b909b71": {
       "id": "e6506258-57f1-4837-b884-10ee0b909b71",
       "topic": "Akarana Corridor - Match 1 - One Fall",
@@ -34433,9 +34433,9 @@
 		"c51a22fa-fd28-4564-b40d-2b36dc2a086e": {
       "id": "c51a22fa-fd28-4564-b40d-2b36dc2a086e",
       "topic": "Akarana Corridor - Match 2 - Tag Match (One Fall)",
-      "open": true,
-      "winOption": null,
-      "totalPool": 150000,
+      "open": false,
+      "winOption": 0,
+      "totalPool": 2510000,
       "closingTime": 1662211320000,
       "options": [
         {
@@ -34452,17 +34452,67 @@
         }
       ],
       "userBets": {
-        "0": [],
+        "0": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 500000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 300000,
+            "option": 0
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 300000,
+            "option": 0
+          }
+        ],
         "1": [
           {
             "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
             "username": "Bombshell Blondes Banking",
             "betAmount": 150000,
             "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 150000,
+            "option": 1
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 1000000,
+            "option": 1
           }
         ],
-        "2": []
+        "2": [
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 5000,
+            "option": 2
+          }
+        ]
       }
-    }
+    },
 	}
 }
