@@ -34514,5 +34514,83 @@
         ]
       }
     },
+		"6f7b54b8-26e2-42f6-850a-634919a72211": {
+      "id": "6f7b54b8-26e2-42f6-850a-634919a72211",
+      "topic": "Akarana Corridor - Match 3 - Extreme Rules",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 23711111,
+      "closingTime": 1662212340000,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Kanata"
+        },
+        {
+          "optionid": 1,
+          "option": "Suisei"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 200000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 15000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 5000000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 1000000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 111111,
+            "option": 1
+          },
+          {
+            "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+            "username": "Aki is cute",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+            "username": "[草] Multi-Level Marketing",
+            "betAmount": 2100000,
+            "option": 1
+          }
+        ]
+      }
+    }
 	}
 }
