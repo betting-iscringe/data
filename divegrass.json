@@ -20520,5 +20520,259 @@
         ]
       }
     }
+  },
+  "VTL3 Day 2": {
+    "3e1c9f11-558f-4d4a-bb87-9575bf00c9e6": {
+      "id": "3e1c9f11-558f-4d4a-bb87-9575bf00c9e6",
+      "topic": "/vt/ League 3 - Day 2 - Game 1",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 253707222,
+      "closingTime": 1662222600000,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "/wvt/ proves their chops are worth the Big Time."
+        },
+        {
+          "optionid": 1,
+          "option": "/nijiEN/ ignores the indies and debuts another 3 waves of TikTok stars."
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+            "username": "TowaBaby",
+            "betAmount": 10000,
+            "option": 0
+          },
+          {
+            "userid": "328d6f2c-e3c3-4f01-a733-4df914da266f",
+            "username": "Retard",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+            "username": "[天] Tenshi X Tenshi X Tenshi",
+            "betAmount": 35000000,
+            "option": 0
+          },
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 50000000,
+            "option": 0
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 1000000,
+            "option": 0
+          },
+          {
+            "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+            "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "db341495-f3b8-4c7c-b059-f469632f9934",
+            "username": "menherafoxgood",
+            "betAmount": 15000,
+            "option": 0
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 3000000,
+            "option": 0
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 2000000,
+            "option": 0
+          },
+          {
+            "userid": "260b78a4-c844-4504-8564-9743b53b5183",
+            "username": "Majick",
+            "betAmount": 10000,
+            "option": 0
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 11111111,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+            "username": "HFZArchiveAnon",
+            "betAmount": 500000,
+            "option": 1
+          },
+          {
+            "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+            "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+            "betAmount": 150000,
+            "option": 1
+          },
+          {
+            "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+            "username": "Kilimansharo",
+            "betAmount": 35000000,
+            "option": 1
+          },
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 50000000,
+            "option": 1
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 4000000,
+            "option": 1
+          },
+          {
+            "userid": "21d89d86-85bd-426f-a9ef-ebe396cb6da1",
+            "username": "Risuna69",
+            "betAmount": 10000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+            "username": "sakura matou fan 2001",
+            "betAmount": 1000000,
+            "option": 2
+          },
+          {
+            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+            "username": "TowaBaby",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 1000000,
+            "option": 2
+          },
+          {
+            "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+            "username": "[天] Tenshi X Tenshi X Tenshi",
+            "betAmount": 5000000,
+            "option": 2
+          },
+          {
+            "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+            "username": "[1 Free Financial Advice]",
+            "betAmount": 100000,
+            "option": 2
+          },
+          {
+            "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+            "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+            "betAmount": 150000,
+            "option": 2
+          },
+          {
+            "userid": "2533c120-958b-4299-bd55-c9e5c5185401",
+            "username": "Lolibaba    ",
+            "betAmount": 5000000,
+            "option": 2
+          },
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 5000000,
+            "option": 2
+          },
+          {
+            "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+            "username": "TFRBATTLERISGAY",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "db341495-f3b8-4c7c-b059-f469632f9934",
+            "username": "menherafoxgood",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 1000000,
+            "option": 2
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 150000,
+            "option": 2
+          },
+          {
+            "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+            "username": "Asdae",
+            "betAmount": 1111111,
+            "option": 2
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 75000,
+            "option": 2
+          },
+          {
+            "userid": "b62d41ca-da98-41eb-875c-dd84f8216431",
+            "username": "暗闇の中でダンサー",
+            "betAmount": 10000000,
+            "option": 2
+          },
+          {
+            "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+            "username": "6letters",
+            "betAmount": 100000,
+            "option": 2
+          }
+        ]
+      }
+    }
   }
 }
