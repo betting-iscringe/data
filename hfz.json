@@ -34368,5 +34368,101 @@
         ]
       }
     }
-  }
+  },
+	"Akarana Corridor": {
+		"e6506258-57f1-4837-b884-10ee0b909b71": {
+      "id": "e6506258-57f1-4837-b884-10ee0b909b71",
+      "topic": "Akarana Corridor - Match 1 - One Fall",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 3461111,
+      "closingTime": 1662210653184,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Tokino Sora"
+        },
+        {
+          "optionid": 1,
+          "option": "Yoruno Sora"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 111111,
+            "option": 0
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 200000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 3000000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 50000,
+            "option": 2
+          }
+        ]
+      }
+    },
+		"c51a22fa-fd28-4564-b40d-2b36dc2a086e": {
+      "id": "c51a22fa-fd28-4564-b40d-2b36dc2a086e",
+      "topic": "Akarana Corridor - Match 2 - Tag Match (One Fall)",
+      "open": true,
+      "winOption": null,
+      "totalPool": 150000,
+      "closingTime": 1662211320000,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Team HELL NAAAAAAAAAAAAAAAAAAAAAAAA"
+        },
+        {
+          "optionid": 1,
+          "option": "Pekora World Order"
+        },
+        {
+          "optionid": 2,
+          "option": "Draw"
+        }
+      ],
+      "userBets": {
+        "0": [],
+        "1": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 150000,
+            "option": 1
+          }
+        ],
+        "2": []
+      }
+    }
+	}
 }
