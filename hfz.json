@@ -35035,6 +35035,84 @@
           }
         ]
       }
+    },
+		"700f84ba-9824-4665-bf2f-8990de735160": {
+      "id": "700f84ba-9824-4665-bf2f-8990de735160",
+      "topic": "Akarana Corridor - Match 9 - Seiryu Tournament",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 179100000,
+      "closingTime": 1662218880000,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "IRyS"
+        },
+        {
+          "optionid": 1,
+          "option": "Coco"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 60000000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 10000000,
+            "option": 0
+          },
+          {
+            "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+            "username": "[草] Multi-Level Marketing",
+            "betAmount": 16000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 50000000,
+            "option": 1
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 10000000,
+            "option": 1
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 3000000,
+            "option": 1
+          }
+        ]
+      }
     }
   }
 }
