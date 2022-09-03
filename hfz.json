@@ -34969,6 +34969,72 @@
           }
         ]
       }
+    },
+		"2b9cafb0-2f46-43e3-9cbc-2de92071d1d1": {
+      "id": "2b9cafb0-2f46-43e3-9cbc-2de92071d1d1",
+      "topic": "Akarana Corridor - Match 8 - King of Kings",
+      "open": false,
+      "winOption": 0,
+      "totalPool": 160100000,
+      "closingTime": 1662217920000,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "King Ayame"
+        },
+        {
+          "optionid": 1,
+          "option": "King Towa"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+            "username": "become lamy",
+            "betAmount": 50000000,
+            "option": 0
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 20000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 50000000,
+            "option": 1
+          },
+          {
+            "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+            "username": "towasamarich",
+            "betAmount": 10000000,
+            "option": 1
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 10000000,
+            "option": 1
+          }
+        ]
+      }
     }
   }
 }
