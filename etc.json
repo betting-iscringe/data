@@ -4475,5 +4475,145 @@
         ]
       }
     }
- }
+  },
+  "Stars L4D2": {
+    "ddf2afd1-d6e1-47da-8676-e826159f0b2a": {
+      "id": "ddf2afd1-d6e1-47da-8676-e826159f0b2a",
+      "topic": "Who will win L4D2 VS?",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 129280000,
+      "closingTime": 1662264000000,
+      "options": [
+        {
+          "optionid": 0,
+          "option": "Tempus Guild"
+        },
+        {
+          "optionid": 1,
+          "option": "Team JP"
+        },
+        {
+          "optionid": 2,
+          "option": "It will SOMEHOW be a draw"
+        }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+            "username": "TowaBaby",
+            "betAmount": 5000,
+            "option": 0
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "03ca4038-9e05-4c64-ab48-f21b68797f72",
+            "username": "funnymonkey123",
+            "betAmount": 10000,
+            "option": 0
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 20000000,
+            "option": 0
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 0
+          },
+          {
+            "userid": "4e9796c4-dc45-4adc-9ee1-0729f7f95490",
+            "username": "Shubamebachi",
+            "betAmount": 5000000,
+            "option": 0
+          },
+          {
+            "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+            "username": "Kilimansharo",
+            "betAmount": 30000000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 20000000,
+            "option": 1
+          },
+          {
+            "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+            "username": "butwhy...",
+            "betAmount": 10000000,
+            "option": 1
+          },
+          {
+            "userid": "51712aad-0a34-4b10-a13c-1ea91dced49f",
+            "username": "pengu",
+            "betAmount": 2000000,
+            "option": 1
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 100000,
+            "option": 1
+          },
+          {
+            "userid": "f6a1a05a-c60d-4d67-bd54-1405a96cc6e7",
+            "username": "Chiara",
+            "betAmount": 1000000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+            "username": "TowaBaby",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 20000000,
+            "option": 2
+          },
+          {
+            "userid": "03ca4038-9e05-4c64-ab48-f21b68797f72",
+            "username": "funnymonkey123",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 5000,
+            "option": 2
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 50000,
+            "option": 2
+          },
+          {
+            "userid": "4e9796c4-dc45-4adc-9ee1-0729f7f95490",
+            "username": "Shubamebachi",
+            "betAmount": 1000000,
+            "option": 2
+          }
+        ]
+      }
+    }
+  }
 }
