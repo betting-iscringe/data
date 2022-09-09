@@ -26495,6 +26495,222 @@
           }
         ]
       }
+    },
+    "a4f0e86d-d452-425c-856c-51b43f4a943f": {
+      "id": "a4f0e86d-d452-425c-856c-51b43f4a943f",
+      "topic": "Who gets the 500th VTL goal?",
+      "open": false,
+      "winOption": 1,
+      "totalPool": 2810183,
+      "closingTime": 1662742800000,
+      "options": [
+        { "optionid": 0, "option": "/2434/" },
+        { "optionid": 1, "option": "/774/" },
+        { "optionid": 2, "option": "/chama/" },
+        { "optionid": 3, "option": "/hag/" },
+        { "optionid": 4, "option": "/hlgg/" },
+        { "optionid": 5, "option": "/lig/" },
+        { "optionid": 6, "option": "/manstars/" },
+        { "optionid": 7, "option": "/mogu/" },
+        { "optionid": 8, "option": "/moon/" },
+        { "optionid": 9, "option": "/morig/" },
+        { "optionid": 10, "option": "/nepolabo/" },
+        { "optionid": 11, "option": "/nijiEN/" },
+        { "optionid": 12, "option": "/vrt/" },
+        { "optionid": 13, "option": "/wah/" },
+        { "optionid": 14, "option": "/wvt/" },
+        { "optionid": 15, "option": "/ybc/" }
+      ],
+      "userBets": {
+        "0": [
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 5000,
+            "option": 0
+          }
+        ],
+        "1": [
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 5000,
+            "option": 1
+          }
+        ],
+        "2": [
+          {
+            "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+            "username": "💕HeartAttack💓 Financials",
+            "betAmount": 500000,
+            "option": 2
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 15000,
+            "option": 2
+          }
+        ],
+        "3": [
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 50000,
+            "option": 3
+          }
+        ],
+        "4": [
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 5000,
+            "option": 4
+          }
+        ],
+        "5": [
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 444444,
+            "option": 5
+          },
+          {
+            "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+            "username": "IKZ",
+            "betAmount": 138644,
+            "option": 5
+          }
+        ],
+        "6": [
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 50000,
+            "option": 6
+          }
+        ],
+        "7": [
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 5000,
+            "option": 7
+          },
+          {
+            "userid": "889a7f7f-9803-440e-b4a4-bdf75b97c5f0",
+            "username": "Tomato",
+            "betAmount": 50000,
+            "option": 7
+          }
+        ],
+        "8": [
+          {
+            "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+            "username": "[天] Tenshi X Tenshi X Tenshi",
+            "betAmount": 100000,
+            "option": 8
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 5000,
+            "option": 8
+          },
+          {
+            "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+            "username": "Kilimansharo",
+            "betAmount": 137651,
+            "option": 8
+          }
+        ],
+        "9": [
+          {
+            "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+            "username": "[造] Triangle Consulting",
+            "betAmount": 444444,
+            "option": 9
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 5000,
+            "option": 9
+          },
+          {
+            "userid": "260b78a4-c844-4504-8564-9743b53b5183",
+            "username": "Majick",
+            "betAmount": 20000,
+            "option": 9
+          }
+        ],
+        "10": [
+          {
+            "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+            "username": "[天] Tenshi X Tenshi X Tenshi",
+            "betAmount": 100000,
+            "option": 10
+          },
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 5000,
+            "option": 10
+          },
+          {
+            "userid": "889a7f7f-9803-440e-b4a4-bdf75b97c5f0",
+            "username": "Tomato",
+            "betAmount": 50000,
+            "option": 10
+          }
+        ],
+        "11": [
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 5000,
+            "option": 11
+          }
+        ],
+        "12": [
+          {
+            "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+            "username": "Bombshell Blondes Banking",
+            "betAmount": 500000,
+            "option": 12
+          }
+        ],
+        "13": [
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 5000,
+            "option": 13
+          }
+        ],
+        "14": [
+          {
+            "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+            "username": "[草] potato",
+            "betAmount": 15000,
+            "option": 14
+          }
+        ],
+        "15": [
+          {
+            "userid": "328d6f2c-e3c3-4f01-a733-4df914da266f",
+            "username": "Retard",
+            "betAmount": 100000,
+            "option": 15
+          },
+          {
+            "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+            "username": "BeerSalad",
+            "betAmount": 50000,
+            "option": 15
+          }
+        ]
+      }
     }
   }
 }
