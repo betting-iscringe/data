@@ -1,0 +1,684 @@
+{
+  "cc4664d8-9036-465a-bf29-257449c2daad": {
+    "id": "cc4664d8-9036-465a-bf29-257449c2daad",
+    "topic": "4cc Spring Babby Day 2 - /vt/ vs /trv/",
+    "winOption": "0",
+    "timestamp": 1651930100470,
+    "poolTotal": 84450887,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/vt/ will force /trv/ to debut as a comically large spoon vtuber"
+      },
+      {
+        "optionid": 1,
+        "option": "/trv/ will give /vt/ an all-expenses-paid 3-day 2-night stay in the Spoonerville Resort"
+      },
+      { "optionid": 2, "option": "There will somehow be a draw" }
+    ],
+    "archive": true,
+    "userBets": [
+      {
+        "userid": "026f62f4-ae25-4c4e-a9b5-0912a55bf82c",
+        "username": "Joe",
+        "winAmount": 1355239.52
+      },
+      {
+        "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+        "username": "towasamarich",
+        "winAmount": 19404.940000000002
+      },
+      {
+        "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+        "username": "[造] Δ [Gone fishing up North]",
+        "winAmount": 3110479.04
+      },
+      {
+        "userid": "2533c120-958b-4299-bd55-c9e5c5185401",
+        "username": "Lolibaba    ",
+        "winAmount": -5000000
+      },
+      {
+        "userid": "2cbee595-c587-4d8c-a8d3-37352a23be69",
+        "username": "Avarice",
+        "winAmount": -300000
+      },
+      {
+        "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+        "username": "become lamy",
+        "winAmount": -8000000
+      },
+      {
+        "userid": "306e5104-b8a7-49c6-9838-17aaf18c9aba",
+        "username": "goldeneye101",
+        "winAmount": -99999
+      },
+      {
+        "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+        "username": "(Multi-Level Marketing...)",
+        "winAmount": -500000
+      },
+      {
+        "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+        "username": "Tenshi X Tenshi",
+        "winAmount": -1100000
+      },
+      {
+        "userid": "46237409-2e59-4458-96fb-608d23b6c103",
+        "username": "Smol",
+        "winAmount": 245608.44
+      },
+      {
+        "userid": "51126e92-af71-4d39-b0e1-76ba0abe6472",
+        "username": "towari no harem no oyakodon",
+        "winAmount": 1036825.31
+      },
+      {
+        "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+        "username": "Elbandi",
+        "winAmount": 919248.5
+      },
+      {
+        "userid": "6e42912f-8398-4097-ab3f-6826796c8999",
+        "username": "Reverse",
+        "winAmount": 119753.44
+      },
+      {
+        "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+        "username": "IKZ",
+        "winAmount": -2100000
+      },
+      {
+        "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+        "username": "Bombshell Blondes Banking",
+        "winAmount": 3105479.04
+      },
+      {
+        "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+        "username": "BeerSalad",
+        "winAmount": 52761.979999999996
+      },
+      {
+        "userid": "889a7f7f-9803-440e-b4a4-bdf75b97c5f0",
+        "username": "Tomato",
+        "winAmount": -500000
+      },
+      {
+        "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+        "username": "💕HeartAttack💓 Financials",
+        "winAmount": 3538098.8
+      },
+      {
+        "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+        "username": "6letters",
+        "winAmount": -5000000
+      },
+      {
+        "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+        "username": "Asdae",
+        "winAmount": 7676197.6
+      },
+      {
+        "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+        "username": "HFZArchiveAnon",
+        "winAmount": 2776.2
+      },
+      {
+        "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+        "username": "TowaBaby",
+        "winAmount": 26104.79
+      },
+      {
+        "userid": "b62d41ca-da98-41eb-875c-dd84f8216431",
+        "username": "ISSHOU ISSHO DA YO NE?",
+        "winAmount": -5000000
+      },
+      {
+        "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+        "username": "potato",
+        "winAmount": -30000
+      },
+      {
+        "userid": "d01a4e97-6022-447e-be63-da26c2a79884",
+        "username": "Mai Ass We Can",
+        "winAmount": 15552.4
+      },
+      {
+        "userid": "db9c92f9-86da-442e-a3a7-7948a27e7059",
+        "username": "Mystery Heimin",
+        "winAmount": -5000
+      },
+      {
+        "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+        "username": "BIG PLANS",
+        "winAmount": 31104790.4
+      },
+      {
+        "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+        "username": "TFRBATTLERISGAY",
+        "winAmount": 7776.2
+      },
+      {
+        "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+        "username": "こんぶ～❄️",
+        "winAmount": 30104790.4
+      }
+    ]
+  },
+  "8acc8285-af6f-4155-9f90-9abdd9961d8d": {
+    "id": "8acc8285-af6f-4155-9f90-9abdd9961d8d",
+    "topic": "4cc Spring Babby Day 5 - /vm/ vs /vt/",
+    "winOption": "1",
+    "timestamp": 1652020278700,
+    "poolTotal": 77339592,
+    "options": [
+      { "optionid": 0, "option": "/vm/ wins" },
+      { "optionid": 1, "option": "/vt/ wins" },
+      { "optionid": 2, "option": "Drawgods get to eat for once" }
+    ],
+    "archive": true,
+    "userBets": [
+      {
+        "userid": "21d89d86-85bd-426f-a9ef-ebe396cb6da1",
+        "username": "Risuna69",
+        "winAmount": -20000
+      },
+      {
+        "userid": "2cbee595-c587-4d8c-a8d3-37352a23be69",
+        "username": "Avarice",
+        "winAmount": -300000
+      },
+      {
+        "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+        "username": "become lamy",
+        "winAmount": -6000000
+      },
+      {
+        "userid": "328d6f2c-e3c3-4f01-a733-4df914da266f",
+        "username": "Retard",
+        "winAmount": -2250000
+      },
+      {
+        "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+        "username": "(Multi-Level Marketing...)",
+        "winAmount": -2991947.13
+      },
+      {
+        "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+        "username": "Tenshi X Tenshi",
+        "winAmount": -1100000
+      },
+      {
+        "userid": "46237409-2e59-4458-96fb-608d23b6c103",
+        "username": "Smol",
+        "winAmount": -200000
+      },
+      {
+        "userid": "51126e92-af71-4d39-b0e1-76ba0abe6472",
+        "username": "towari no harem no oyakodon",
+        "winAmount": -666666
+      },
+      {
+        "userid": "51712aad-0a34-4b10-a13c-1ea91dced49f",
+        "username": "Brat",
+        "winAmount": -450000
+      },
+      {
+        "userid": "570f3001-d94d-4f6f-80c4-4128c5257058",
+        "username": "M",
+        "winAmount": -1500000
+      },
+      {
+        "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+        "username": "Elbandi",
+        "winAmount": 272050.37
+      },
+      {
+        "userid": "6e42912f-8398-4097-ab3f-6826796c8999",
+        "username": "Reverse",
+        "winAmount": 240732.65
+      },
+      {
+        "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+        "username": "Bombshell Blondes Banking",
+        "winAmount": 31205036.65
+      },
+      {
+        "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+        "username": "BeerSalad",
+        "winAmount": 60512.59
+      },
+      {
+        "userid": "7e210ebe-2465-4a2c-8376-fb5690095949",
+        "username": "☢️ アイキシウム発電所",
+        "winAmount": 3051.26
+      },
+      {
+        "userid": "889a7f7f-9803-440e-b4a4-bdf75b97c5f0",
+        "username": "Tomato",
+        "winAmount": -983425
+      },
+      {
+        "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+        "username": "💕HeartAttack💓 Financials",
+        "winAmount": 3525629.58
+      },
+      {
+        "userid": "99989cb2-c363-4d3a-8c65-467e547ef691",
+        "username": "Wooper Wednesday",
+        "winAmount": -3000000
+      },
+      {
+        "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+        "username": "6letters",
+        "winAmount": -1000000
+      },
+      {
+        "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+        "username": "Asdae",
+        "winAmount": 7951259.16
+      },
+      {
+        "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
+        "username": "Ninjin",
+        "winAmount": -1000000
+      },
+      {
+        "userid": "a22cbe54-e3fe-4b09-94a6-35977700e15e",
+        "username": "WilfridTiedemann",
+        "winAmount": -50000
+      },
+      {
+        "userid": "b62d41ca-da98-41eb-875c-dd84f8216431",
+        "username": "ISSHOU ISSHO DA YO NE?",
+        "winAmount": -5000000
+      },
+      {
+        "userid": "d01a4e97-6022-447e-be63-da26c2a79884",
+        "username": "Mai Ass We Can",
+        "winAmount": 161025.18
+      },
+      {
+        "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+        "username": "sanQ",
+        "winAmount": 27205.04
+      },
+      {
+        "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+        "username": "Aki's cool but Astel is my oshi",
+        "winAmount": -1000000
+      },
+      {
+        "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+        "username": "こんぶ～❄️",
+        "winAmount": 32205036.65
+      }
+    ]
+  },
+  "4de665ea-cc6e-417b-94cb-dbee50dc75c6": {
+    "id": "4de665ea-cc6e-417b-94cb-dbee50dc75c6",
+    "topic": "4cc Spring Babby Cup - Day 11 - /vt/ vs /k/",
+    "winOption": "2",
+    "timestamp": 1653176081402,
+    "poolTotal": 210554665,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/vt/ reminds everyone that anime is bulletproof."
+      },
+      { "optionid": 1, "option": "/k/ brings a third nuke." },
+      { "optionid": 2, "option": "DrawGODS, tonight we FEAST." }
+    ],
+    "archive": true,
+    "userBets": [
+      {
+        "userid": "026f62f4-ae25-4c4e-a9b5-0912a55bf82c",
+        "username": "Joe",
+        "winAmount": -1000000
+      },
+      {
+        "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+        "username": "towasamarich",
+        "winAmount": 4214482.27
+      },
+      {
+        "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+        "username": "butwhy",
+        "winAmount": 124289645.37
+      },
+      {
+        "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+        "username": "[造] Δ",
+        "winAmount": -20000000
+      },
+      {
+        "userid": "21d89d86-85bd-426f-a9ef-ebe396cb6da1",
+        "username": "Risuna69",
+        "winAmount": -55000
+      },
+      {
+        "userid": "2533c120-958b-4299-bd55-c9e5c5185401",
+        "username": "Lolibaba    ",
+        "winAmount": 36072411.34
+      },
+      {
+        "userid": "2cbee595-c587-4d8c-a8d3-37352a23be69",
+        "username": "Avarice",
+        "winAmount": 1664344.6800000002
+      },
+      {
+        "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+        "username": "become lamy",
+        "winAmount": -5000000
+      },
+      {
+        "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+        "username": "ELFSNINENINE",
+        "winAmount": -50000
+      },
+      {
+        "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+        "username": "Tenshi X Tenshi",
+        "winAmount": -278551.77
+      },
+      {
+        "userid": "4e9796c4-dc45-4adc-9ee1-0729f7f95490",
+        "username": "Shubamebachi",
+        "winAmount": -4696379.43
+      },
+      {
+        "userid": "51126e92-af71-4d39-b0e1-76ba0abe6472",
+        "username": "towari no harem no oyakodon",
+        "winAmount": -666666
+      },
+      {
+        "userid": "570f3001-d94d-4f6f-80c4-4128c5257058",
+        "username": "M",
+        "winAmount": -2500000
+      },
+      {
+        "userid": "612e31f3-a3e6-4df7-80bf-910f1619069d",
+        "username": "Hertm",
+        "winAmount": -10000
+      },
+      {
+        "userid": "66d2c24e-2d8e-4049-b72c-3be52b150410",
+        "username": "chammerlove",
+        "winAmount": -678550.77
+      },
+      {
+        "userid": "6e42912f-8398-4097-ab3f-6826796c8999",
+        "username": "Reverse",
+        "winAmount": -449000
+      },
+      {
+        "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+        "username": "IKZ",
+        "winAmount": -1427855.18
+      },
+      {
+        "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+        "username": "Bombshell Blondes Banking",
+        "winAmount": -19278551.77
+      },
+      {
+        "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+        "username": "BeerSalad",
+        "winAmount": -33913.82999999996
+      },
+      {
+        "userid": "889a7f7f-9803-440e-b4a4-bdf75b97c5f0",
+        "username": "Tomato",
+        "winAmount": -500000
+      },
+      {
+        "userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68",
+        "username": "Takoside",
+        "winAmount": -500000
+      },
+      {
+        "userid": "944358ed-a0f5-4cb3-a7d0-2dd99d6d7e06",
+        "username": "ポルカの夫🎪",
+        "winAmount": -5000000
+      },
+      {
+        "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+        "username": "💕HeartAttack💓 Financials",
+        "winAmount": -2500000
+      },
+      {
+        "userid": "99989cb2-c363-4d3a-8c65-467e547ef691",
+        "username": "Wooper Wednesday",
+        "winAmount": -2000000
+      },
+      {
+        "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+        "username": "6letters",
+        "winAmount": 14428964.54
+      },
+      {
+        "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+        "username": "Asdae",
+        "winAmount": -14278551.77
+      },
+      {
+        "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+        "username": "HFZArchiveAnon",
+        "winAmount": -968927.59
+      },
+      {
+        "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+        "username": "Kiryu-kai Holdings Inc.",
+        "winAmount": -50000
+      },
+      {
+        "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+        "username": "TowaBaby",
+        "winAmount": 21072.410000000003
+      },
+      {
+        "userid": "b62d41ca-da98-41eb-875c-dd84f8216431",
+        "username": "暗闇の中でダンサー",
+        "winAmount": -20000000
+      },
+      {
+        "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+        "username": "potato",
+        "winAmount": 124289.65
+      },
+      {
+        "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+        "username": "BIG PLANS",
+        "winAmount": -20000000
+      },
+      {
+        "userid": "e355214c-0e6f-4519-bddc-8058ad148344",
+        "username": "HlggDivegrass",
+        "winAmount": -10000
+      },
+      {
+        "userid": "e4818ad0-ca7e-4a6e-b89a-4e81e90bebe5",
+        "username": "Panished Haachama",
+        "winAmount": -300000
+      },
+      {
+        "userid": "ec1a0c36-e4a8-45a1-a6c6-5980d79ded66",
+        "username": "Simp & Son Holdings",
+        "winAmount": -9278551.77
+      },
+      {
+        "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+        "username": "s7unned",
+        "winAmount": -244000
+      },
+      {
+        "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+        "username": "sanQ",
+        "winAmount": 134289.65
+      },
+      {
+        "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+        "username": "HITO KUCHI HAPPY LUCKY",
+        "winAmount": -20000000
+      }
+    ]
+  },
+  "84e5085e-da3e-45a0-82ab-9b2e8d63c6bc": {
+    "id": "84e5085e-da3e-45a0-82ab-9b2e8d63c6bc",
+    "topic": "/vt/ vs /k/ Score Differential",
+    "winOption": "0",
+    "timestamp": 1653176076382,
+    "poolTotal": 83669771,
+    "options": [
+      { "optionid": 0, "option": "It's a tie game." },
+      { "optionid": 1, "option": "1-goal difference" },
+      { "optionid": 2, "option": "2-goal difference" },
+      { "optionid": 3, "option": "3-goal difference" },
+      { "optionid": 4, "option": "4-goal difference" },
+      { "optionid": 5, "option": "5+ goal difference" }
+    ],
+    "archive": true,
+    "userBets": [
+      {
+        "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+        "username": "towasamarich",
+        "winAmount": 5133102.01
+      },
+      {
+        "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+        "username": "butwhy",
+        "winAmount": -5000000
+      },
+      {
+        "userid": "2533c120-958b-4299-bd55-c9e5c5185401",
+        "username": "Lolibaba    ",
+        "winAmount": -2000000
+      },
+      {
+        "userid": "2cbee595-c587-4d8c-a8d3-37352a23be69",
+        "username": "Avarice",
+        "winAmount": 4833102.01
+      },
+      {
+        "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+        "username": "ELFSNINENINE",
+        "winAmount": -25000
+      },
+      {
+        "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+        "username": "Tenshi X Tenshi",
+        "winAmount": 5333102.01
+      },
+      {
+        "userid": "4e9796c4-dc45-4adc-9ee1-0729f7f95490",
+        "username": "Shubamebachi",
+        "winAmount": 5433102.01
+      },
+      {
+        "userid": "51126e92-af71-4d39-b0e1-76ba0abe6472",
+        "username": "towari no harem no oyakodon",
+        "winAmount": -66666
+      },
+      {
+        "userid": "570f3001-d94d-4f6f-80c4-4128c5257058",
+        "username": "M",
+        "winAmount": -2000000
+      },
+      {
+        "userid": "612e31f3-a3e6-4df7-80bf-910f1619069d",
+        "username": "Hertm",
+        "winAmount": -5000
+      },
+      {
+        "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+        "username": "IKZ",
+        "winAmount": 1613446.0099999998
+      },
+      {
+        "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+        "username": "Bombshell Blondes Banking",
+        "winAmount": -100000
+      },
+      {
+        "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+        "username": "BeerSalad",
+        "winAmount": 1333275.5
+      },
+      {
+        "userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68",
+        "username": "Takoside",
+        "winAmount": -500000
+      },
+      {
+        "userid": "944358ed-a0f5-4cb3-a7d0-2dd99d6d7e06",
+        "username": "ポルカの夫🎪",
+        "winAmount": -100000
+      },
+      {
+        "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+        "username": "💕HeartAttack💓 Financials",
+        "winAmount": -1660000
+      },
+      {
+        "userid": "99989cb2-c363-4d3a-8c65-467e547ef691",
+        "username": "Wooper Wednesday",
+        "winAmount": -1000000
+      },
+      {
+        "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+        "username": "6letters",
+        "winAmount": 25165510.06
+      },
+      {
+        "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+        "username": "Asdae",
+        "winAmount": -5000000
+      },
+      {
+        "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+        "username": "HFZArchiveAnon",
+        "winAmount": 266655.1
+      },
+      {
+        "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+        "username": "Kiryu-kai Holdings Inc.",
+        "winAmount": 1629930.6
+      },
+      {
+        "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+        "username": "TowaBaby",
+        "winAmount": 266655.1
+      },
+      {
+        "userid": "b62d41ca-da98-41eb-875c-dd84f8216431",
+        "username": "暗闇の中でダンサー",
+        "winAmount": -20000000
+      },
+      {
+        "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+        "username": "potato",
+        "winAmount": 789965.3
+      },
+      {
+        "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+        "username": "BIG PLANS",
+        "winAmount": -20000000
+      },
+      {
+        "userid": "ec1a0c36-e4a8-45a1-a6c6-5980d79ded66",
+        "username": "Simp & Son Holdings",
+        "winAmount": -10000
+      },
+      {
+        "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+        "username": "sanQ",
+        "winAmount": 488310.19999999995
+      },
+      {
+        "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+        "username": "Aki's cool but Astel is my oshi",
+        "winAmount": 27165510.06
+      }
+    ]
+  }
+}

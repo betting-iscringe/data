@@ -1,0 +1,170 @@
+{
+  "007f4494-c309-47f9-af3c-b8e621c5a376": {
+    "id": "007f4494-c309-47f9-af3c-b8e621c5a376",
+    "topic": "Does Vesper namedrop Factorio",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 673010000,
+    "closingTime": 1658628037806,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Yes"
+      },
+      {
+        "optionid": 1,
+        "option": "No"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "aaf5bb29-d0ee-4411-a6a9-60f0e2045fad",
+          "username": "honk",
+          "betAmount": 25000000,
+          "option": 0
+        },
+        {
+          "userid": "e1377916-5612-489a-a3e9-fa8c37d48e8e",
+          "username": "[造] LemonyLC",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "2166f836-5413-4e73-a9c1-22998746119f",
+          "username": "[金] 0🍞",
+          "betAmount": 20000000,
+          "option": 0
+        },
+        {
+          "userid": "3f01a558-87a8-4bcf-baef-84d87324b0e3",
+          "username": "[金] Pudding Management Firm",
+          "betAmount": 10000,
+          "option": 0
+        },
+        {
+          "userid": "67e5e05a-8ee8-4046-b2a1-07488574179d",
+          "username": "[造] Applause",
+          "betAmount": 20000000,
+          "option": 0
+        },
+        {
+          "userid": "2533c120-958b-4299-bd55-c9e5c5185401",
+          "username": "Lolibaba    ",
+          "betAmount": 20000000,
+          "option": 0
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Puchigire Forma de la Imitacion",
+          "betAmount": 20000000,
+          "option": 0
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "4e9796c4-dc45-4adc-9ee1-0729f7f95490",
+          "username": "Shubamebachi",
+          "betAmount": 8000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 500000,
+          "option": 0
+        },
+        {
+          "userid": "f48a12cf-564e-428a-925f-9ee52cdcc19a",
+          "username": "Sneed",
+          "betAmount": 200000,
+          "option": 0
+        },
+        {
+          "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
+          "username": "[ｱﾎ] Ninjin",
+          "betAmount": 10000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "51126e92-af71-4d39-b0e1-76ba0abe6472",
+          "username": "[天] 🍒✨",
+          "betAmount": 20000000,
+          "option": 1
+        },
+        {
+          "userid": "f7c3b57a-8b4f-4715-9f37-dfcc81fb0c18",
+          "username": "[狐] Kitsune Holdings 🌽🦊🍔",
+          "betAmount": 20000000,
+          "option": 1
+        },
+        {
+          "userid": "3f01a558-87a8-4bcf-baef-84d87324b0e3",
+          "username": "[金] Pudding Management Firm",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+          "username": "The Tampa Bay Buccaneers",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+          "username": "sakura matou fan 2001 ⚒️ 👾",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "d50225a6-df79-4090-aab1-824ce4e593a0",
+          "username": "Soppy",
+          "betAmount": 3000000,
+          "option": 1
+        },
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "b62d41ca-da98-41eb-875c-dd84f8216431",
+          "username": "やだ",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 75000000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 20000000,
+          "option": 1
+        },
+        {
+          "userid": "ab69d48e-d029-4a5d-bf2d-f7544b3f3018",
+          "username": "[造] yfp",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "f48a12cf-564e-428a-925f-9ee52cdcc19a",
+          "username": "Sneed",
+          "betAmount": 200000,
+          "option": 1
+        }
+      ]
+    }
+  }
+}

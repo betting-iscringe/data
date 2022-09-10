@@ -1,0 +1,344 @@
+{
+  "a83deaa3-fba8-4754-ab00-329b49f9637e": {
+    "id": "a83deaa3-fba8-4754-ab00-329b49f9637e",
+    "topic": "Ameverse Rumble - Match 2 - Triple Threat Elimination...of cuteness??",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 755000,
+    "closingTime": 1658503344247,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Amelia Wanson"
+      },
+      {
+        "optionid": 1,
+        "option": "Bee Ame"
+      },
+      {
+        "optionid": 2,
+        "option": "Minecraft Ame"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000,
+          "option": 0
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 160000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 50000,
+          "option": 1
+        },
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+          "username": "[1 Free Financial Advice]",
+          "betAmount": 50000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 25000,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000,
+          "option": 2
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 250000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "c6a912b7-0d6c-4581-ada0-a2521c0cdb8b": {
+    "id": "c6a912b7-0d6c-4581-ada0-a2521c0cdb8b",
+    "topic": "Ameverse Rumble - Match 3 - One Fall (no DQ)",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 1015000,
+    "closingTime": 1658504520000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Amelia Bowson (forma de Oblivion)"
+      },
+      {
+        "optionid": 1,
+        "option": "Amelia Bowson (forma de Elden Ring)"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+          "username": "[1 Free Financial Advice]",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 300000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 15000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 200000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 200000,
+          "option": 1
+        },
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "betAmount": 100000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "b5dbfe07-8ba8-494e-82c3-438221333e69": {
+    "id": "b5dbfe07-8ba8-494e-82c3-438221333e69",
+    "topic": "Ameverse Rumble - Match 4 - Top Watson Title Match",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 2065000,
+    "closingTime": 1658505390011,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Amelia Watson"
+      },
+      {
+        "optionid": 1,
+        "option": "Amelia Buffson"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+          "username": "[1 Free Financial Advice]",
+          "betAmount": 300000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 800000,
+          "option": 0
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 200000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 250000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 15000,
+          "option": 1
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 400000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "f2bd5c58-ff39-4d55-b647-abfc138a1ea2": {
+    "id": "f2bd5c58-ff39-4d55-b647-abfc138a1ea2",
+    "topic": "Ameverse Rumble - Match 5 - BONUS",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 1620000,
+    "closingTime": 1658505976851,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Armando Watson"
+      },
+      {
+        "optionid": 1,
+        "option": "Amelia Watson"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 200000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 20000,
+          "option": 0
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 1000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+          "username": "[1 Free Financial Advice]",
+          "betAmount": 200000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 200000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "59710c23-b1a7-4270-a9c7-c7045aea5168": {
+    "id": "59710c23-b1a7-4270-a9c7-c7045aea5168",
+    "topic": "Ameverse Rumble - Match 1 - Tornado Tag",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 1345000,
+    "closingTime": 1658502637500,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Ryan & Investigator"
+      },
+      {
+        "optionid": 1,
+        "option": "Bubba & Henri"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw, somehow"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 20000,
+          "option": 0
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 500000,
+          "option": 0
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 200000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 20000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "betAmount": 500000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000,
+          "option": 2
+        }
+      ]
+    }
+  }
+}

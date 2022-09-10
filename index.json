@@ -1,7 +1,8 @@
 {
   "files": [
-    { "Holofightz": "hfz.json" },
-    { "4cc vt league": "divegrass.json" },
-    { "Random bets archived": "etc.json" }
-  ]
+    { "Holofightz": "/hfz" },
+    { "4cc vt league": "/divegrass" },
+    { "Random bets archived": "/etc" }
+  ],
+  "defaults": ["divegrass"]
 }

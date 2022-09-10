@@ -1,0 +1,913 @@
+{
+  "6eaf6aab-04f1-48f0-8712-329be4310d8d": {
+    "id": "6eaf6aab-04f1-48f0-8712-329be4310d8d",
+    "topic": "HFZ Dark - Match 1 - One Fall",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 3565000,
+    "closingTime": 1659193718443,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Sanalite"
+      },
+      {
+        "optionid": 1,
+        "option": "Investamigator"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 50000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 500000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 5000,
+          "option": 2
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000,
+          "option": 2
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is cool",
+          "betAmount": 5000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "acb4cf31-bc76-4d45-ad34-6625aecf5f58": {
+    "id": "acb4cf31-bc76-4d45-ad34-6625aecf5f58",
+    "topic": "HFZ Dark - Match 2 - One Fall",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 3020000,
+    "closingTime": 1659194181822,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Ioforia"
+      },
+      {
+        "optionid": 1,
+        "option": "Soratomo"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 10000,
+          "option": 2
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "58b35fc6-82c7-4cf8-9c76-532a6bd16695": {
+    "id": "58b35fc6-82c7-4cf8-9c76-532a6bd16695",
+    "topic": "HFZ Dark - Match 3 - 4v4 Tag Match",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 9879444,
+    "closingTime": 1659195120000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Hag Lover's Association"
+      },
+      {
+        "optionid": 1,
+        "option": "New World Uooooohder"
+      },
+      {
+        "optionid": 2,
+        "option": "I guess technically you could get a draw, but you're wasting your money, really."
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 75000,
+          "option": 0
+        },
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 150000,
+          "option": 0
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 200000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 4444444,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 5000,
+          "option": 2
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "1a391187-7606-4c9d-bae6-f4c0231e1088": {
+    "id": "1a391187-7606-4c9d-bae6-f4c0231e1088",
+    "topic": "HFZ Dark - Match 4 - Tornado Tag",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 16721666,
+    "closingTime": 1659197820000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Nekko + Rosentai"
+      },
+      {
+        "optionid": 1,
+        "option": "Watamate + Ankimo"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is cool",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 50000,
+          "option": 0
+        },
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "betAmount": 1000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 6666666,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is cool",
+          "betAmount": 5000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "9c5254a2-b4a2-4c97-adf4-fc7d8a939edc": {
+    "id": "9c5254a2-b4a2-4c97-adf4-fc7d8a939edc",
+    "topic": "HFZ Dark - Match 5 - First Blood",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 8694444,
+    "closingTime": 1659198360000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Yukimin"
+      },
+      {
+        "optionid": 1,
+        "option": "Matsurisu"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 50000,
+          "option": 0
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 4444444,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 200000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is cool",
+          "betAmount": 2000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "6be0ef3b-888c-45c5-aea4-004d9825a883": {
+    "id": "6be0ef3b-888c-45c5-aea4-004d9825a883",
+    "topic": "HFZ Dark - Match 6 - One Fall",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 9655554,
+    "closingTime": 1659198780000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Kapumin"
+      },
+      {
+        "optionid": 1,
+        "option": "Risuner"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 6666666,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 50000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 888888,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 50000,
+          "option": 1
+        }
+      ],
+      "2": []
+    }
+  },
+  "d4271a2d-57bb-4d00-9a1e-32d9fc34b708": {
+    "id": "d4271a2d-57bb-4d00-9a1e-32d9fc34b708",
+    "topic": "HFZ Dark - Match 7 - Tag Match",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 4459444,
+    "closingTime": 1659199551981,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Take-A-Break"
+      },
+      {
+        "optionid": 1,
+        "option": "Subatomo + Onigiriya"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw, as a treat."
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 4444444,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 5000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 5000,
+          "option": 2
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 5000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "5947445b-3fd4-4a5c-b0ce-4cd668321d22": {
+    "id": "5947445b-3fd4-4a5c-b0ce-4cd668321d22",
+    "topic": "HFZ Dark - Match 8 - One Fall",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 5150000,
+    "closingTime": 1659200820000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Kagami Kira"
+      },
+      {
+        "optionid": 1,
+        "option": "Spade Echo"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 50000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 50000,
+          "option": 2
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 50000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "acbd11d6-1dfc-48a5-bdc6-00c96112c90d": {
+    "id": "acbd11d6-1dfc-48a5-bdc6-00c96112c90d",
+    "topic": "HFZ Dark - Match 9 - Triple Threat",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 7550000,
+    "closingTime": 1659201660000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Pemaloe"
+      },
+      {
+        "optionid": 1,
+        "option": "Sukonbu"
+      },
+      {
+        "optionid": 2,
+        "option": "Koronesuki"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 50000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 500000,
+          "option": 1
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 2000000,
+          "option": 2
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 2000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "fc0ba87d-29e6-407e-9c7a-00a67e267d62": {
+    "id": "fc0ba87d-29e6-407e-9c7a-00a67e267d62",
+    "topic": "HFZ Dark - Match 10 - One Fall",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 8499444,
+    "closingTime": 1659203280000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Hitomi Chris"
+      },
+      {
+        "optionid": 1,
+        "option": "Alton"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 4444444,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 50000,
+          "option": 1
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 4000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 5000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "c5016190-61e9-4856-a77d-579476a9bf2a": {
+    "id": "c5016190-61e9-4856-a77d-579476a9bf2a",
+    "topic": "HFZ Dark - Match 11 - Stars Championship Match (Suzaku wins on DQ/Draw)",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 9550000,
+    "closingTime": 1659203940000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Yukoku Roberu"
+      },
+      {
+        "optionid": 1,
+        "option": "Yakushuji Suzaku"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 50000,
+          "option": 0
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 3000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 500000,
+          "option": 1
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 2000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "5858bb8a-b507-4135-9a35-5166969d81ce": {
+    "id": "5858bb8a-b507-4135-9a35-5166969d81ce",
+    "topic": "HFZ Dark - Match 12 - Title Contender Match",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 7063000,
+    "closingTime": 1659204660000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Civia"
+      },
+      {
+        "optionid": 1,
+        "option": "Mana Aloe"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 2000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 50000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 5000,
+          "option": 2
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 8000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "800eea6e-5175-4808-acca-3ee14005ad86": {
+    "id": "800eea6e-5175-4808-acca-3ee14005ad86",
+    "topic": "HFZ Dark - Match 13 - Tag Team Title Match (Fantasy Zone retains on Draw/DQ)",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 5500000,
+    "closingTime": 1659205260000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "The Wolf Pack"
+      },
+      {
+        "optionid": 1,
+        "option": "Fantasy Zone"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "betAmount": 500000,
+          "option": 0
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 2000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "282c1384-a31c-429a-8787-bc54987efd77": {
+    "id": "282c1384-a31c-429a-8787-bc54987efd77",
+    "topic": "HFZ Dark - Match 14 - Main Event (3v1 Handicap)",
+    "open": true,
+    "winOption": null,
+    "totalPool": 45055001,
+    "closingTime": 1659206280000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "R.Rat"
+      },
+      {
+        "optionid": 1,
+        "option": "Eggman + Rosa + Big Follows"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 50000,
+          "option": 0
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 5001,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 20000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 20000000,
+          "option": 1
+        }
+      ]
+    }
+  }
+}

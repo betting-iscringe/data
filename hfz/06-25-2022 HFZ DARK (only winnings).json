@@ -1,0 +1,693 @@
+{
+  "070bd7c7-8b9c-48a6-98e8-7d7ff4ea9940": {
+    "id": "070bd7c7-8b9c-48a6-98e8-7d7ff4ea9940",
+    "topic": "HFZ Dark - Match 1 - Triple Threat",
+    "winOption": "1",
+    "timestamp": 1656247814432,
+    "poolTotal": 8300000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Deadbeat"
+      },
+      {
+        "optionid": 1,
+        "option": "Heimin"
+      },
+      {
+        "optionid": 2,
+        "option": "Kapumin"
+      }
+    ],
+    "archive": true,
+    "userBets": [
+      {
+        "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+        "username": "towasamarich",
+        "winAmount": -750000
+      },
+      {
+        "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+        "username": "become lamy",
+        "winAmount": 8137254.9
+      },
+      {
+        "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+        "username": "[草] Multi-Level Marketing",
+        "winAmount": -1000000
+      },
+      {
+        "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+        "username": "IKZ",
+        "winAmount": -100000
+      },
+      {
+        "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+        "username": "Bombshell Blondes Banking",
+        "winAmount": -587254.9
+      },
+      {
+        "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+        "username": "BeerSalad",
+        "winAmount": -75000
+      },
+      {
+        "userid": "f7c3b57a-8b4f-4715-9f37-dfcc81fb0c18",
+        "username": "[狐] Kitsune Holdings 🌽🦊🍔",
+        "winAmount": -350000
+      },
+      {
+        "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+        "username": "Aki's cool but Astel is my oshi",
+        "winAmount": -100000
+      }
+    ]
+  },
+  "642ea902-3f79-4045-a1cf-9edd2b436443": {
+    "id": "642ea902-3f79-4045-a1cf-9edd2b436443",
+    "topic": "HFZ Dark - Match 2 - Tornado Tag (One Fall)",
+    "winOption": "0",
+    "timestamp": 1656247826812,
+    "poolTotal": 5910000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "35p & Omaruza"
+      },
+      {
+        "optionid": 1,
+        "option": "Soratomo & Hoshiyomi"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "archive": true,
+    "userBets": [
+      {
+        "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+        "username": "towasamarich",
+        "winAmount": 3005306.12
+      },
+      {
+        "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+        "username": "become lamy",
+        "winAmount": -2000000
+      },
+      {
+        "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+        "username": "[HFZ] ELFS99",
+        "winAmount": -1000000
+      },
+      {
+        "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+        "username": "IKZ",
+        "winAmount": 2402244.9
+      },
+      {
+        "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+        "username": "Bombshell Blondes Banking",
+        "winAmount": 186224.49
+      },
+      {
+        "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+        "username": "BeerSalad",
+        "winAmount": 231224.49
+      },
+      {
+        "userid": "f7c3b57a-8b4f-4715-9f37-dfcc81fb0c18",
+        "username": "[狐] Kitsune Holdings 🌽🦊🍔",
+        "winAmount": -375000
+      }
+    ]
+  },
+  "8a51d790-7eae-495b-9903-bddcf4f77c37": {
+    "id": "8a51d790-7eae-495b-9903-bddcf4f77c37",
+    "topic": "HFZ Dark - Match 3 - KO",
+    "winOption": "0",
+    "timestamp": 1656247833398,
+    "poolTotal": 2079999,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Koronesuki"
+      },
+      {
+        "optionid": 1,
+        "option": "Cirno"
+      },
+      {
+        "optionid": 2,
+        "option": "The Rare And Powerful Double KO"
+      }
+    ],
+    "archive": true,
+    "userBets": [
+      {
+        "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+        "username": "towasamarich",
+        "winAmount": -755000
+      },
+      {
+        "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+        "username": "become lamy",
+        "winAmount": 1777776.92
+      },
+      {
+        "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+        "username": "Bombshell Blondes Banking",
+        "winAmount": -16110.149999999994
+      },
+      {
+        "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+        "username": "BeerSalad",
+        "winAmount": 163333.23
+      }
+    ]
+  },
+  "be2f6cfd-c4e7-4bef-af69-4cad3789830b": {
+    "id": "be2f6cfd-c4e7-4bef-af69-4cad3789830b",
+    "topic": "HFZ Dark - Match 4 - 5-way Tables (Elimination)",
+    "winOption": "2",
+    "timestamp": 1656247811003,
+    "poolTotal": 12510000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Sapling"
+      },
+      {
+        "optionid": 1,
+        "option": "Sanalite"
+      },
+      {
+        "optionid": 2,
+        "option": "Robosa"
+      },
+      {
+        "optionid": 3,
+        "option": "Luitomo"
+      },
+      {
+        "optionid": 4,
+        "option": "Ioforia"
+      }
+    ],
+    "archive": true,
+    "userBets": [
+      {
+        "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+        "username": "towasamarich",
+        "winAmount": 6858823.53
+      },
+      {
+        "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+        "username": "become lamy",
+        "winAmount": -320588.2400000002
+      },
+      {
+        "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+        "username": "[HFZ] ELFS99",
+        "winAmount": -250000
+      },
+      {
+        "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+        "username": "IKZ",
+        "winAmount": -1000000
+      },
+      {
+        "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+        "username": "Bombshell Blondes Banking",
+        "winAmount": -680147.06
+      },
+      {
+        "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+        "username": "BeerSalad",
+        "winAmount": -260000
+      },
+      {
+        "userid": "f7c3b57a-8b4f-4715-9f37-dfcc81fb0c18",
+        "username": "[狐] Kitsune Holdings 🌽🦊🍔",
+        "winAmount": 183970.59
+      },
+      {
+        "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+        "username": "Aki's cool but Astel is my oshi",
+        "winAmount": 367941.18
+      }
+    ]
+  },
+  "63669d05-a9a2-4038-8983-4dfbe05b3237": {
+    "id": "63669d05-a9a2-4038-8983-4dfbe05b3237",
+    "topic": "HFZ Dark - Match 5 - Falls Count Anywhere",
+    "winOption": "1",
+    "timestamp": 1656247823729,
+    "poolTotal": 3404021,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Onigirya"
+      },
+      {
+        "optionid": 1,
+        "option": "Shiokko"
+      }
+    ],
+    "archive": true,
+    "userBets": [
+      {
+        "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+        "username": "towasamarich",
+        "winAmount": 567920.59
+      },
+      {
+        "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+        "username": "become lamy",
+        "winAmount": 1735841.18
+      },
+      {
+        "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+        "username": "[HFZ] ELFS99",
+        "winAmount": 260376.18
+      },
+      {
+        "userid": "51ff088b-f6cd-44fb-82d9-e0b728fa1ad6",
+        "username": "Elite Sakura Investments",
+        "winAmount": -793000
+      },
+      {
+        "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+        "username": "IKZ",
+        "winAmount": -100000
+      },
+      {
+        "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+        "username": "Bombshell Blondes Banking",
+        "winAmount": 80188.09
+      },
+      {
+        "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+        "username": "BeerSalad",
+        "winAmount": -100000
+      },
+      {
+        "userid": "f7c3b57a-8b4f-4715-9f37-dfcc81fb0c18",
+        "username": "[狐] Kitsune Holdings 🌽🦊🍔",
+        "winAmount": 409694.97
+      },
+      {
+        "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+        "username": "Aki's cool but Astel is my oshi",
+        "winAmount": -100000
+      }
+    ]
+  },
+  "b78b86f6-c048-4026-8bda-e1f80afa4f11": {
+    "id": "b78b86f6-c048-4026-8bda-e1f80afa4f11",
+    "topic": "HFZ Dark - Match 6 - Tornado Tag Deathmatch",
+    "winOption": "0",
+    "timestamp": 1656247830404,
+    "poolTotal": 6131354,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Yukimin & Nekko"
+      },
+      {
+        "optionid": 1,
+        "option": "Takodachi & Matsurisu"
+      }
+    ],
+    "archive": true,
+    "userBets": [
+      {
+        "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+        "username": "become lamy",
+        "winAmount": 2892923.17
+      },
+      {
+        "userid": "51ff088b-f6cd-44fb-82d9-e0b728fa1ad6",
+        "username": "Elite Sakura Investments",
+        "winAmount": -150000
+      },
+      {
+        "userid": "597120db-2ef8-4328-8e8c-928a4f6eb893",
+        "username": "Tako Inastments™",
+        "winAmount": -1331354
+      },
+      {
+        "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+        "username": "IKZ",
+        "winAmount": -500000
+      },
+      {
+        "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+        "username": "Bombshell Blondes Banking",
+        "winAmount": 1946461.59
+      },
+      {
+        "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+        "username": "BeerSalad",
+        "winAmount": 291969.24
+      }
+    ]
+  },
+  "0fe588c4-7298-4ba3-ab25-d6a86c5e866f": {
+    "id": "0fe588c4-7298-4ba3-ab25-d6a86c5e866f",
+    "topic": "HFZ Dark - Match 7 - One Fall",
+    "winOption": "1",
+    "timestamp": 1656247861365,
+    "poolTotal": 5395000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Death Sensei"
+      },
+      {
+        "optionid": 1,
+        "option": "Ankimo"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "archive": true,
+    "userBets": [
+      {
+        "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+        "username": "become lamy",
+        "winAmount": -2050000
+      },
+      {
+        "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+        "username": "[草] Multi-Level Marketing",
+        "winAmount": 1768852.46
+      },
+      {
+        "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+        "username": "[HFZ] ELFS99",
+        "winAmount": 51885.25
+      },
+      {
+        "userid": "51ff088b-f6cd-44fb-82d9-e0b728fa1ad6",
+        "username": "Elite Sakura Investments",
+        "winAmount": 834426.23
+      },
+      {
+        "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+        "username": "IKZ",
+        "winAmount": 1718852.46
+      },
+      {
+        "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+        "username": "Bombshell Blondes Banking",
+        "winAmount": 121885.25
+      },
+      {
+        "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+        "username": "BeerSalad",
+        "winAmount": 166885.25
+      },
+      {
+        "userid": "f7c3b57a-8b4f-4715-9f37-dfcc81fb0c18",
+        "username": "[狐] Kitsune Holdings 🌽🦊🍔",
+        "winAmount": 265327.87
+      },
+      {
+        "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+        "username": "Aki's cool but Astel is my oshi",
+        "winAmount": 171885.25
+      }
+    ]
+  },
+  "6889328d-4c36-4ee2-992d-265ab5ca6a14": {
+    "id": "6889328d-4c36-4ee2-992d-265ab5ca6a14",
+    "topic": "HFZ Dark - Match 8 - Tag Match (One Fall)",
+    "winOption": "0",
+    "timestamp": 1656247820572,
+    "poolTotal": 18715000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "R.Ratman & Artia"
+      },
+      {
+        "optionid": 1,
+        "option": "Eggman's Minibosses"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "archive": true,
+    "userBets": [
+      {
+        "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+        "username": "towasamarich",
+        "winAmount": 7901904.76
+      },
+      {
+        "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+        "username": "become lamy",
+        "winAmount": -4000000
+      },
+      {
+        "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+        "username": "[草] Multi-Level Marketing",
+        "winAmount": -1000000
+      },
+      {
+        "userid": "51ff088b-f6cd-44fb-82d9-e0b728fa1ad6",
+        "username": "Elite Sakura Investments",
+        "winAmount": -100000
+      },
+      {
+        "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+        "username": "IKZ",
+        "winAmount": -1050000
+      },
+      {
+        "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+        "username": "Bombshell Blondes Banking",
+        "winAmount": 7906904.76
+      },
+      {
+        "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+        "username": "BeerSalad",
+        "winAmount": 891190.48
+      },
+      {
+        "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+        "username": "Aki's cool but Astel is my oshi",
+        "winAmount": -50000
+      }
+    ]
+  },
+  "b8fce95d-7568-486f-98a5-b89602109b07": {
+    "id": "b8fce95d-7568-486f-98a5-b89602109b07",
+    "topic": "HFZ Dark - Match 9 - One Fall",
+    "winOption": "1",
+    "timestamp": 1656247843539,
+    "poolTotal": 0,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Hitomi Chris"
+      },
+      {
+        "optionid": 1,
+        "option": "Yogiri"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "archive": true,
+    "userBets": []
+  },
+  "5269f64e-3c28-41a5-89d2-4e59dfc012e9": {
+    "id": "5269f64e-3c28-41a5-89d2-4e59dfc012e9",
+    "topic": "HFZ Dark - Match 10 - Royal Rumble",
+    "winOption": "2",
+    "timestamp": 1656247864533,
+    "poolTotal": 6720000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Astel (#4)"
+      },
+      {
+        "optionid": 1,
+        "option": "Rio (#6)"
+      },
+      {
+        "optionid": 2,
+        "option": "Suzaku (#7)"
+      },
+      {
+        "optionid": 3,
+        "option": "Temma (#9)"
+      },
+      {
+        "optionid": 4,
+        "option": "Izuru (#10)"
+      }
+    ],
+    "archive": true,
+    "userBets": [
+      {
+        "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+        "username": "towasamarich",
+        "winAmount": 85964.91000000003
+      },
+      {
+        "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+        "username": "become lamy",
+        "winAmount": -700000
+      },
+      {
+        "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+        "username": "[草] Multi-Level Marketing",
+        "winAmount": -1750000
+      },
+      {
+        "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+        "username": "[HFZ] ELFS99",
+        "winAmount": 3679824.56
+      },
+      {
+        "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+        "username": "Bombshell Blondes Banking",
+        "winAmount": 1814912.28
+      },
+      {
+        "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+        "username": "BeerSalad",
+        "winAmount": 29298.25
+      },
+      {
+        "userid": "f7c3b57a-8b4f-4715-9f37-dfcc81fb0c18",
+        "username": "[狐] Kitsune Holdings 🌽🦊🍔",
+        "winAmount": -200000
+      },
+      {
+        "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+        "username": "Aki's cool but Astel is my oshi",
+        "winAmount": -1000000
+      }
+    ]
+  },
+  "65a4c18d-a48d-447c-8a45-c3963b94f9b3": {
+    "id": "65a4c18d-a48d-447c-8a45-c3963b94f9b3",
+    "topic": "HFZ Dark - Match 11 - Title Match - 8-Way Race To The Finish (Elimination)",
+    "winOption": "1",
+    "timestamp": 1656247839956,
+    "poolTotal": 9350000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Boros"
+      },
+      {
+        "optionid": 1,
+        "option": "Moonafic"
+      },
+      {
+        "optionid": 2,
+        "option": "Haaton"
+      },
+      {
+        "optionid": 3,
+        "option": "Aqua Crew"
+      },
+      {
+        "optionid": 4,
+        "option": "Rosentai"
+      },
+      {
+        "optionid": 5,
+        "option": "IRyStocrat"
+      },
+      {
+        "optionid": 6,
+        "option": "Stack"
+      },
+      {
+        "optionid": 7,
+        "option": "Nakiri-gumi"
+      }
+    ],
+    "archive": true,
+    "userBets": [
+      {
+        "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+        "username": "towasamarich",
+        "winAmount": 478571.42999999993
+      },
+      {
+        "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+        "username": "[HFZ] ELFS99",
+        "winAmount": 5528571.43
+      },
+      {
+        "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+        "username": "Bombshell Blondes Banking",
+        "winAmount": -3000000
+      },
+      {
+        "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+        "username": "BeerSalad",
+        "winAmount": 367857.14
+      }
+    ]
+  },
+  "60a3014f-a967-4b82-971d-d241c8814481": {
+    "id": "60a3014f-a967-4b82-971d-d241c8814481",
+    "topic": "HFZ Dark - Match 13 - Title Match (One Fall; Pemaloe wins on Draw)",
+    "winOption": "0",
+    "timestamp": 1656247817488,
+    "poolTotal": 22650000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Sukonbu"
+      },
+      {
+        "optionid": 1,
+        "option": "Pemaloe"
+      }
+    ],
+    "archive": true,
+    "userBets": [
+      {
+        "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+        "username": "become lamy",
+        "winAmount": 18875000
+      },
+      {
+        "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+        "username": "[HFZ] ELFS99",
+        "winAmount": -500000
+      },
+      {
+        "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+        "username": "Bombshell Blondes Banking",
+        "winAmount": -10000000
+      },
+      {
+        "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+        "username": "BeerSalad",
+        "winAmount": -150000
+      },
+      {
+        "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+        "username": "Aki's cool but Astel is my oshi",
+        "winAmount": 3775000
+      }
+    ]
+  }
+}

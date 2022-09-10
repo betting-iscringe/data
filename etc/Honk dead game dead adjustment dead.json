@@ -1,0 +1,152 @@
+{
+  "94977cae-6cf4-4dd4-9dbd-84d273a70740": {
+    "id": "94977cae-6cf4-4dd4-9dbd-84d273a70740",
+    "topic": "When will adjustments happen?",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 11168233,
+    "closingTime": 1647180300000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "When honk activates them manually."
+      },
+      {
+        "optionid": 1,
+        "option": "An hour later than normal because the server doesn't care about DST."
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "2cbee595-c587-4d8c-a8d3-37352a23be69",
+          "username": "Acedia",
+          "betAmount": 50000,
+          "option": 0
+        },
+        {
+          "userid": "b62d41ca-da98-41eb-875c-dd84f8216431",
+          "username": "暗闇の中でダンサー",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "026f62f4-ae25-4c4e-a9b5-0912a55bf82c",
+          "username": "Joe",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "Tenshi X Tenshi",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": " MSN-02 Zeong Yo",
+          "betAmount": 1234567,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 5000,
+          "option": 1
+        },
+        {
+          "userid": "2cbee595-c587-4d8c-a8d3-37352a23be69",
+          "username": "Acedia",
+          "betAmount": 192000,
+          "option": 1
+        },
+        {
+          "userid": "99989cb2-c363-4d3a-8c65-467e547ef691",
+          "username": "Wooper Wednesday",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy",
+          "betAmount": 10000,
+          "option": 1
+        },
+        {
+          "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+          "username": "Imyourtarget",
+          "betAmount": 666666,
+          "option": 1
+        },
+        {
+          "userid": "9de90f9b-ce13-42d1-96f5-235f417f6e34",
+          "username": "[造] ChronoBanks",
+          "betAmount": 5000,
+          "option": 1
+        },
+        {
+          "userid": "544b372b-b019-44a9-a991-2ff63baf1606",
+          "username": "[造] dead game",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "026f62f4-ae25-4c4e-a9b5-0912a55bf82c",
+          "username": "Joe",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 500000,
+          "option": 1
+        },
+        {
+          "userid": "a347e75c-cb24-416c-ae8b-aec40730cd54",
+          "username": "Gawrons(๑╹ᆺ╹)",
+          "betAmount": 5000,
+          "option": 1
+        },
+        {
+          "userid": "28131e00-54cc-4759-a3ca-34c90d6b8f9f",
+          "username": "Lolicon Rights Fund",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "c558be50-5c31-4679-aeaf-7e0769ac31c5",
+          "username": "Kanamori Compliance",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "4a45f727-7c5d-4dc0-b451-10b67752f081",
+          "username": "Z",
+          "betAmount": 2000000,
+          "option": 1
+        }
+      ]
+    }
+  }
+}

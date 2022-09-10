@@ -1,0 +1,239 @@
+{
+  "cd1235da-c99f-4e8d-acda-76b1af491b4f": {
+    "id": "cd1235da-c99f-4e8d-acda-76b1af491b4f",
+    "topic": "MAG SMACKDOWN RAW - Match 1 - Fatal 4-Way",
+    "open": false,
+    "winOption": 2,
+    "totalPool": 4226111,
+    "closingTime": 1662780120000,
+    "options": [
+      { "optionid": 0, "option": "Arurandeisu" },
+      { "optionid": 1, "option": "Astel Leda" },
+      { "optionid": 2, "option": "Minase Rio" },
+      { "optionid": 3, "option": "Yukoku Roberu" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 50000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 5000,
+          "option": 2
+        },
+        {
+          "userid": "9e1e3b31-b1e8-46c8-9e5b-80f00f97f98f",
+          "username": "Schizophrenia",
+          "betAmount": 15000,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 30000,
+          "option": 2
+        }
+      ],
+      "3": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 3
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000,
+          "option": 3
+        }
+      ]
+    }
+  },
+  "60855aa7-76e8-40ce-85af-1e36505695bf": {
+    "id": "60855aa7-76e8-40ce-85af-1e36505695bf",
+    "topic": "MAG SMACKDOWN RAW - Match 2 - One Fall",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 265000,
+    "closingTime": 1662781081713,
+    "options": [
+      { "optionid": 0, "option": "Axel Syrios" },
+      { "optionid": 1, "option": "Astel Leda" },
+      { "optionid": 2, "option": "Draw" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 0
+        },
+        {
+          "userid": "9e1e3b31-b1e8-46c8-9e5b-80f00f97f98f",
+          "username": "Schizophrenia",
+          "betAmount": 50000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 50000,
+          "option": 1
+        },
+        {
+          "userid": "9e1e3b31-b1e8-46c8-9e5b-80f00f97f98f",
+          "username": "Schizophrenia",
+          "betAmount": 50000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 100000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 5000,
+          "option": 2
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "d29512ee-e6e3-45b2-b7e6-3fbd5603070d": {
+    "id": "d29512ee-e6e3-45b2-b7e6-3fbd5603070d",
+    "topic": "MAG SMACKDOWN RAW - Match 4 - Fatal 4-Way",
+    "open": false,
+    "winOption": 2,
+    "totalPool": 1169000,
+    "closingTime": 1662782160000,
+    "options": [
+      { "optionid": 0, "option": "Regis Altare" },
+      { "optionid": 1, "option": "Vesper Noir" },
+      { "optionid": 2, "option": "Minase Rio" },
+      { "optionid": 3, "option": "Magni Dezmond" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 0
+        },
+        {
+          "userid": "698d89c5-03ce-4ceb-838c-ea9eeb11942d",
+          "username": "Holo Birding Association",
+          "betAmount": 500000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "9e1e3b31-b1e8-46c8-9e5b-80f00f97f98f",
+          "username": "Schizophrenia",
+          "betAmount": 100000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 100000,
+          "option": 2
+        },
+        {
+          "userid": "9e1e3b31-b1e8-46c8-9e5b-80f00f97f98f",
+          "username": "Schizophrenia",
+          "betAmount": 100000,
+          "option": 2
+        }
+      ],
+      "3": [
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 3
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 20000,
+          "option": 3
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 30000,
+          "option": 3
+        },
+        {
+          "userid": "9e1e3b31-b1e8-46c8-9e5b-80f00f97f98f",
+          "username": "Schizophrenia",
+          "betAmount": 100000,
+          "option": 3
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 9000,
+          "option": 3
+        }
+      ]
+    }
+  }
+}

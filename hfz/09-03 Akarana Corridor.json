@@ -1,0 +1,878 @@
+{
+  "e6506258-57f1-4837-b884-10ee0b909b71": {
+    "id": "e6506258-57f1-4837-b884-10ee0b909b71",
+    "topic": "Akarana Corridor - Match 1 - One Fall",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 3461111,
+    "closingTime": 1662210653184,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Tokino Sora"
+      },
+      {
+        "optionid": 1,
+        "option": "Yoruno Sora"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 0
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 200000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 3000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 50000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "c51a22fa-fd28-4564-b40d-2b36dc2a086e": {
+    "id": "c51a22fa-fd28-4564-b40d-2b36dc2a086e",
+    "topic": "Akarana Corridor - Match 2 - Tag Match (One Fall)",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 2510000,
+    "closingTime": 1662211320000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Team HELL NAAAAAAAAAAAAAAAAAAAAAAAA"
+      },
+      {
+        "optionid": 1,
+        "option": "Pekora World Order"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 500000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 300000,
+          "option": 0
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 300000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 150000,
+          "option": 1
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 150000,
+          "option": 1
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 5000,
+          "option": 2
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 5000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "6f7b54b8-26e2-42f6-850a-634919a72211": {
+    "id": "6f7b54b8-26e2-42f6-850a-634919a72211",
+    "topic": "Akarana Corridor - Match 3 - Extreme Rules",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 23711111,
+    "closingTime": 1662212340000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Kanata"
+      },
+      {
+        "optionid": 1,
+        "option": "Suisei"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 200000,
+          "option": 0
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 15000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 1
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is cute",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+          "username": "[草] Multi-Level Marketing",
+          "betAmount": 2100000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "2f32a58c-cf72-4ac2-99c1-10f73606fe72": {
+    "id": "2f32a58c-cf72-4ac2-99c1-10f73606fe72",
+    "topic": "Akarana Corridor - Match 4 - Yakuza Standoff Match",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 54900000,
+    "closingTime": 1662213360000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "A-Chan (Nodoka)"
+      },
+      {
+        "optionid": 1,
+        "option": "EnMa (OmegaAlpha)"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 3000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+          "username": "[草] Multi-Level Marketing",
+          "betAmount": 4800000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 20000000,
+          "option": 1
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 2000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "d91dc3aa-e8ac-413f-9063-4cd078fdf9a3": {
+    "id": "d91dc3aa-e8ac-413f-9063-4cd078fdf9a3",
+    "topic": "Akarana Corridor - Match 5 - Ironman Submission",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 287411111,
+    "closingTime": 1662214380000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Mel"
+      },
+      {
+        "optionid": 1,
+        "option": "Choco"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 20000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1111111,
+          "option": 0
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 60000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 20000000,
+          "option": 1
+        },
+        {
+          "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+          "username": "[草] Multi-Level Marketing",
+          "betAmount": 26000000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 40000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 100000000,
+          "option": 2
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 2
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 100000,
+          "option": 2
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 15000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "af18802f-8d71-4be8-95f9-881aba158b45": {
+    "id": "af18802f-8d71-4be8-95f9-881aba158b45",
+    "topic": "Akarana Corridor - Match 6 - Money-In-The-Bank",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 102633333,
+    "closingTime": 1662215280000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Mikoler"
+      },
+      {
+        "optionid": 1,
+        "option": "Zeta 47"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 30000000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 3333333,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+          "username": "[草] Multi-Level Marketing",
+          "betAmount": 9200000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 50000000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "28680e4f-adee-4133-8de4-db3bb64b3112": {
+    "id": "28680e4f-adee-4133-8de4-db3bb64b3112",
+    "topic": "Akarana Corridor - Match 7 - 4v4 Tag Match",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 159515001,
+    "closingTime": 1662216300000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Idols"
+      },
+      {
+        "optionid": 1,
+        "option": "Faces"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 50000000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "a347e75c-cb24-416c-ae8b-aec40730cd54",
+          "username": "Gawrons(๑╹ᆺ╹)",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 10000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+          "username": "[草] Multi-Level Marketing",
+          "betAmount": 14300000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 7000000,
+          "option": 1
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 50000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000001,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 65000,
+          "option": 2
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 50000,
+          "option": 2
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 2000000,
+          "option": 2
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 2000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "2b9cafb0-2f46-43e3-9cbc-2de92071d1d1": {
+    "id": "2b9cafb0-2f46-43e3-9cbc-2de92071d1d1",
+    "topic": "Akarana Corridor - Match 8 - King of Kings",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 160100000,
+    "closingTime": 1662217920000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "King Ayame"
+      },
+      {
+        "optionid": 1,
+        "option": "King Towa"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 50000000,
+          "option": 0
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 20000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 20000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 50000000,
+          "option": 1
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 10000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "700f84ba-9824-4665-bf2f-8990de735160": {
+    "id": "700f84ba-9824-4665-bf2f-8990de735160",
+    "topic": "Akarana Corridor - Match 9 - Seiryu Tournament",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 179100000,
+    "closingTime": 1662218880000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "IRyS"
+      },
+      {
+        "optionid": 1,
+        "option": "Coco"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 60000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "33873087-99d5-4d7d-970d-e2ce81164855",
+          "username": "[草] Multi-Level Marketing",
+          "betAmount": 16000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 20000000,
+          "option": 1
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 50000000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 3000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "c9ef3cf1-e222-435d-8bec-a0bfb1d0cb71": {
+    "id": "c9ef3cf1-e222-435d-8bec-a0bfb1d0cb71",
+    "topic": "Akarana Corridor - Match 10 - Royal Rumble",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 115433332,
+    "closingTime": 1662223440000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "#14 - Battler Show"
+      },
+      {
+        "optionid": 1,
+        "option": "#19 - Shadow BANS"
+      },
+      {
+        "optionid": 2,
+        "option": "#26 - Kiryuler"
+      },
+      {
+        "optionid": 3,
+        "option": "#28 - Hunkler"
+      },
+      {
+        "optionid": 4,
+        "option": "#30 - Cape Battler"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 3000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 20000000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 5000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 2
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 2000000,
+          "option": 2
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 4444444,
+          "option": 2
+        }
+      ],
+      "3": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 3
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 14444444,
+          "option": 3
+        }
+      ],
+      "4": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 5000000,
+          "option": 4
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 4
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 100000,
+          "option": 4
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 5000000,
+          "option": 4
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 14444444,
+          "option": 4
+        }
+      ]
+    }
+  }
+}

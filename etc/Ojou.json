@@ -1,0 +1,212 @@
+{
+  "15ee6a6e-3f11-4667-a89c-e02f547be5fd": {
+    "id": "15ee6a6e-3f11-4667-a89c-e02f547be5fd",
+    "topic": "Will Ayame beat her Days Without Stream Record? (At time of writing, currently at 61 days nostream)",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 363922658,
+    "closingTime": 1660622400000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "No, she'll stream any day now."
+      },
+      {
+        "optionid": 1,
+        "option": "Yes, she'll go more than 65 days without a stream."
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "51126e92-af71-4d39-b0e1-76ba0abe6472",
+          "username": "[天] 🍒✨",
+          "betAmount": 666666,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1500000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1500000,
+          "option": 0
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "570f3001-d94d-4f6f-80c4-4128c5257058",
+          "username": "M",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+          "username": "sakura matowa fan 2001",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 15000000,
+          "option": 0
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "95316fef-4c81-4c82-95e0-3c6ceba60b3d",
+          "username": "cutegirl420",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+          "username": "The Tampa Bay Buccaneers",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 30000000,
+          "option": 0
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 2500000,
+          "option": 0
+        },
+        {
+          "userid": "3df7c230-c997-4452-81c6-1a23c63d6cbb",
+          "username": "wuhugm",
+          "betAmount": 10000,
+          "option": 0
+        },
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "betAmount": 200000,
+          "option": 0
+        },
+        {
+          "userid": "3f01a558-87a8-4bcf-baef-84d87324b0e3",
+          "username": "[金] Pudding Management Firm",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "c8240517-5b93-4ca7-9737-e8881eecfc04",
+          "username": "Oyakodon Capital",
+          "betAmount": 25000,
+          "option": 0
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 50000,
+          "option": 0
+        },
+        {
+          "userid": "6a9379c7-8f35-4d5e-91e1-d8fdf7cfa4bc",
+          "username": "Fauna's Left Antler",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 5000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "ab69d48e-d029-4a5d-bf2d-f7544b3f3018",
+          "username": "[造] yfp",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "Elbandi",
+          "betAmount": 1947992,
+          "option": 1
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 11000000,
+          "option": 1
+        },
+        {
+          "userid": "95316fef-4c81-4c82-95e0-3c6ceba60b3d",
+          "username": "cutegirl420",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 5000,
+          "option": 1
+        },
+        {
+          "userid": "3df7c230-c997-4452-81c6-1a23c63d6cbb",
+          "username": "wuhugm",
+          "betAmount": 10000,
+          "option": 1
+        },
+        {
+          "userid": "ed6d33e3-cb5d-4558-be94-d269bf0607e5",
+          "username": "vincoono",
+          "betAmount": 8000,
+          "option": 1
+        },
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "3f01a558-87a8-4bcf-baef-84d87324b0e3",
+          "username": "[金] Pudding Management Firm",
+          "betAmount": 15000000,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 500000,
+          "option": 1
+        },
+        {
+          "userid": "d4dee503-d709-4b47-8264-e0c9a5073e4f",
+          "username": "mogu",
+          "betAmount": 50000000,
+          "option": 1
+        }
+      ]
+    }
+  }
+}
