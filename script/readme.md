@@ -1,6 +1,6 @@
 # Betting board script
 
-Foobar is a Python library for dealing with word pluralization.
+Python 3 script that calls nasfaq bettingpools api
 
 ## Usage
 

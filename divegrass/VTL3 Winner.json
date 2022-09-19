@@ -1,1 +1,3446 @@
-{"bc4c7cd6-e97e-4b5c-a786-a3d66596242f": {"id": "bc4c7cd6-e97e-4b5c-a786-a3d66596242f", "topic": "/vt/ League 3 - Who takes home the whole cup?", "open": false, "winOption": 23, "totalPool": 2037314067, "closingTime": 1662760800000, "options": [{"optionid": 0, "option": "/#/ - Numbers"}, {"optionid": 1, "option": "/2434/ - Nijisanji"}, {"optionid": 2, "option": "/774/ - 774inc."}, {"optionid": 3, "option": "/aeg/ - Aetheria"}, {"optionid": 4, "option": "/chama/ - chama"}, {"optionid": 5, "option": "/doog/ - Inugami Korone"}, {"optionid": 6, "option": "/GGG/ - Gawr Gura General"}, {"optionid": 7, "option": "/hag/ - Hags"}, {"optionid": 8, "option": "/HFZ/ - HoloFightZ"}, {"optionid": 9, "option": "/HiRyS/ - IRyS General"}, {"optionid": 10, "option": "/hlgg/ - Hololive Global General"}, {"optionid": 11, "option": "/koopa/ - Koopa"}, {"optionid": 12, "option": "/lig/ - Large Indies Global"}, {"optionid": 13, "option": "/manstars/ - Holostars and Tempus"}, {"optionid": 14, "option": "/mogu/ - Nekomata Okayu"}, {"optionid": 15, "option": "/moon/ - Moona Hoshinova"}, {"optionid": 16, "option": "/morig/ -"}, {"optionid": 17, "option": "/nasfaqg/ - NASFAQ General"}, {"optionid": 18, "option": "/nepolabo/ - NePoLaBo"}, {"optionid": 19, "option": "/nijiEN/ - Nijisanji EN"}, {"optionid": 20, "option": "/nijiID/ - NIJISANJI Indonesia"}, {"optionid": 21, "option": "/pcg/ - Phase Connect General"}, {"optionid": 22, "option": "/pyon/ - pyon"}, {"optionid": 23, "option": "/tsunX/ - Tsunderia Extended"}, {"optionid": 24, "option": "/vrt/ - Retro Game Tubers"}, {"optionid": 25, "option": "/vsj+/ - Vshojo+ General"}, {"optionid": 26, "option": "/vtwbg/ - VTuber Worldbuilding General"}, {"optionid": 27, "option": "/wah/ - Ninomae Ina'nis"}, {"optionid": 28, "option": "/warkop/ - Warung Kopi"}, {"optionid": 29, "option": "/who/ - Nanashi Mumei General"}, {"optionid": 30, "option": "/wvt/ - Western V-Tubers Thread"}, {"optionid": 31, "option": "/ybc/ - Yubicraft"}], "userBets": {"0": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 0}, {"userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89", "username": "become lamy", "betAmount": 50000000, "option": 0}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 0}, {"userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae", "username": "butwhy...", "betAmount": 20000000, "option": 0}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 0}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 3000000, "option": 0}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 0}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 0}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 11111111, "option": 0}, {"userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3", "username": "6letters", "betAmount": 700000, "option": 0}], "1": [{"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 1}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 1}, {"userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712", "username": "tomoko nomura fan 2001", "betAmount": 1000000, "option": 1}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 2000000, "option": 1}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 50000, "option": 1}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 1}], "2": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 2}, {"userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259", "username": "BIG PLANS", "betAmount": 10000000, "option": 2}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 2}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 2}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 2}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 3000000, "option": 2}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 2}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 2}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 7747747, "option": 2}], "3": [{"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 3}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 3}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 3}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 5000, "option": 3}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 6000000, "option": 3}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 50000, "option": 3}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 3}], "4": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 4}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 250000, "option": 4}, {"userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89", "username": "become lamy", "betAmount": 100000000, "option": 4}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 4}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 500000, "option": 4}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 10000, "option": 4}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 50000, "option": 4}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 4000000, "option": 4}, {"userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5", "username": "💕HeartAttack💓 Financials", "betAmount": 5000000, "option": 4}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 4}, {"userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2", "username": "DibbyDabba", "betAmount": 500000, "option": 4}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 4}, {"userid": "7156d677-eecb-4937-88fa-58b8eb9d5208", "username": "Roon", "betAmount": 75000, "option": 4}, {"userid": "8c1e9df8-add7-4457-a73d-98cca42a3a10", "username": "VidKids", "betAmount": 50000, "option": 4}, {"userid": "260b78a4-c844-4504-8564-9743b53b5183", "username": "Majick", "betAmount": 30000, "option": 4}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 17777777, "option": 4}, {"userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3", "username": "6letters", "betAmount": 30000000, "option": 4}], "5": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 5}, {"userid": "a1155180-aafe-470d-93e5-09215dd63f40", "username": "[ｱﾎ] Ninjin", "betAmount": 10000000, "option": 5}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 500000, "option": 5}, {"userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1", "username": "Kilimansharo", "betAmount": 10000000, "option": 5}, {"userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9", "username": "sanQ", "betAmount": 50000, "option": 5}, {"userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89", "username": "become lamy", "betAmount": 100000000, "option": 5}, {"userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e", "username": "Aki is cute", "betAmount": 10000000, "option": 5}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 5}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 2000000, "option": 5}, {"userid": "6e42912f-8398-4097-ab3f-6826796c8999", "username": "Reverse", "betAmount": 5000, "option": 5}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 50000, "option": 5}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 17000000, "option": 5}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 5}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 5}, {"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 4000000, "option": 5}, {"userid": "8c1e9df8-add7-4457-a73d-98cca42a3a10", "username": "VidKids", "betAmount": 50000, "option": 5}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 6666666, "option": 5}], "6": [{"userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9", "username": "sanQ", "betAmount": 50000, "option": 6}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 3000000, "option": 6}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 6}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 6}, {"userid": "3df7c230-c997-4452-81c6-1a23c63d6cbb", "username": "wuhugm", "betAmount": 310000, "option": 6}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 2000000, "option": 6}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 50000, "option": 6}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 6}], "7": [{"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 250000, "option": 7}, {"userid": "d50225a6-df79-4090-aab1-824ce4e593a0", "username": "Soppy (retired)", "betAmount": 1000000, "option": 7}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 7}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 2000000, "option": 7}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 7}, {"userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712", "username": "tomoko nomura fan 2001", "betAmount": 2000000, "option": 7}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 11000000, "option": 7}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 7}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 7}, {"userid": "75553152-ee5d-474d-b17f-58c9680379e9", "username": "Galoitram", "betAmount": 5000000, "option": 7}, {"userid": "8c1e9df8-add7-4457-a73d-98cca42a3a10", "username": "VidKids", "betAmount": 5000, "option": 7}], "8": [{"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 1000000, "option": 8}, {"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 8}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 500000, "option": 8}, {"userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9", "username": "sanQ", "betAmount": 96000, "option": 8}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 8}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 4278224, "option": 8}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 8}, {"userid": "6e42912f-8398-4097-ab3f-6826796c8999", "username": "Reverse", "betAmount": 10000, "option": 8}, {"userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33", "username": "BeerSalad", "betAmount": 2000000, "option": 8}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 15000000, "option": 8}, {"userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003", "username": "Kiryu-kai Holdings Inc.", "betAmount": 50000, "option": 8}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 8}, {"userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2", "username": "DibbyDabba", "betAmount": 500000, "option": 8}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 8}, {"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 7000000, "option": 8}, {"userid": "2a61e268-b2d7-4635-ab6a-d79563cb0834", "username": "Armonas", "betAmount": 10000, "option": 8}, {"userid": "e2f158e4-b22e-4562-9236-a11aab56c20e", "username": "TFRBATTLERISGAY", "betAmount": 5000, "option": 8}, {"userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60", "username": "[HFZ] ELFS99", "betAmount": 5000000, "option": 8}, {"userid": "10be6ad4-b543-4491-b583-735eda2fdbee", "username": "towasamarich", "betAmount": 2150000, "option": 8}, {"userid": "d0ea667c-c9b8-4cec-9864-630fa20e6811", "username": "outachi", "betAmount": 20000, "option": 8}], "9": [{"userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9", "username": "sanQ", "betAmount": 10000, "option": 9}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 9}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 121111, "option": 9}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 9}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 2000000, "option": 9}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 50000, "option": 9}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 9}], "10": [{"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 250000, "option": 10}, {"userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9", "username": "sanQ", "betAmount": 10000, "option": 10}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 10}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 10}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 10}, {"userid": "f6a1a05a-c60d-4d67-bd54-1405a96cc6e7", "username": "Chiara", "betAmount": 1000000, "option": 10}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 5000000, "option": 10}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 20000000, "option": 10}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 10}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 10}, {"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 8000000, "option": 10}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 11111111, "option": 10}, {"userid": "889a7f7f-9803-440e-b4a4-bdf75b97c5f0", "username": "Tomato", "betAmount": 100000, "option": 10}], "11": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 11}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 500000, "option": 11}, {"userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1", "username": "Kilimansharo", "betAmount": 10000000, "option": 11}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 11}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 500000, "option": 11}, {"userid": "6595aa93-8d64-4894-84b0-249a275a7049", "username": "Collective Onobot Fund", "betAmount": 10000, "option": 11}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 25000, "option": 11}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 58000000, "option": 11}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 11}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 11}, {"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 4000000, "option": 11}, {"userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60", "username": "[HFZ] ELFS99", "betAmount": 750000, "option": 11}], "12": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 12}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 250000, "option": 12}, {"userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259", "username": "BIG PLANS", "betAmount": 10000000, "option": 12}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 12}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 112121, "option": 12}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 12}, {"userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68", "username": "Takoside", "betAmount": 5000000, "option": 12}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 5000, "option": 12}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 5000000, "option": 12}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 12}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 12}], "13": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 13}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 250000, "option": 13}, {"userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9", "username": "sanQ", "betAmount": 20000, "option": 13}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 13}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 13}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 13}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 2000000, "option": 13}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 50000, "option": 13}, {"userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2", "username": "DibbyDabba", "betAmount": 100000, "option": 13}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 13}], "14": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 14}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 250000, "option": 14}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 14}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 14}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 14}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 4000000, "option": 14}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 50000, "option": 14}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 14}], "15": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 15}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 250000, "option": 15}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 15}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 15}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 15}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 5000, "option": 15}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 2000000, "option": 15}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 15}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 15}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 11111111, "option": 15}], "16": [{"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 16}, {"userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af", "username": "REAPER REAPER", "betAmount": 50000, "option": 16}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 16}, {"userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68", "username": "Takoside", "betAmount": 2000000, "option": 16}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 2000000, "option": 16}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 50000, "option": 16}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 16}], "17": [{"userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259", "username": "BIG PLANS", "betAmount": 10000000, "option": 17}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 17}, {"userid": "aaf5bb29-d0ee-4411-a6a9-60f0e2045fad", "username": "honk", "betAmount": 10000000, "option": 17}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 17}, {"userid": "41b32618-a42d-411f-9031-b2edda4e1eb5", "username": "[草] East Aldenard Trading Co.", "betAmount": 20000000, "option": 17}, {"userid": "5c9cbdc9-6f1a-4996-8607-3b9ff915e8ef", "username": "[🎪] ℂ𝕣𝕠𝕨𝕟 𝕁𝕦𝕪𝕠𝕟", "betAmount": 30000000, "option": 17}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 11000000, "option": 17}, {"userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003", "username": "Kiryu-kai Holdings Inc.", "betAmount": 10000, "option": 17}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 17}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 17}], "18": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 18}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 500000, "option": 18}, {"userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89", "username": "become lamy", "betAmount": 100000000, "option": 18}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 18}, {"userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af", "username": "REAPER REAPER", "betAmount": 150000, "option": 18}, {"userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae", "username": "butwhy...", "betAmount": 20000000, "option": 18}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 121212, "option": 18}, {"userid": "6e42912f-8398-4097-ab3f-6826796c8999", "username": "Reverse", "betAmount": 30000, "option": 18}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 5000, "option": 18}, {"userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712", "username": "tomoko nomura fan 2001", "betAmount": 5000000, "option": 18}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 5000000, "option": 18}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 18}, {"userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2", "username": "DibbyDabba", "betAmount": 100000, "option": 18}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 18}], "19": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 19}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 500000, "option": 19}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 19}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 19}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 3000000, "option": 19}, {"userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003", "username": "Kiryu-kai Holdings Inc.", "betAmount": 10000, "option": 19}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 50000, "option": 19}, {"userid": "10e40045-ec68-405e-8717-386496a63830", "username": "LightS", "betAmount": 1000000, "option": 19}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 19}], "20": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 20}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 250000, "option": 20}, {"userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1", "username": "Kilimansharo", "betAmount": 10000000, "option": 20}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 20}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 10000000, "option": 20}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 20}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 20}], "21": [{"userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1", "username": "Kilimansharo", "betAmount": 15000000, "option": 21}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 21}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 121212, "option": 21}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 21}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 5000, "option": 21}, {"userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712", "username": "tomoko nomura fan 2001", "betAmount": 1000000, "option": 21}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 13000000, "option": 21}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 21}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 21}, {"userid": "54ca77cd-ec07-4348-afba-7f362df66dcd", "username": "Half-Elf Holdings", "betAmount": 1000000, "option": 21}], "22": [{"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 22}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 22}, {"userid": "6595aa93-8d64-4894-84b0-249a275a7049", "username": "Collective Onobot Fund", "betAmount": 10000, "option": 22}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 3000000, "option": 22}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 50000, "option": 22}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 22}, {"userid": "463fc6c2-201d-4dbc-a35b-0e6960c2ec89", "username": "alto_tiro", "betAmount": 5000, "option": 22}], "23": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 23}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 250000, "option": 23}, {"userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1", "username": "Kilimansharo", "betAmount": 15000000, "option": 23}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 23}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 333333, "option": 23}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 23}, {"userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68", "username": "Takoside", "betAmount": 5000000, "option": 23}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 15000000, "option": 23}, {"userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003", "username": "Kiryu-kai Holdings Inc.", "betAmount": 30000, "option": 23}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 23}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 23}], "24": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 24}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 250000, "option": 24}, {"userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1", "username": "Kilimansharo", "betAmount": 8000000, "option": 24}, {"userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259", "username": "BIG PLANS", "betAmount": 5000000, "option": 24}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 24}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 24}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 24}, {"userid": "6595aa93-8d64-4894-84b0-249a275a7049", "username": "Collective Onobot Fund", "betAmount": 200000, "option": 24}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 5000, "option": 24}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 20000000, "option": 24}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 24}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 24}], "25": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 25}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 250000, "option": 25}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 25}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 25}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 5000, "option": 25}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 9000000, "option": 25}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 25}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 25}, {"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 700000, "option": 25}, {"userid": "463fc6c2-201d-4dbc-a35b-0e6960c2ec89", "username": "alto_tiro", "betAmount": 10000, "option": 25}], "26": [{"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 500000, "option": 26}, {"userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165", "username": "[1 Free Financial Advice]", "betAmount": 20000000, "option": 26}, {"userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1", "username": "Kilimansharo", "betAmount": 10000000, "option": 26}, {"userid": "5944d5e1-af54-4896-b84b-d8553a34ddc4", "username": "worldbuilding chad", "betAmount": 10000, "option": 26}, {"userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89", "username": "become lamy", "betAmount": 100000000, "option": 26}, {"userid": "d5e5af2c-16b8-467b-8a6a-2429ecb90f96", "username": "Owlfag14", "betAmount": 50000, "option": 26}, {"userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259", "username": "BIG PLANS", "betAmount": 10000000, "option": 26}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 26}, {"userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af", "username": "REAPER REAPER", "betAmount": 170000, "option": 26}, {"userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae", "username": "butwhy...", "betAmount": 20000000, "option": 26}, {"userid": "9de90f9b-ce13-42d1-96f5-235f417f6e34", "username": "[造] Clocks Yo", "betAmount": 20000000, "option": 26}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 1000000, "option": 26}, {"userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68", "username": "Takoside", "betAmount": 500000, "option": 26}, {"userid": "c975a2c9-2ab6-4070-a2b9-32a6d7371fef", "username": "(((LUNA)))", "betAmount": 5000000, "option": 26}, {"userid": "6595aa93-8d64-4894-84b0-249a275a7049", "username": "Collective Onobot Fund", "betAmount": 10000, "option": 26}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 200000, "option": 26}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 20000000, "option": 26}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 26}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 2000000, "option": 26}, {"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 10000000, "option": 26}, {"userid": "8a44d223-5bea-42f7-a426-8ffb3b5b93ce", "username": "tardko ", "betAmount": 30000, "option": 26}, {"userid": "8c1e9df8-add7-4457-a73d-98cca42a3a10", "username": "VidKids", "betAmount": 20000, "option": 26}, {"userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60", "username": "[HFZ] ELFS99", "betAmount": 1000000, "option": 26}, {"userid": "c05c147b-1c76-4cae-9897-6ed9c391b707", "username": "[金] 3beat", "betAmount": 50000, "option": 26}], "27": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 27}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 500000, "option": 27}, {"userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9", "username": "sanQ", "betAmount": 10000, "option": 27}, {"userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89", "username": "become lamy", "betAmount": 100000000, "option": 27}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 27}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 27}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 5000000, "option": 27}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 27}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 27}, {"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 8000000, "option": 27}, {"userid": "8a44d223-5bea-42f7-a426-8ffb3b5b93ce", "username": "tardko ", "betAmount": 15000, "option": 27}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 22222222, "option": 27}], "28": [{"userid": "8e500bd7-e915-44d9-a489-71b4400c3e8d", "username": "Sex with Mel", "betAmount": 1000000, "option": 28}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 500000, "option": 28}, {"userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1", "username": "Kilimansharo", "betAmount": 15000000, "option": 28}, {"userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259", "username": "BIG PLANS", "betAmount": 5000000, "option": 28}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 28}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 1848111, "option": 28}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 50000, "option": 28}, {"userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68", "username": "Takoside", "betAmount": 1000000, "option": 28}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 200000, "option": 28}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 30000000, "option": 28}, {"userid": "c95bfe8c-8378-41bc-bb9d-1c578c28926f", "username": "Nephlomachio Group", "betAmount": 10000, "option": 28}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 28}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 28}, {"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 15000000, "option": 28}, {"userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60", "username": "[HFZ] ELFS99", "betAmount": 3000000, "option": 28}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 22222222, "option": 28}], "29": [{"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 20000000, "option": 29}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 500000, "option": 29}, {"userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1", "username": "Kilimansharo", "betAmount": 15000000, "option": 29}, {"userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89", "username": "become lamy", "betAmount": 50000000, "option": 29}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 29}, {"userid": "9de90f9b-ce13-42d1-96f5-235f417f6e34", "username": "[造] Clocks Yo", "betAmount": 20000000, "option": 29}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 1000000, "option": 29}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 25000, "option": 29}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 17000000, "option": 29}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 29}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 29}, {"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 8000000, "option": 29}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 40000000, "option": 29}, {"userid": "889a7f7f-9803-440e-b4a4-bdf75b97c5f0", "username": "Tomato", "betAmount": 100000, "option": 29}], "30": [{"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 250000, "option": 30}, {"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 30}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 30}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 30}, {"userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68", "username": "Takoside", "betAmount": 1000000, "option": 30}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 2000000, "option": 30}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 50000, "option": 30}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 30}, {"userid": "463fc6c2-201d-4dbc-a35b-0e6960c2ec89", "username": "alto_tiro", "betAmount": 10000, "option": 30}], "31": [{"userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f", "username": "gogurago", "betAmount": 100000, "option": 31}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 31}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 31}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 11000000, "option": 31}, {"userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8", "username": "Sea Shepherd Conservation Society", "betAmount": 100000, "option": 31}, {"userid": "9e67d023-06a8-4295-9593-c669c53fb0cf", "username": "The World of HOPE™", "betAmount": 1000000, "option": 31}, {"userid": "829fd0c0-5962-4be4-827d-3c6488a1a6c3", "username": "Buy Pekora. Sell never", "betAmount": 10000000, "option": 31}, {"userid": "8a44d223-5bea-42f7-a426-8ffb3b5b93ce", "username": "tardko ", "betAmount": 10000, "option": 31}, {"userid": "463fc6c2-201d-4dbc-a35b-0e6960c2ec89", "username": "alto_tiro", "betAmount": 10000, "option": 31}]}}, "70c95582-7ef7-4485-98e0-74fb320f0897": {"id": "70c95582-7ef7-4485-98e0-74fb320f0897", "topic": "/vt/ League 3 - Who will take the cup? [Double-Up Chance]", "open": false, "winOption": 9, "totalPool": 1849453328, "closingTime": 1663434000000, "options": [{"optionid": 0, "option": "/chama/"}, {"optionid": 1, "option": "/doog/"}, {"optionid": 2, "option": "/hfz/"}, {"optionid": 3, "option": "/hlgg/"}, {"optionid": 4, "option": "/koopa/"}, {"optionid": 5, "option": "/manstars/ "}, {"optionid": 6, "option": "/mogu/"}, {"optionid": 7, "option": "/nepolabo/"}, {"optionid": 8, "option": "/nijiEN/"}, {"optionid": 9, "option": "/tsunX/"}, {"optionid": 10, "option": "/vrt/"}, {"optionid": 11, "option": "/vsj+/"}, {"optionid": 12, "option": "/vtwbg/"}, {"optionid": 13, "option": "/wah/"}, {"optionid": 14, "option": "/warkop/ "}, {"optionid": 15, "option": "/who/"}], "userBets": {"0": [{"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 20000000, "option": 0}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 11111, "option": 0}, {"userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0", "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉", "betAmount": 100000, "option": 0}, {"userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89", "username": "become lamy", "betAmount": 100000000, "option": 0}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 500000, "option": 0}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 10000, "option": 0}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 33333333, "option": 0}, {"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 5000, "option": 0}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 20000, "option": 0}, {"userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003", "username": "Kiryu-kai Holdings Inc.", "betAmount": 30000, "option": 0}, {"userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2", "username": "DibbyDabba", "betAmount": 5000000, "option": 0}, {"userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3", "username": "6letters", "betAmount": 15000000, "option": 0}], "1": [{"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 11111, "option": 1}, {"userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0", "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉", "betAmount": 100000, "option": 1}, {"userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89", "username": "become lamy", "betAmount": 100000000, "option": 1}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 2222222, "option": 1}, {"userid": "4fdbd674-b238-400b-8ca3-865a95acfb69", "username": "Gatorling", "betAmount": 5000, "option": 1}, {"userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33", "username": "BeerSalad", "betAmount": 500000, "option": 1}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 22222222, "option": 1}, {"userid": "95316fef-4c81-4c82-95e0-3c6ceba60b3d", "username": "cutegirl420", "betAmount": 500000, "option": 1}, {"userid": "b62d41ca-da98-41eb-875c-dd84f8216431", "username": "暗闇の中でダンサー", "betAmount": 100000000, "option": 1}, {"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 5000, "option": 1}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 15000, "option": 1}], "2": [{"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 25000000, "option": 2}, {"userid": "2a61e268-b2d7-4635-ab6a-d79563cb0834", "username": "Armonas", "betAmount": 5000, "option": 2}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 11111, "option": 2}, {"userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0", "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉", "betAmount": 100000, "option": 2}, {"userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165", "username": "[1 Free Financial Advice]", "betAmount": 10000000, "option": 2}, {"userid": "e2f158e4-b22e-4562-9236-a11aab56c20e", "username": "TFRBATTLERISGAY", "betAmount": 5000, "option": 2}, {"userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60", "username": "[HFZ] ELFS99", "betAmount": 2000000, "option": 2}, {"userid": "10be6ad4-b543-4491-b583-735eda2fdbee", "username": "towasamarich", "betAmount": 10000000, "option": 2}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 5000000, "option": 2}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 10000, "option": 2}, {"userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33", "username": "BeerSalad", "betAmount": 6500000, "option": 2}, {"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 5000, "option": 2}, {"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 10000000, "option": 2}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 10000, "option": 2}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 25000000, "option": 2}, {"userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003", "username": "Kiryu-kai Holdings Inc.", "betAmount": 30000, "option": 2}, {"userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2", "username": "DibbyDabba", "betAmount": 500000, "option": 2}], "3": [{"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 15000000, "option": 3}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 11111, "option": 3}, {"userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0", "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉", "betAmount": 100000, "option": 3}, {"userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165", "username": "[1 Free Financial Advice]", "betAmount": 10000000, "option": 3}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 500000, "option": 3}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 10000, "option": 3}, {"userid": "4fdbd674-b238-400b-8ca3-865a95acfb69", "username": "Gatorling", "betAmount": 15000, "option": 3}, {"userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33", "username": "BeerSalad", "betAmount": 1000000, "option": 3}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 15555555, "option": 3}, {"userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68", "username": "Takoside", "betAmount": 10000000, "option": 3}, {"userid": "3df7c230-c997-4452-81c6-1a23c63d6cbb", "username": "wuhugm", "betAmount": 250000, "option": 3}, {"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 5000, "option": 3}, {"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 10000000, "option": 3}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 5000000, "option": 3}], "4": [{"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 10000000, "option": 4}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 11111, "option": 4}, {"userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0", "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉", "betAmount": 100000, "option": 4}, {"userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259", "username": "BIG PLANS", "betAmount": 10000000, "option": 4}, {"userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60", "username": "[HFZ] ELFS99", "betAmount": 2000000, "option": 4}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 1000000, "option": 4}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 10000, "option": 4}, {"userid": "4fdbd674-b238-400b-8ca3-865a95acfb69", "username": "Gatorling", "betAmount": 5000, "option": 4}, {"userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33", "username": "BeerSalad", "betAmount": 2000000, "option": 4}, {"userid": "95316fef-4c81-4c82-95e0-3c6ceba60b3d", "username": "cutegirl420", "betAmount": 500000, "option": 4}, {"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 5000, "option": 4}, {"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 10000000, "option": 4}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 10000000, "option": 4}], "5": [{"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 25000000, "option": 5}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 11111, "option": 5}, {"userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0", "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉", "betAmount": 150000, "option": 5}, {"userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1", "username": "Kilimansharo", "betAmount": 20000000, "option": 5}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 1000000, "option": 5}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 10000, "option": 5}, {"userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33", "username": "BeerSalad", "betAmount": 1000000, "option": 5}, {"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 5000, "option": 5}, {"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 10000000, "option": 5}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 10000000, "option": 5}, {"userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2", "username": "DibbyDabba", "betAmount": 250000, "option": 5}], "6": [{"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 20000000, "option": 6}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 11111, "option": 6}, {"userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0", "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉", "betAmount": 100000, "option": 6}, {"userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1", "username": "Kilimansharo", "betAmount": 5000000, "option": 6}, {"userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60", "username": "[HFZ] ELFS99", "betAmount": 2000000, "option": 6}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 1500000, "option": 6}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 10000, "option": 6}, {"userid": "4fdbd674-b238-400b-8ca3-865a95acfb69", "username": "Gatorling", "betAmount": 5000, "option": 6}, {"userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33", "username": "BeerSalad", "betAmount": 2000000, "option": 6}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 11111111, "option": 6}, {"userid": "6e42912f-8398-4097-ab3f-6826796c8999", "username": "Reverse", "betAmount": 10000, "option": 6}, {"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 5000, "option": 6}, {"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 10000000, "option": 6}], "7": [{"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 11111, "option": 7}, {"userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0", "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉", "betAmount": 200000, "option": 7}, {"userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1", "username": "Kilimansharo", "betAmount": 25000000, "option": 7}, {"userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89", "username": "become lamy", "betAmount": 100000000, "option": 7}, {"userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae", "username": "butwhy...", "betAmount": 20000000, "option": 7}, {"userid": "4fdbd674-b238-400b-8ca3-865a95acfb69", "username": "Gatorling", "betAmount": 20000, "option": 7}, {"userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33", "username": "BeerSalad", "betAmount": 2000000, "option": 7}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 27777777, "option": 7}, {"userid": "6e42912f-8398-4097-ab3f-6826796c8999", "username": "Reverse", "betAmount": 10000, "option": 7}, {"userid": "95316fef-4c81-4c82-95e0-3c6ceba60b3d", "username": "cutegirl420", "betAmount": 1000000, "option": 7}, {"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 5000, "option": 7}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 5000, "option": 7}, {"userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2", "username": "DibbyDabba", "betAmount": 250000, "option": 7}], "8": [{"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 20000000, "option": 8}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 11111, "option": 8}, {"userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0", "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉", "betAmount": 100000, "option": 8}, {"userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1", "username": "Kilimansharo", "betAmount": 10000000, "option": 8}, {"userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae", "username": "butwhy...", "betAmount": 10000000, "option": 8}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 500000, "option": 8}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 10000, "option": 8}, {"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 5000, "option": 8}, {"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 10000000, "option": 8}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 20000, "option": 8}, {"userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003", "username": "Kiryu-kai Holdings Inc.", "betAmount": 30000, "option": 8}], "9": [{"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 30000000, "option": 9}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 11111, "option": 9}, {"userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0", "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉", "betAmount": 100000, "option": 9}, {"userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60", "username": "[HFZ] ELFS99", "betAmount": 2000000, "option": 9}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 500000, "option": 9}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 10000, "option": 9}, {"userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68", "username": "Takoside", "betAmount": 10000000, "option": 9}, {"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 5000, "option": 9}, {"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 10000000, "option": 9}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 10000000, "option": 9}], "10": [{"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 40000000, "option": 10}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 11111, "option": 10}, {"userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0", "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉", "betAmount": 1000000, "option": 10}, {"userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1", "username": "Kilimansharo", "betAmount": 5000000, "option": 10}, {"userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259", "username": "BIG PLANS", "betAmount": 10000000, "option": 10}, {"userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60", "username": "[HFZ] ELFS99", "betAmount": 2000000, "option": 10}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 1000000, "option": 10}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 10000, "option": 10}, {"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 5000, "option": 10}, {"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 10000000, "option": 10}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 10000000, "option": 10}], "11": [{"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 20000000, "option": 11}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 11111, "option": 11}, {"userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0", "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉", "betAmount": 200000, "option": 11}, {"userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60", "username": "[HFZ] ELFS99", "betAmount": 3000000, "option": 11}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 1000000, "option": 11}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 5000, "option": 11}, {"userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68", "username": "Takoside", "betAmount": 10000000, "option": 11}, {"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 5000, "option": 11}, {"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 10000000, "option": 11}], "12": [{"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 100000000, "option": 12}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 11111, "option": 12}, {"userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0", "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉", "betAmount": 100000, "option": 12}, {"userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165", "username": "[1 Free Financial Advice]", "betAmount": 25000000, "option": 12}, {"userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89", "username": "become lamy", "betAmount": 100000000, "option": 12}, {"userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259", "username": "BIG PLANS", "betAmount": 10000000, "option": 12}, {"userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae", "username": "butwhy...", "betAmount": 20000000, "option": 12}, {"userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af", "username": "REAPER REAPER", "betAmount": 150000, "option": 12}, {"userid": "c05c147b-1c76-4cae-9897-6ed9c391b707", "username": "[金] 3beat", "betAmount": 5000000, "option": 12}, {"userid": "95316fef-4c81-4c82-95e0-3c6ceba60b3d", "username": "cutegirl420", "betAmount": 5000000, "option": 12}, {"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 5000, "option": 12}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 10000, "option": 12}], "13": [{"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 15000000, "option": 13}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 11111, "option": 13}, {"userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0", "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉", "betAmount": 150000, "option": 13}, {"userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89", "username": "become lamy", "betAmount": 100000000, "option": 13}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 111111, "option": 13}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 22222222, "option": 13}, {"userid": "3d488f5d-0f32-4fdf-893f-eb9fb4f669f8", "username": "Poru", "betAmount": 15000, "option": 13}, {"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 5000, "option": 13}], "14": [{"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 25000000, "option": 14}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 11111, "option": 14}, {"userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0", "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉", "betAmount": 100000, "option": 14}, {"userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165", "username": "[1 Free Financial Advice]", "betAmount": 5000000, "option": 14}, {"userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1", "username": "Kilimansharo", "betAmount": 25000000, "option": 14}, {"userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259", "username": "BIG PLANS", "betAmount": 10000000, "option": 14}, {"userid": "10be6ad4-b543-4491-b583-735eda2fdbee", "username": "towasamarich", "betAmount": 5000000, "option": 14}, {"userid": "21d89d86-85bd-426f-a9ef-ebe396cb6da1", "username": "Risuna69", "betAmount": 5000, "option": 14}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 1000000, "option": 14}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 33333333, "option": 14}, {"userid": "95316fef-4c81-4c82-95e0-3c6ceba60b3d", "username": "cutegirl420", "betAmount": 1000000, "option": 14}, {"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 5000, "option": 14}, {"userid": "38287682-5884-483f-9c56-29f57be5bb9a", "username": "[天] Tenshi X Tenshi X Tenshi", "betAmount": 10000000, "option": 14}, {"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 25000, "option": 14}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 10000000, "option": 14}], "15": [{"userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3", "username": "[造] Triangle Consulting", "betAmount": 15000000, "option": 15}, {"userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3", "username": "s7unned", "betAmount": 11111, "option": 15}, {"userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0", "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉", "betAmount": 150000, "option": 15}, {"userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1", "username": "Kilimansharo", "betAmount": 10000000, "option": 15}, {"userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89", "username": "become lamy", "betAmount": 100000000, "option": 15}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 1111111, "option": 15}, {"userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33", "username": "BeerSalad", "betAmount": 500000, "option": 15}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 55555555, "option": 15}, {"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 5000, "option": 15}]}}}
+{
+  "bc4c7cd6-e97e-4b5c-a786-a3d66596242f": {
+    "id": "bc4c7cd6-e97e-4b5c-a786-a3d66596242f",
+    "topic": "/vt/ League 3 - Who takes home the whole cup?",
+    "open": false,
+    "winOption": 23,
+    "totalPool": 2037314067,
+    "closingTime": 1662760800000,
+    "options": [
+      { "optionid": 0, "option": "/#/ - Numbers" },
+      { "optionid": 1, "option": "/2434/ - Nijisanji" },
+      { "optionid": 2, "option": "/774/ - 774inc." },
+      { "optionid": 3, "option": "/aeg/ - Aetheria" },
+      { "optionid": 4, "option": "/chama/ - chama" },
+      { "optionid": 5, "option": "/doog/ - Inugami Korone" },
+      { "optionid": 6, "option": "/GGG/ - Gawr Gura General" },
+      { "optionid": 7, "option": "/hag/ - Hags" },
+      { "optionid": 8, "option": "/HFZ/ - HoloFightZ" },
+      { "optionid": 9, "option": "/HiRyS/ - IRyS General" },
+      { "optionid": 10, "option": "/hlgg/ - Hololive Global General" },
+      { "optionid": 11, "option": "/koopa/ - Koopa" },
+      { "optionid": 12, "option": "/lig/ - Large Indies Global" },
+      { "optionid": 13, "option": "/manstars/ - Holostars and Tempus" },
+      { "optionid": 14, "option": "/mogu/ - Nekomata Okayu" },
+      { "optionid": 15, "option": "/moon/ - Moona Hoshinova" },
+      { "optionid": 16, "option": "/morig/ -" },
+      { "optionid": 17, "option": "/nasfaqg/ - NASFAQ General" },
+      { "optionid": 18, "option": "/nepolabo/ - NePoLaBo" },
+      { "optionid": 19, "option": "/nijiEN/ - Nijisanji EN" },
+      { "optionid": 20, "option": "/nijiID/ - NIJISANJI Indonesia" },
+      { "optionid": 21, "option": "/pcg/ - Phase Connect General" },
+      { "optionid": 22, "option": "/pyon/ - pyon" },
+      { "optionid": 23, "option": "/tsunX/ - Tsunderia Extended" },
+      { "optionid": 24, "option": "/vrt/ - Retro Game Tubers" },
+      { "optionid": 25, "option": "/vsj+/ - Vshojo+ General" },
+      { "optionid": 26, "option": "/vtwbg/ - VTuber Worldbuilding General" },
+      { "optionid": 27, "option": "/wah/ - Ninomae Ina'nis" },
+      { "optionid": 28, "option": "/warkop/ - Warung Kopi" },
+      { "optionid": 29, "option": "/who/ - Nanashi Mumei General" },
+      { "optionid": 30, "option": "/wvt/ - Western V-Tubers Thread" },
+      { "optionid": 31, "option": "/ybc/ - Yubicraft" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 0
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 50000000,
+          "option": 0
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 20000000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 3000000,
+          "option": 0
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 11111111,
+          "option": 0
+        },
+        {
+          "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+          "username": "6letters",
+          "betAmount": 700000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 1
+        },
+        {
+          "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+          "username": "tomoko nomura fan 2001",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 50000,
+          "option": 1
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 2
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 10000000,
+          "option": 2
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 2
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 2
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 2
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 3000000,
+          "option": 2
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 2
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 2
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 7747747,
+          "option": 2
+        }
+      ],
+      "3": [
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 3
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 3
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 3
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 5000,
+          "option": 3
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 6000000,
+          "option": 3
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 50000,
+          "option": 3
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 3
+        }
+      ],
+      "4": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 4
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 250000,
+          "option": 4
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 100000000,
+          "option": 4
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 4
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 500000,
+          "option": 4
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10000,
+          "option": 4
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 50000,
+          "option": 4
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 4000000,
+          "option": 4
+        },
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "betAmount": 5000000,
+          "option": 4
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 4
+        },
+        {
+          "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+          "username": "DibbyDabba",
+          "betAmount": 500000,
+          "option": 4
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 4
+        },
+        {
+          "userid": "7156d677-eecb-4937-88fa-58b8eb9d5208",
+          "username": "Roon",
+          "betAmount": 75000,
+          "option": 4
+        },
+        {
+          "userid": "8c1e9df8-add7-4457-a73d-98cca42a3a10",
+          "username": "VidKids",
+          "betAmount": 50000,
+          "option": 4
+        },
+        {
+          "userid": "260b78a4-c844-4504-8564-9743b53b5183",
+          "username": "Majick",
+          "betAmount": 30000,
+          "option": 4
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 17777777,
+          "option": 4
+        },
+        {
+          "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+          "username": "6letters",
+          "betAmount": 30000000,
+          "option": 4
+        }
+      ],
+      "5": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 5
+        },
+        {
+          "userid": "a1155180-aafe-470d-93e5-09215dd63f40",
+          "username": "[ｱﾎ] Ninjin",
+          "betAmount": 10000000,
+          "option": 5
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 500000,
+          "option": 5
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Kilimansharo",
+          "betAmount": 10000000,
+          "option": 5
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 50000,
+          "option": 5
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 100000000,
+          "option": 5
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is cute",
+          "betAmount": 10000000,
+          "option": 5
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 5
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 2000000,
+          "option": 5
+        },
+        {
+          "userid": "6e42912f-8398-4097-ab3f-6826796c8999",
+          "username": "Reverse",
+          "betAmount": 5000,
+          "option": 5
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 50000,
+          "option": 5
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 17000000,
+          "option": 5
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 5
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 5
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 4000000,
+          "option": 5
+        },
+        {
+          "userid": "8c1e9df8-add7-4457-a73d-98cca42a3a10",
+          "username": "VidKids",
+          "betAmount": 50000,
+          "option": 5
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 6666666,
+          "option": 5
+        }
+      ],
+      "6": [
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 50000,
+          "option": 6
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 3000000,
+          "option": 6
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 6
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 6
+        },
+        {
+          "userid": "3df7c230-c997-4452-81c6-1a23c63d6cbb",
+          "username": "wuhugm",
+          "betAmount": 310000,
+          "option": 6
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 6
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 50000,
+          "option": 6
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 6
+        }
+      ],
+      "7": [
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 250000,
+          "option": 7
+        },
+        {
+          "userid": "d50225a6-df79-4090-aab1-824ce4e593a0",
+          "username": "Soppy (retired)",
+          "betAmount": 1000000,
+          "option": 7
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 7
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 2000000,
+          "option": 7
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 7
+        },
+        {
+          "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+          "username": "tomoko nomura fan 2001",
+          "betAmount": 2000000,
+          "option": 7
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 11000000,
+          "option": 7
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 7
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 7
+        },
+        {
+          "userid": "75553152-ee5d-474d-b17f-58c9680379e9",
+          "username": "Galoitram",
+          "betAmount": 5000000,
+          "option": 7
+        },
+        {
+          "userid": "8c1e9df8-add7-4457-a73d-98cca42a3a10",
+          "username": "VidKids",
+          "betAmount": 5000,
+          "option": 7
+        }
+      ],
+      "8": [
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 8
+        },
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 8
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 500000,
+          "option": 8
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 96000,
+          "option": 8
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 8
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 4278224,
+          "option": 8
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 8
+        },
+        {
+          "userid": "6e42912f-8398-4097-ab3f-6826796c8999",
+          "username": "Reverse",
+          "betAmount": 10000,
+          "option": 8
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 2000000,
+          "option": 8
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 15000000,
+          "option": 8
+        },
+        {
+          "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+          "username": "Kiryu-kai Holdings Inc.",
+          "betAmount": 50000,
+          "option": 8
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 8
+        },
+        {
+          "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+          "username": "DibbyDabba",
+          "betAmount": 500000,
+          "option": 8
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 8
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 7000000,
+          "option": 8
+        },
+        {
+          "userid": "2a61e268-b2d7-4635-ab6a-d79563cb0834",
+          "username": "Armonas",
+          "betAmount": 10000,
+          "option": 8
+        },
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 5000,
+          "option": 8
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 5000000,
+          "option": 8
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 2150000,
+          "option": 8
+        },
+        {
+          "userid": "d0ea667c-c9b8-4cec-9864-630fa20e6811",
+          "username": "outachi",
+          "betAmount": 20000,
+          "option": 8
+        }
+      ],
+      "9": [
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 10000,
+          "option": 9
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 9
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 121111,
+          "option": 9
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 9
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 9
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 50000,
+          "option": 9
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 9
+        }
+      ],
+      "10": [
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 250000,
+          "option": 10
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 10000,
+          "option": 10
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 10
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 10
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 10
+        },
+        {
+          "userid": "f6a1a05a-c60d-4d67-bd54-1405a96cc6e7",
+          "username": "Chiara",
+          "betAmount": 1000000,
+          "option": 10
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 5000000,
+          "option": 10
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 20000000,
+          "option": 10
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 10
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 10
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 8000000,
+          "option": 10
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 11111111,
+          "option": 10
+        },
+        {
+          "userid": "889a7f7f-9803-440e-b4a4-bdf75b97c5f0",
+          "username": "Tomato",
+          "betAmount": 100000,
+          "option": 10
+        }
+      ],
+      "11": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 11
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 500000,
+          "option": 11
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Kilimansharo",
+          "betAmount": 10000000,
+          "option": 11
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 11
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 500000,
+          "option": 11
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "Collective Onobot Fund",
+          "betAmount": 10000,
+          "option": 11
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 25000,
+          "option": 11
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 58000000,
+          "option": 11
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 11
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 11
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 4000000,
+          "option": 11
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 750000,
+          "option": 11
+        }
+      ],
+      "12": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 12
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 250000,
+          "option": 12
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 10000000,
+          "option": 12
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 12
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 112121,
+          "option": 12
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 12
+        },
+        {
+          "userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68",
+          "username": "Takoside",
+          "betAmount": 5000000,
+          "option": 12
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 5000,
+          "option": 12
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 5000000,
+          "option": 12
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 12
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 12
+        }
+      ],
+      "13": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 13
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 250000,
+          "option": 13
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 20000,
+          "option": 13
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 13
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 13
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 13
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 13
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 50000,
+          "option": 13
+        },
+        {
+          "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+          "username": "DibbyDabba",
+          "betAmount": 100000,
+          "option": 13
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 13
+        }
+      ],
+      "14": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 14
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 250000,
+          "option": 14
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 14
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 14
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 14
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 4000000,
+          "option": 14
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 50000,
+          "option": 14
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 14
+        }
+      ],
+      "15": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 15
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 250000,
+          "option": 15
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 15
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 15
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 15
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 5000,
+          "option": 15
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 15
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 15
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 15
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 11111111,
+          "option": 15
+        }
+      ],
+      "16": [
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 16
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 50000,
+          "option": 16
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 16
+        },
+        {
+          "userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68",
+          "username": "Takoside",
+          "betAmount": 2000000,
+          "option": 16
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 16
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 50000,
+          "option": 16
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 16
+        }
+      ],
+      "17": [
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 10000000,
+          "option": 17
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 17
+        },
+        {
+          "userid": "aaf5bb29-d0ee-4411-a6a9-60f0e2045fad",
+          "username": "honk",
+          "betAmount": 10000000,
+          "option": 17
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 17
+        },
+        {
+          "userid": "41b32618-a42d-411f-9031-b2edda4e1eb5",
+          "username": "[草] East Aldenard Trading Co.",
+          "betAmount": 20000000,
+          "option": 17
+        },
+        {
+          "userid": "5c9cbdc9-6f1a-4996-8607-3b9ff915e8ef",
+          "username": "[🎪] ℂ𝕣𝕠𝕨𝕟 𝕁𝕦𝕪𝕠𝕟",
+          "betAmount": 30000000,
+          "option": 17
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 11000000,
+          "option": 17
+        },
+        {
+          "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+          "username": "Kiryu-kai Holdings Inc.",
+          "betAmount": 10000,
+          "option": 17
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 17
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 17
+        }
+      ],
+      "18": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 18
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 500000,
+          "option": 18
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 100000000,
+          "option": 18
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 18
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 150000,
+          "option": 18
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 20000000,
+          "option": 18
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 121212,
+          "option": 18
+        },
+        {
+          "userid": "6e42912f-8398-4097-ab3f-6826796c8999",
+          "username": "Reverse",
+          "betAmount": 30000,
+          "option": 18
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 5000,
+          "option": 18
+        },
+        {
+          "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+          "username": "tomoko nomura fan 2001",
+          "betAmount": 5000000,
+          "option": 18
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 5000000,
+          "option": 18
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 18
+        },
+        {
+          "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+          "username": "DibbyDabba",
+          "betAmount": 100000,
+          "option": 18
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 18
+        }
+      ],
+      "19": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 19
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 500000,
+          "option": 19
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 19
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 19
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 3000000,
+          "option": 19
+        },
+        {
+          "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+          "username": "Kiryu-kai Holdings Inc.",
+          "betAmount": 10000,
+          "option": 19
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 50000,
+          "option": 19
+        },
+        {
+          "userid": "10e40045-ec68-405e-8717-386496a63830",
+          "username": "LightS",
+          "betAmount": 1000000,
+          "option": 19
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 19
+        }
+      ],
+      "20": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 20
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 250000,
+          "option": 20
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Kilimansharo",
+          "betAmount": 10000000,
+          "option": 20
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 20
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 20
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 20
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 20
+        }
+      ],
+      "21": [
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Kilimansharo",
+          "betAmount": 15000000,
+          "option": 21
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 21
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 121212,
+          "option": 21
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 21
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 5000,
+          "option": 21
+        },
+        {
+          "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+          "username": "tomoko nomura fan 2001",
+          "betAmount": 1000000,
+          "option": 21
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 13000000,
+          "option": 21
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 21
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 21
+        },
+        {
+          "userid": "54ca77cd-ec07-4348-afba-7f362df66dcd",
+          "username": "Half-Elf Holdings",
+          "betAmount": 1000000,
+          "option": 21
+        }
+      ],
+      "22": [
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 22
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 22
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "Collective Onobot Fund",
+          "betAmount": 10000,
+          "option": 22
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 3000000,
+          "option": 22
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 50000,
+          "option": 22
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 22
+        },
+        {
+          "userid": "463fc6c2-201d-4dbc-a35b-0e6960c2ec89",
+          "username": "alto_tiro",
+          "betAmount": 5000,
+          "option": 22
+        }
+      ],
+      "23": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 23
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 250000,
+          "option": 23
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Kilimansharo",
+          "betAmount": 15000000,
+          "option": 23
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 23
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 333333,
+          "option": 23
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 23
+        },
+        {
+          "userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68",
+          "username": "Takoside",
+          "betAmount": 5000000,
+          "option": 23
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 15000000,
+          "option": 23
+        },
+        {
+          "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+          "username": "Kiryu-kai Holdings Inc.",
+          "betAmount": 30000,
+          "option": 23
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 23
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 23
+        }
+      ],
+      "24": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 24
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 250000,
+          "option": 24
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Kilimansharo",
+          "betAmount": 8000000,
+          "option": 24
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 5000000,
+          "option": 24
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 24
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 24
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 24
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "Collective Onobot Fund",
+          "betAmount": 200000,
+          "option": 24
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 5000,
+          "option": 24
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 20000000,
+          "option": 24
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 24
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 24
+        }
+      ],
+      "25": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 25
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 250000,
+          "option": 25
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 25
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 25
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 5000,
+          "option": 25
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 9000000,
+          "option": 25
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 25
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 25
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 700000,
+          "option": 25
+        },
+        {
+          "userid": "463fc6c2-201d-4dbc-a35b-0e6960c2ec89",
+          "username": "alto_tiro",
+          "betAmount": 10000,
+          "option": 25
+        }
+      ],
+      "26": [
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 500000,
+          "option": 26
+        },
+        {
+          "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+          "username": "[1 Free Financial Advice]",
+          "betAmount": 20000000,
+          "option": 26
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Kilimansharo",
+          "betAmount": 10000000,
+          "option": 26
+        },
+        {
+          "userid": "5944d5e1-af54-4896-b84b-d8553a34ddc4",
+          "username": "worldbuilding chad",
+          "betAmount": 10000,
+          "option": 26
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 100000000,
+          "option": 26
+        },
+        {
+          "userid": "d5e5af2c-16b8-467b-8a6a-2429ecb90f96",
+          "username": "Owlfag14",
+          "betAmount": 50000,
+          "option": 26
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 10000000,
+          "option": 26
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 26
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 170000,
+          "option": 26
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 20000000,
+          "option": 26
+        },
+        {
+          "userid": "9de90f9b-ce13-42d1-96f5-235f417f6e34",
+          "username": "[造] Clocks Yo",
+          "betAmount": 20000000,
+          "option": 26
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 26
+        },
+        {
+          "userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68",
+          "username": "Takoside",
+          "betAmount": 500000,
+          "option": 26
+        },
+        {
+          "userid": "c975a2c9-2ab6-4070-a2b9-32a6d7371fef",
+          "username": "(((LUNA)))",
+          "betAmount": 5000000,
+          "option": 26
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "Collective Onobot Fund",
+          "betAmount": 10000,
+          "option": 26
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 200000,
+          "option": 26
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 20000000,
+          "option": 26
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 26
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 2000000,
+          "option": 26
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 10000000,
+          "option": 26
+        },
+        {
+          "userid": "8a44d223-5bea-42f7-a426-8ffb3b5b93ce",
+          "username": "tardko ",
+          "betAmount": 30000,
+          "option": 26
+        },
+        {
+          "userid": "8c1e9df8-add7-4457-a73d-98cca42a3a10",
+          "username": "VidKids",
+          "betAmount": 20000,
+          "option": 26
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 1000000,
+          "option": 26
+        },
+        {
+          "userid": "c05c147b-1c76-4cae-9897-6ed9c391b707",
+          "username": "[金] 3beat",
+          "betAmount": 50000,
+          "option": 26
+        }
+      ],
+      "27": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 27
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 500000,
+          "option": 27
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 10000,
+          "option": 27
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 100000000,
+          "option": 27
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 27
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 27
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 5000000,
+          "option": 27
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 27
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 27
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 8000000,
+          "option": 27
+        },
+        {
+          "userid": "8a44d223-5bea-42f7-a426-8ffb3b5b93ce",
+          "username": "tardko ",
+          "betAmount": 15000,
+          "option": 27
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 22222222,
+          "option": 27
+        }
+      ],
+      "28": [
+        {
+          "userid": "8e500bd7-e915-44d9-a489-71b4400c3e8d",
+          "username": "Sex with Mel",
+          "betAmount": 1000000,
+          "option": 28
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 500000,
+          "option": 28
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Kilimansharo",
+          "betAmount": 15000000,
+          "option": 28
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 5000000,
+          "option": 28
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 28
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1848111,
+          "option": 28
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 50000,
+          "option": 28
+        },
+        {
+          "userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68",
+          "username": "Takoside",
+          "betAmount": 1000000,
+          "option": 28
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 200000,
+          "option": 28
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 30000000,
+          "option": 28
+        },
+        {
+          "userid": "c95bfe8c-8378-41bc-bb9d-1c578c28926f",
+          "username": "Nephlomachio Group",
+          "betAmount": 10000,
+          "option": 28
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 28
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 28
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 15000000,
+          "option": 28
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 3000000,
+          "option": 28
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 22222222,
+          "option": 28
+        }
+      ],
+      "29": [
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 20000000,
+          "option": 29
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 500000,
+          "option": 29
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Kilimansharo",
+          "betAmount": 15000000,
+          "option": 29
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 50000000,
+          "option": 29
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 29
+        },
+        {
+          "userid": "9de90f9b-ce13-42d1-96f5-235f417f6e34",
+          "username": "[造] Clocks Yo",
+          "betAmount": 20000000,
+          "option": 29
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 29
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 25000,
+          "option": 29
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 17000000,
+          "option": 29
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 29
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 29
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 8000000,
+          "option": 29
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 40000000,
+          "option": 29
+        },
+        {
+          "userid": "889a7f7f-9803-440e-b4a4-bdf75b97c5f0",
+          "username": "Tomato",
+          "betAmount": 100000,
+          "option": 29
+        }
+      ],
+      "30": [
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 250000,
+          "option": 30
+        },
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 30
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 30
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 30
+        },
+        {
+          "userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68",
+          "username": "Takoside",
+          "betAmount": 1000000,
+          "option": 30
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 30
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 50000,
+          "option": 30
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 30
+        },
+        {
+          "userid": "463fc6c2-201d-4dbc-a35b-0e6960c2ec89",
+          "username": "alto_tiro",
+          "betAmount": 10000,
+          "option": 30
+        }
+      ],
+      "31": [
+        {
+          "userid": "4b9deb4c-7efe-44b6-9f4c-5c29f32ace0f",
+          "username": "gogurago",
+          "betAmount": 100000,
+          "option": 31
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 31
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 31
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 11000000,
+          "option": 31
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 100000,
+          "option": 31
+        },
+        {
+          "userid": "9e67d023-06a8-4295-9593-c669c53fb0cf",
+          "username": "The World of HOPE™",
+          "betAmount": 1000000,
+          "option": 31
+        },
+        {
+          "userid": "829fd0c0-5962-4be4-827d-3c6488a1a6c3",
+          "username": "Buy Pekora. Sell never",
+          "betAmount": 10000000,
+          "option": 31
+        },
+        {
+          "userid": "8a44d223-5bea-42f7-a426-8ffb3b5b93ce",
+          "username": "tardko ",
+          "betAmount": 10000,
+          "option": 31
+        },
+        {
+          "userid": "463fc6c2-201d-4dbc-a35b-0e6960c2ec89",
+          "username": "alto_tiro",
+          "betAmount": 10000,
+          "option": 31
+        }
+      ]
+    }
+  },
+  "70c95582-7ef7-4485-98e0-74fb320f0897": {
+    "id": "70c95582-7ef7-4485-98e0-74fb320f0897",
+    "topic": "/vt/ League 3 - Who will take the cup? [Double-Up Chance]",
+    "open": false,
+    "winOption": 9,
+    "totalPool": 1849453328,
+    "closingTime": 1663434000000,
+    "options": [
+      { "optionid": 0, "option": "/chama/" },
+      { "optionid": 1, "option": "/doog/" },
+      { "optionid": 2, "option": "/hfz/" },
+      { "optionid": 3, "option": "/hlgg/" },
+      { "optionid": 4, "option": "/koopa/" },
+      { "optionid": 5, "option": "/manstars/ " },
+      { "optionid": 6, "option": "/mogu/" },
+      { "optionid": 7, "option": "/nepolabo/" },
+      { "optionid": 8, "option": "/nijiEN/" },
+      { "optionid": 9, "option": "/tsunX/" },
+      { "optionid": 10, "option": "/vrt/" },
+      { "optionid": 11, "option": "/vsj+/" },
+      { "optionid": 12, "option": "/vtwbg/" },
+      { "optionid": 13, "option": "/wah/" },
+      { "optionid": 14, "option": "/warkop/ " },
+      { "optionid": 15, "option": "/who/" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 20000000,
+          "option": 0
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 11111,
+          "option": 0
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 500000,
+          "option": 0
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10000,
+          "option": 0
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 33333333,
+          "option": 0
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 0
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 20000,
+          "option": 0
+        },
+        {
+          "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+          "username": "Kiryu-kai Holdings Inc.",
+          "betAmount": 30000,
+          "option": 0
+        },
+        {
+          "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+          "username": "DibbyDabba",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+          "username": "6letters",
+          "betAmount": 15000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 11111,
+          "option": 1
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 2222222,
+          "option": 1
+        },
+        {
+          "userid": "4fdbd674-b238-400b-8ca3-865a95acfb69",
+          "username": "Gatorling",
+          "betAmount": 5000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 500000,
+          "option": 1
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 22222222,
+          "option": 1
+        },
+        {
+          "userid": "95316fef-4c81-4c82-95e0-3c6ceba60b3d",
+          "username": "cutegirl420",
+          "betAmount": 500000,
+          "option": 1
+        },
+        {
+          "userid": "b62d41ca-da98-41eb-875c-dd84f8216431",
+          "username": "暗闇の中でダンサー",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 15000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 25000000,
+          "option": 2
+        },
+        {
+          "userid": "2a61e268-b2d7-4635-ab6a-d79563cb0834",
+          "username": "Armonas",
+          "betAmount": 5000,
+          "option": 2
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 11111,
+          "option": 2
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "betAmount": 100000,
+          "option": 2
+        },
+        {
+          "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+          "username": "[1 Free Financial Advice]",
+          "betAmount": 10000000,
+          "option": 2
+        },
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 5000,
+          "option": 2
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 2000000,
+          "option": 2
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 10000000,
+          "option": 2
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 2
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10000,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 6500000,
+          "option": 2
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 2
+        },
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 10000000,
+          "option": 2
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 10000,
+          "option": 2
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 25000000,
+          "option": 2
+        },
+        {
+          "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+          "username": "Kiryu-kai Holdings Inc.",
+          "betAmount": 30000,
+          "option": 2
+        },
+        {
+          "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+          "username": "DibbyDabba",
+          "betAmount": 500000,
+          "option": 2
+        }
+      ],
+      "3": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 15000000,
+          "option": 3
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 11111,
+          "option": 3
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "betAmount": 100000,
+          "option": 3
+        },
+        {
+          "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+          "username": "[1 Free Financial Advice]",
+          "betAmount": 10000000,
+          "option": 3
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 500000,
+          "option": 3
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10000,
+          "option": 3
+        },
+        {
+          "userid": "4fdbd674-b238-400b-8ca3-865a95acfb69",
+          "username": "Gatorling",
+          "betAmount": 15000,
+          "option": 3
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 3
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 15555555,
+          "option": 3
+        },
+        {
+          "userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68",
+          "username": "Takoside",
+          "betAmount": 10000000,
+          "option": 3
+        },
+        {
+          "userid": "3df7c230-c997-4452-81c6-1a23c63d6cbb",
+          "username": "wuhugm",
+          "betAmount": 250000,
+          "option": 3
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 3
+        },
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 10000000,
+          "option": 3
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 5000000,
+          "option": 3
+        }
+      ],
+      "4": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 10000000,
+          "option": 4
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 11111,
+          "option": 4
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "betAmount": 100000,
+          "option": 4
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 10000000,
+          "option": 4
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 2000000,
+          "option": 4
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 4
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10000,
+          "option": 4
+        },
+        {
+          "userid": "4fdbd674-b238-400b-8ca3-865a95acfb69",
+          "username": "Gatorling",
+          "betAmount": 5000,
+          "option": 4
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 2000000,
+          "option": 4
+        },
+        {
+          "userid": "95316fef-4c81-4c82-95e0-3c6ceba60b3d",
+          "username": "cutegirl420",
+          "betAmount": 500000,
+          "option": 4
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 4
+        },
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 10000000,
+          "option": 4
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 4
+        }
+      ],
+      "5": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 25000000,
+          "option": 5
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 11111,
+          "option": 5
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "betAmount": 150000,
+          "option": 5
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Kilimansharo",
+          "betAmount": 20000000,
+          "option": 5
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 5
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10000,
+          "option": 5
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 5
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 5
+        },
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 10000000,
+          "option": 5
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 5
+        },
+        {
+          "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+          "username": "DibbyDabba",
+          "betAmount": 250000,
+          "option": 5
+        }
+      ],
+      "6": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 20000000,
+          "option": 6
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 11111,
+          "option": 6
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "betAmount": 100000,
+          "option": 6
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Kilimansharo",
+          "betAmount": 5000000,
+          "option": 6
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 2000000,
+          "option": 6
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1500000,
+          "option": 6
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10000,
+          "option": 6
+        },
+        {
+          "userid": "4fdbd674-b238-400b-8ca3-865a95acfb69",
+          "username": "Gatorling",
+          "betAmount": 5000,
+          "option": 6
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 2000000,
+          "option": 6
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 11111111,
+          "option": 6
+        },
+        {
+          "userid": "6e42912f-8398-4097-ab3f-6826796c8999",
+          "username": "Reverse",
+          "betAmount": 10000,
+          "option": 6
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 6
+        },
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 10000000,
+          "option": 6
+        }
+      ],
+      "7": [
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 11111,
+          "option": 7
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "betAmount": 200000,
+          "option": 7
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Kilimansharo",
+          "betAmount": 25000000,
+          "option": 7
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 100000000,
+          "option": 7
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 20000000,
+          "option": 7
+        },
+        {
+          "userid": "4fdbd674-b238-400b-8ca3-865a95acfb69",
+          "username": "Gatorling",
+          "betAmount": 20000,
+          "option": 7
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 2000000,
+          "option": 7
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 27777777,
+          "option": 7
+        },
+        {
+          "userid": "6e42912f-8398-4097-ab3f-6826796c8999",
+          "username": "Reverse",
+          "betAmount": 10000,
+          "option": 7
+        },
+        {
+          "userid": "95316fef-4c81-4c82-95e0-3c6ceba60b3d",
+          "username": "cutegirl420",
+          "betAmount": 1000000,
+          "option": 7
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 7
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 5000,
+          "option": 7
+        },
+        {
+          "userid": "9b65f742-f2fc-4cce-8d83-edcd8ddeded2",
+          "username": "DibbyDabba",
+          "betAmount": 250000,
+          "option": 7
+        }
+      ],
+      "8": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 20000000,
+          "option": 8
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 11111,
+          "option": 8
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "betAmount": 100000,
+          "option": 8
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Kilimansharo",
+          "betAmount": 10000000,
+          "option": 8
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 10000000,
+          "option": 8
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 500000,
+          "option": 8
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10000,
+          "option": 8
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 8
+        },
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 10000000,
+          "option": 8
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 20000,
+          "option": 8
+        },
+        {
+          "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+          "username": "Kiryu-kai Holdings Inc.",
+          "betAmount": 30000,
+          "option": 8
+        }
+      ],
+      "9": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 30000000,
+          "option": 9
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 11111,
+          "option": 9
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "betAmount": 100000,
+          "option": 9
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 2000000,
+          "option": 9
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 500000,
+          "option": 9
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10000,
+          "option": 9
+        },
+        {
+          "userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68",
+          "username": "Takoside",
+          "betAmount": 10000000,
+          "option": 9
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 9
+        },
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 10000000,
+          "option": 9
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 9
+        }
+      ],
+      "10": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 40000000,
+          "option": 10
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 11111,
+          "option": 10
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "betAmount": 1000000,
+          "option": 10
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Kilimansharo",
+          "betAmount": 5000000,
+          "option": 10
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 10000000,
+          "option": 10
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 2000000,
+          "option": 10
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 10
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10000,
+          "option": 10
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 10
+        },
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 10000000,
+          "option": 10
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 10
+        }
+      ],
+      "11": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 20000000,
+          "option": 11
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 11111,
+          "option": 11
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "betAmount": 200000,
+          "option": 11
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 3000000,
+          "option": 11
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 11
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 5000,
+          "option": 11
+        },
+        {
+          "userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68",
+          "username": "Takoside",
+          "betAmount": 10000000,
+          "option": 11
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 11
+        },
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 10000000,
+          "option": 11
+        }
+      ],
+      "12": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 100000000,
+          "option": 12
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 11111,
+          "option": 12
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "betAmount": 100000,
+          "option": 12
+        },
+        {
+          "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+          "username": "[1 Free Financial Advice]",
+          "betAmount": 25000000,
+          "option": 12
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 100000000,
+          "option": 12
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 10000000,
+          "option": 12
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 20000000,
+          "option": 12
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 150000,
+          "option": 12
+        },
+        {
+          "userid": "c05c147b-1c76-4cae-9897-6ed9c391b707",
+          "username": "[金] 3beat",
+          "betAmount": 5000000,
+          "option": 12
+        },
+        {
+          "userid": "95316fef-4c81-4c82-95e0-3c6ceba60b3d",
+          "username": "cutegirl420",
+          "betAmount": 5000000,
+          "option": 12
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 12
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 10000,
+          "option": 12
+        }
+      ],
+      "13": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 15000000,
+          "option": 13
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 11111,
+          "option": 13
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "betAmount": 150000,
+          "option": 13
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 100000000,
+          "option": 13
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 111111,
+          "option": 13
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 22222222,
+          "option": 13
+        },
+        {
+          "userid": "3d488f5d-0f32-4fdf-893f-eb9fb4f669f8",
+          "username": "Poru",
+          "betAmount": 15000,
+          "option": 13
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 13
+        }
+      ],
+      "14": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 25000000,
+          "option": 14
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 11111,
+          "option": 14
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "betAmount": 100000,
+          "option": 14
+        },
+        {
+          "userid": "350a8587-f53a-4b7a-9205-fdb2f6f18165",
+          "username": "[1 Free Financial Advice]",
+          "betAmount": 5000000,
+          "option": 14
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Kilimansharo",
+          "betAmount": 25000000,
+          "option": 14
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 10000000,
+          "option": 14
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 5000000,
+          "option": 14
+        },
+        {
+          "userid": "21d89d86-85bd-426f-a9ef-ebe396cb6da1",
+          "username": "Risuna69",
+          "betAmount": 5000,
+          "option": 14
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 14
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 33333333,
+          "option": 14
+        },
+        {
+          "userid": "95316fef-4c81-4c82-95e0-3c6ceba60b3d",
+          "username": "cutegirl420",
+          "betAmount": 1000000,
+          "option": 14
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 14
+        },
+        {
+          "userid": "38287682-5884-483f-9c56-29f57be5bb9a",
+          "username": "[天] Tenshi X Tenshi X Tenshi",
+          "betAmount": 10000000,
+          "option": 14
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 25000,
+          "option": 14
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 14
+        }
+      ],
+      "15": [
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 15000000,
+          "option": 15
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 11111,
+          "option": 15
+        },
+        {
+          "userid": "3cfd1ad5-8375-408a-9afb-1f6ec0ef5ad0",
+          "username": "[朝]Ț̸̿h̴̕͜e̴̞̚ ̷̨͋V̶͕̚ơ̶̯i̶̚͜d̶̖̉",
+          "betAmount": 150000,
+          "option": 15
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "Kilimansharo",
+          "betAmount": 10000000,
+          "option": 15
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 100000000,
+          "option": 15
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1111111,
+          "option": 15
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 500000,
+          "option": 15
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 55555555,
+          "option": 15
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 5000,
+          "option": 15
+        }
+      ]
+    }
+  }
+}
