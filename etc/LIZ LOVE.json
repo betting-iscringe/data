@@ -1,0 +1,95 @@
+{
+  "86bba1da-5342-49d7-9625-5284fcb92f26": {
+    "id": "86bba1da-5342-49d7-9625-5284fcb92f26",
+    "topic": "What class will Pekora's first SR be in her FGO stream?",
+    "open": false,
+    "winOption": 3,
+    "totalPool": 126116111,
+    "closingTime": 1663585256157,
+    "options": [
+      { "optionid": 0, "option": "Saber" },
+      { "optionid": 1, "option": "Archer" },
+      { "optionid": 2, "option": "Lancer" },
+      { "optionid": 3, "option": "Rider" },
+      { "optionid": 4, "option": "Caster" },
+      { "optionid": 5, "option": "Assassin" },
+      { "optionid": 6, "option": "Berserker" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is cute",
+          "betAmount": 10000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 5000,
+          "option": 1
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is cute",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 11111111,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "ab69d48e-d029-4a5d-bf2d-f7544b3f3018",
+          "username": "[造] yfp",
+          "betAmount": 50000000,
+          "option": 2
+        }
+      ],
+      "3": [
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is cute",
+          "betAmount": 1000000,
+          "option": 3
+        }
+      ],
+      "4": [
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is cute",
+          "betAmount": 1000000,
+          "option": 4
+        },
+        {
+          "userid": "990400b5-f0e2-4b91-8aa6-5a74dc16bcc5",
+          "username": "💕HeartAttack💓 Financials",
+          "betAmount": 1000000,
+          "option": 4
+        }
+      ],
+      "5": [
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 50000000,
+          "option": 5
+        }
+      ],
+      "6": [
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is cute",
+          "betAmount": 1000000,
+          "option": 6
+        }
+      ]
+    }
+  }
+}
