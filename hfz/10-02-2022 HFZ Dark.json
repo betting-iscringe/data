@@ -1,1 +1,137 @@
-{"85de1f7e-e1cd-4acf-8dc1-8d6c1700df98": {"id": "85de1f7e-e1cd-4acf-8dc1-8d6c1700df98", "topic": "HFZ Dark - Match 1 - Tornado Tag Hell In A Cell", "open": false, "winOption": 1, "totalPool": 9500000, "closingTime": 1664723700000, "options": [{"optionid": 0, "option": "Bone Bros Inc."}, {"optionid": 1, "option": "Time Academy"}], "userBets": {"0": [{"userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89", "username": "become lamy", "betAmount": 5000000, "option": 0}], "1": [{"userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae", "username": "butwhy...", "betAmount": 2000000, "option": 1}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 1000000, "option": 1}, {"userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33", "username": "BeerSalad", "betAmount": 500000, "option": 1}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 1000000, "option": 1}]}}}
+{
+  "85de1f7e-e1cd-4acf-8dc1-8d6c1700df98": {
+    "id": "85de1f7e-e1cd-4acf-8dc1-8d6c1700df98",
+    "topic": "HFZ Dark - Match 1 - Tornado Tag Hell In A Cell",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 9500000,
+    "closingTime": 1664723700000,
+    "options": [
+      { "optionid": 0, "option": "Bone Bros Inc." },
+      { "optionid": 1, "option": "Time Academy" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 5000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 500000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "073fe52f-ecdb-4bde-923b-eaad153733c5": {
+    "id": "073fe52f-ecdb-4bde-923b-eaad153733c5",
+    "topic": "HFZ Dark - Match 2 - One Fall",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 154376735,
+    "closingTime": 1664724360000,
+    "options": [
+      { "optionid": 0, "option": "SSRB" },
+      { "optionid": 1, "option": "Watamate" },
+      { "optionid": 2, "option": "Draw" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 3000000,
+          "option": 0
+        },
+        {
+          "userid": "597120db-2ef8-4328-8e8c-928a4f6eb893",
+          "username": "Tako Inastments™",
+          "betAmount": 70403282,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 70000000,
+          "option": 1
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5423453,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is cute",
+          "betAmount": 50000,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000,
+          "option": 2
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 245000,
+          "option": 2
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 245000,
+          "option": 2
+        }
+      ]
+    }
+  }
+}
