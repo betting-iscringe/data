@@ -577,5 +577,191 @@
         }
       ]
     }
+  },
+  "e8d20d5e-969a-4da4-94a9-0e6fe662a620": {
+    "id": "e8d20d5e-969a-4da4-94a9-0e6fe662a620",
+    "topic": "HFZ Dark - Match 10 - Last Man Standing",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 21266000,
+    "closingTime": 1664732340000,
+    "options": [
+      { "optionid": 0, "option": "Alton" },
+      { "optionid": 1, "option": "Shinsuke Nakamura" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 16000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 250000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "9aab146d-283e-4abf-b838-6ad3f80ac98f": {
+    "id": "9aab146d-283e-4abf-b838-6ad3f80ac98f",
+    "topic": "HFZ Dark - Match 11 - UNITY Championship (Fantasy Zone retains on DQ)",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 13025000,
+    "closingTime": 1664733240000,
+    "options": [
+      { "optionid": 0, "option": "Truth & Consequences" },
+      { "optionid": 1, "option": "Fantasy Zone" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 25000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "9e8fc4d6-45aa-4439-a697-c85a6c4a2871": {
+    "id": "9e8fc4d6-45aa-4439-a697-c85a6c4a2871",
+    "topic": "HFZ Dark - Match 12 - Hell In A Cell",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 7100000,
+    "closingTime": 1664733897524,
+    "options": [
+      { "optionid": 0, "option": "Coco" },
+      { "optionid": 1, "option": "Rosalyn" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "3b219e9b-c446-48f6-b469-1fd68fa784cd": {
+    "id": "3b219e9b-c446-48f6-b469-1fd68fa784cd",
+    "topic": "HFZ Dark - Match 13 - 2 of 3 Falls",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 4080000,
+    "closingTime": 1664735340000,
+    "options": [
+      { "optionid": 0, "option": "Hitomi Chris" },
+      { "optionid": 1, "option": "Egg" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 30000,
+          "option": 1
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 50000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ]
+    }
   }
 }
