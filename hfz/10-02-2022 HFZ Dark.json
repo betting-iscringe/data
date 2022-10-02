@@ -388,5 +388,194 @@
         }
       ]
     }
+  },
+  "c9acb650-bf4f-4db6-8b60-5d4115d0a7e9": {
+    "id": "c9acb650-bf4f-4db6-8b60-5d4115d0a7e9",
+    "topic": "HFZ Dark - Match 7 - Extreme Rules",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 15000000,
+    "closingTime": 1664728860000,
+    "options": [
+      { "optionid": 0, "option": "BIG FOLLOWS" },
+      { "optionid": 1, "option": "Ankimo" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 2000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is cute",
+          "betAmount": 3000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "baac3f62-da0c-4d64-8c16-ecd6cbcebe60": {
+    "id": "baac3f62-da0c-4d64-8c16-ecd6cbcebe60",
+    "topic": "HFZ Dark - Match 8 - Tag Match (One Fall)",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 12000000,
+    "closingTime": 1664729820000,
+    "options": [
+      { "optionid": 0, "option": "Magni & Vesper" },
+      { "optionid": 1, "option": "Kaoru & Kira" },
+      { "optionid": 2, "option": "Draw & Gods" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 1255555,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is cute",
+          "betAmount": 2744445,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "a110602a-efbd-4366-8150-4173fe5a8560": {
+    "id": "a110602a-efbd-4366-8150-4173fe5a8560",
+    "topic": "HFZ Dark - Match 9 - Timed KO Elimination",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 19200000,
+    "closingTime": 1664730979498,
+    "options": [
+      { "optionid": 0, "option": "Death Sensei" },
+      { "optionid": 1, "option": "Merakyat" },
+      { "optionid": 2, "option": "Civia" },
+      { "optionid": 3, "option": "Yogiri" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 500000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 500000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 2
+        }
+      ],
+      "3": [
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 3
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 5000000,
+          "option": 3
+        }
+      ]
+    }
   }
 }
