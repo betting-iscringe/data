@@ -289,5 +289,48 @@
         }
       ]
     }
+  },
+
+  "9eae0b0e-a6a8-4d35-b5a5-ec305066a31e": {
+    "id": "9eae0b0e-a6a8-4d35-b5a5-ec305066a31e",
+    "topic": "World Cup 2022 - Ro16 - Game 4",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 30050000,
+    "closingTime": 1670179511943,
+    "options": [
+      { "optionid": 0, "option": "England" },
+      { "optionid": 1, "option": "Senegal" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is cute",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+          "username": "sakura matou fan 2001 ",
+          "betAmount": 10000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 50000,
+          "option": 1
+        }
+      ]
+    }
   }
 }

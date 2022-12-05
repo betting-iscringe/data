@@ -11,6 +11,9 @@ if __name__ == "__main__":
 		out = {}
 		with open(scriptDir+"\\"+instructions[0]+".json", "w", encoding='utf8') as outfile:
 			for id in instructions[1:]:
-				if not data[id]["open"]:
-					out[id] = data[id]
+				if id in data:
+					if not data[id]["open"]:
+						out[id] = data[id]
+				else:
+					print(id + " does not exist")
 			json.dump(out, outfile, ensure_ascii=False)
