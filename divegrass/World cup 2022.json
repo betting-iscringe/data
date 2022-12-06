@@ -290,7 +290,6 @@
       ]
     }
   },
-
   "9eae0b0e-a6a8-4d35-b5a5-ec305066a31e": {
     "id": "9eae0b0e-a6a8-4d35-b5a5-ec305066a31e",
     "topic": "World Cup 2022 - Ro16 - Game 4",
@@ -327,6 +326,204 @@
         {
           "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
           "username": "[草] potato",
+          "betAmount": 50000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "5a0fafa0-69ae-42c3-8077-af7ac2019310": {
+    "id": "5a0fafa0-69ae-42c3-8077-af7ac2019310",
+    "topic": "World Cup - Ro16",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 720145555,
+    "closingTime": 1670250600000,
+    "options": [
+      { "optionid": 0, "option": "Japan" },
+      { "optionid": 1, "option": "Croatia" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 900000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "2cbee595-c587-4d8c-a8d3-37352a23be69",
+          "username": "[草] Avarice",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "c018ddfa-75c7-46c8-8030-159f65ba1e87",
+          "username": "[金] NenePro Ltd.",
+          "betAmount": 55555555,
+          "option": 0
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "6e42912f-8398-4097-ab3f-6826796c8999",
+          "username": "Reverse",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "a347e75c-cb24-416c-ae8b-aec40730cd54",
+          "username": "Gawrons(๑╹ᆺ╹)",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+          "username": "Kiryu-kai Holdings Inc.",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "026f62f4-ae25-4c4e-a9b5-0912a55bf82c",
+          "username": "Joe",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "f6151e92-d5b1-4dfd-a4b5-5a1951601e00",
+          "username": "🤖",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "e4cd1c0a-4973-4d99-9314-6ef09ff7156f",
+          "username": "Mata",
+          "betAmount": 40000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "2cbee595-c587-4d8c-a8d3-37352a23be69",
+          "username": "[草] Avarice",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "889a7f7f-9803-440e-b4a4-bdf75b97c5f0",
+          "username": "Tomato",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "Collective Onobot Fund",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+          "username": "sakura matou fan 2001 ",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "570f3001-d94d-4f6f-80c4-4128c5257058",
+          "username": "M",
+          "betAmount": 25000000,
+          "option": 1
+        },
+        {
+          "userid": "8e500bd7-e915-44d9-a489-71b4400c3e8d",
+          "username": "- ",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "e869bf05-bb93-43d1-bcdb-834763fa8972",
+          "username": "Lurker Tako",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+          "username": "Kiryu-kai Holdings Inc.",
+          "betAmount": 250000,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 50000,
+          "option": 1
+        },
+        {
+          "userid": "79445d48-2fe8-4e5f-80a8-8d6446413567",
+          "username": "Gabydenoy",
           "betAmount": 50000,
           "option": 1
         }
