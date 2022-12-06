@@ -529,5 +529,119 @@
         }
       ]
     }
+  },
+  "85ffedeb-e74f-4786-ba09-678f3af35574": {
+    "id": "85ffedeb-e74f-4786-ba09-678f3af35574",
+    "topic": "World Cup 2022 - Ro16 - Game 6",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 469100000,
+    "closingTime": 1670265900000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Brazil"
+      },
+      {
+        "optionid": 1,
+        "option": "South Korea"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 15000000,
+          "option": 0
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "a347e75c-cb24-416c-ae8b-aec40730cd54",
+          "username": "Gawrons(๑╹ᆺ╹)",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "ecea22a5-4e56-4481-aebf-c0a89a59bfd3",
+          "username": "s7unned",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+          "username": "sakura matou fan 2001 ",
+          "betAmount": 25000000,
+          "option": 0
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS99",
+          "betAmount": 2000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "570f3001-d94d-4f6f-80c4-4128c5257058",
+          "username": "M",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "026f62f4-ae25-4c4e-a9b5-0912a55bf82c",
+          "username": "Joe",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 2000000,
+          "option": 1
+        }
+      ]
+    }
   }
 }
