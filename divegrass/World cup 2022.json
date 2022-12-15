@@ -1411,5 +1411,150 @@
         }
       ]
     }
+  },
+
+  "494032fa-9329-405b-920d-87caabe36e23": {
+    "id": "494032fa-9329-405b-920d-87caabe36e23",
+    "topic": "World Cup 2022 - Semifinals - Game 1",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 581270000,
+    "closingTime": 1670957100000,
+    "options": [
+      { "optionid": 0, "option": "Argentina" },
+      { "optionid": 1, "option": "Croatia" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "570f3001-d94d-4f6f-80c4-4128c5257058",
+          "username": "M",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 50000000,
+          "option": 0
+        },
+        {
+          "userid": "10e40045-ec68-405e-8717-386496a63830",
+          "username": "LightS",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "889a7f7f-9803-440e-b4a4-bdf75b97c5f0",
+          "username": "Tomato",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "026f62f4-ae25-4c4e-a9b5-0912a55bf82c",
+          "username": "Joe",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 20000000,
+          "option": 0
+        },
+        {
+          "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+          "username": "Kiryu-kai Holdings Inc.",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "66d2c24e-2d8e-4049-b72c-3be52b150410",
+          "username": "chammerlove",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "f6151e92-d5b1-4dfd-a4b5-5a1951601e00",
+          "username": "🤖",
+          "betAmount": 100000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 50000000,
+          "option": 1
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "ece598c8-d098-4347-8d01-986bbdb49632",
+          "username": "Sertraline Pharma",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+          "username": "Kiryu-kai Holdings Inc.",
+          "betAmount": 250000,
+          "option": 1
+        },
+        {
+          "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+          "username": "sakura matou fan 2001 ",
+          "betAmount": 25000000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 20000,
+          "option": 1
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 100000000,
+          "option": 1
+        }
+      ]
+    }
   }
 }
