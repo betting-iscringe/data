@@ -1556,5 +1556,221 @@
         }
       ]
     }
+  },
+  "3e1f2ad6-619b-4624-9f9c-32a4207ef88a": {
+    "id": "3e1f2ad6-619b-4624-9f9c-32a4207ef88a",
+    "topic": "World Cup 2022 - Semifinals - Game 2",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 1205320000,
+    "closingTime": 1671043500000,
+    "options": [
+      { "optionid": 0, "option": "France" },
+      { "optionid": 1, "option": "Morocco" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 50000000,
+          "option": 0
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "026f62f4-ae25-4c4e-a9b5-0912a55bf82c",
+          "username": "Joe",
+          "betAmount": 50000000,
+          "option": 0
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+          "username": "Kiryu-kai Holdings Inc.",
+          "betAmount": 250000,
+          "option": 0
+        },
+        {
+          "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+          "username": "sakura matou fan 2001 ",
+          "betAmount": 25000000,
+          "option": 0
+        },
+        {
+          "userid": "570f3001-d94d-4f6f-80c4-4128c5257058",
+          "username": "M",
+          "betAmount": 25000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 3000000,
+          "option": 0
+        },
+        {
+          "userid": "f6151e92-d5b1-4dfd-a4b5-5a1951601e00",
+          "username": "🤖",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is a mahjong expert",
+          "betAmount": 50000000,
+          "option": 0
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "51712aad-0a34-4b10-a13c-1ea91dced49f",
+          "username": "brat",
+          "betAmount": 80000000,
+          "option": 0
+        },
+        {
+          "userid": "6c2657e8-663f-409a-9c6e-b633c0007a33",
+          "username": "Central Autism Republic",
+          "betAmount": 20000000,
+          "option": 0
+        },
+        {
+          "userid": "8e500bd7-e915-44d9-a489-71b4400c3e8d",
+          "username": "- ",
+          "betAmount": 100000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "10e40045-ec68-405e-8717-386496a63830",
+          "username": "LightS",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 500000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "ece598c8-d098-4347-8d01-986bbdb49632",
+          "username": "Sertraline Pharma",
+          "betAmount": 500000,
+          "option": 1
+        },
+        {
+          "userid": "026f62f4-ae25-4c4e-a9b5-0912a55bf82c",
+          "username": "Joe",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "d0645b9d-1617-4943-858e-c8a295790901",
+          "username": "[金] The Atlanta Falcons",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+          "username": "The Tampa Bay Buccaneers",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 20000000,
+          "option": 1
+        },
+        {
+          "userid": "a55087fb-a2f4-4d0f-962f-082e6da3f003",
+          "username": "Kiryu-kai Holdings Inc.",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "66d2c24e-2d8e-4049-b72c-3be52b150410",
+          "username": "chammerlove",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "b4368319-13ea-48e7-8ab5-1db62745c3d8",
+          "username": "Sea Shepherd Conservation Society",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "8b16c5d9-1d06-467c-9c85-eea8d4bf7f68",
+          "username": "Takoside",
+          "betAmount": 30000000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 20000,
+          "option": 1
+        },
+        {
+          "userid": "51712aad-0a34-4b10-a13c-1ea91dced49f",
+          "username": "brat",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "698d89c5-03ce-4ceb-838c-ea9eeb11942d",
+          "username": "Holo Birding Association",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 50000,
+          "option": 1
+        }
+      ]
+    }
   }
 }
