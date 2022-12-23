@@ -822,5 +822,210 @@
         }
       ]
     }
+  },
+
+  "f185f85a-8f89-4ee1-a6dc-5a6fae25141f": {
+    "id": "f185f85a-8f89-4ee1-a6dc-5a6fae25141f",
+    "topic": "Divegrass Before Christmas - Ro16 - Game 1",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 550600000,
+    "closingTime": 1671467340000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/hfz/ wins by combat norma on the Christmas Map"
+      },
+      { "optionid": 1, "option": "/100oj/ gets 5 stars at the Tokyo Dome" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 2500000,
+          "option": 0
+        },
+        {
+          "userid": "cc0a046a-d2e3-4c57-862e-b37d37d21f49",
+          "username": "Zvent",
+          "betAmount": 7000000,
+          "option": 0
+        },
+        {
+          "userid": "64c0dd4a-eb3a-427d-bf86-64133efb3434",
+          "username": "Kitaguni Ltd.",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "570f3001-d94d-4f6f-80c4-4128c5257058",
+          "username": "M",
+          "betAmount": 25000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+          "username": "6letters",
+          "betAmount": 50000000,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 50000000,
+          "option": 1
+        },
+        {
+          "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+          "username": "The Tampa Bay Buccaneers",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "c018ddfa-75c7-46c8-8030-159f65ba1e87",
+          "username": "[金] NenePro Ltd.",
+          "betAmount": 100000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "e2a8d59c-0e35-477d-abb3-19008562afb3": {
+    "id": "e2a8d59c-0e35-477d-abb3-19008562afb3",
+    "topic": "Divegrass Before Christmas - Ro16 - Game 8",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 219000000,
+    "closingTime": 1671484200000,
+    "options": [
+      { "optionid": 0, "option": "/🗿/ 🗿🗿🗿🗿🗿 🗿🗿 🗿🗿 🗿🗿🗿🗿" },
+      {
+        "optionid": 1,
+        "option": "/lig/ lectures the enemy team with their 30-view Haircut."
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000,
+          "option": 0
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1250000,
+          "option": 0
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 50000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 2500000,
+          "option": 0
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "64c0dd4a-eb3a-427d-bf86-64133efb3434",
+          "username": "Kitaguni Ltd.",
+          "betAmount": 500000,
+          "option": 0
+        },
+        {
+          "userid": "570f3001-d94d-4f6f-80c4-4128c5257058",
+          "username": "M",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 50000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+          "username": "6letters",
+          "betAmount": 50000000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "55b4cbff-bbe8-4061-9ff2-194f53868401",
+          "username": "The Tampa Bay Buccaneers",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ]
+    }
   }
 }
