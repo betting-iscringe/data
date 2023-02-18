@@ -1,0 +1,437 @@
+{
+  "376dbc4c-09fd-49a2-88f5-821e0055da9d": {
+    "id": "376dbc4c-09fd-49a2-88f5-821e0055da9d",
+    "topic": "Kureiji Arcade - Game 1 - Hide & Seek; How many will be caught?",
+    "open": false,
+    "winOption": 4,
+    "totalPool": 233140000,
+    "closingTime": 1676714400000,
+    "options": [
+      { "optionid": 0, "option": "Nobody" },
+      { "optionid": 1, "option": "1-4" },
+      { "optionid": 2, "option": "5-8" },
+      { "optionid": 3, "option": "9-12" },
+      { "optionid": 4, "option": "13-16" },
+      { "optionid": 5, "option": "All 17 Participants" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 50000,
+          "option": 0
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 1000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 50000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 20000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 20000,
+          "option": 2
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 4000000,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 2
+        }
+      ],
+      "3": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 4000000,
+          "option": 3
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 3
+        },
+        {
+          "userid": "4e9796c4-dc45-4adc-9ee1-0729f7f95490",
+          "username": "Shubamebachi",
+          "betAmount": 50000000,
+          "option": 3
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 1000000,
+          "option": 3
+        }
+      ],
+      "4": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 100000000,
+          "option": 4
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 10000000,
+          "option": 4
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 8000000,
+          "option": 4
+        }
+      ],
+      "5": [
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is pretty",
+          "betAmount": 20000000,
+          "option": 5
+        },
+        {
+          "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+          "username": "Imyourtarget",
+          "betAmount": 10000000,
+          "option": 5
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 20000000,
+          "option": 5
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 5
+        }
+      ]
+    }
+  },
+  "745ed396-673b-42bf-b79a-fd8fe8095624": {
+    "id": "745ed396-673b-42bf-b79a-fd8fe8095624",
+    "topic": "Kureiji Arcade - Game 2 - Ollie Zombie Raid",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 767015000,
+    "closingTime": 1676714400000,
+    "options": [
+      { "optionid": 0, "option": "Zombies Win" },
+      { "optionid": 1, "option": "Humans Win" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 50000000,
+          "option": 0
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "4e9796c4-dc45-4adc-9ee1-0729f7f95490",
+          "username": "Shubamebachi",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+          "username": "Imyourtarget",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is pretty",
+          "betAmount": 50000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "698d89c5-03ce-4ceb-838c-ea9eeb11942d",
+          "username": "ホロ鳥観察協会",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 15000,
+          "option": 1
+        },
+        {
+          "userid": "4e9796c4-dc45-4adc-9ee1-0729f7f95490",
+          "username": "Shubamebachi",
+          "betAmount": 50000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "7005b629-207a-4a07-a035-93abfe97b8a2": {
+    "id": "7005b629-207a-4a07-a035-93abfe97b8a2",
+    "topic": "Kureiji Arcade - Game 5 - Olliempus Race Winning Team",
+    "open": false,
+    "winOption": 3,
+    "totalPool": 503055000,
+    "closingTime": 1676721600000,
+    "options": [
+      { "optionid": 0, "option": "Baelz, Shien, Temma" },
+      { "optionid": 1, "option": "Rio, Mori, Magni" },
+      { "optionid": 2, "option": "Rikka, Anya, Gamma" },
+      { "optionid": 3, "option": "Flayon, Fuma, Axel" },
+      { "optionid": 4, "option": "Kobo, Uyu, Bettel" },
+      { "optionid": 5, "option": "Astel, Vesper, Iofi" },
+      { "optionid": 6, "option": "Towa, Hakka, Aruran" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 30000000,
+          "option": 0
+        },
+        {
+          "userid": "4e9796c4-dc45-4adc-9ee1-0729f7f95490",
+          "username": "Shubamebachi",
+          "betAmount": 50000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 30000000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 30000000,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 2
+        }
+      ],
+      "3": [
+        {
+          "userid": "698d89c5-03ce-4ceb-838c-ea9eeb11942d",
+          "username": "ホロ鳥観察協会",
+          "betAmount": 5000000,
+          "option": 3
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 3
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 10000000,
+          "option": 3
+        }
+      ],
+      "4": [
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 5000,
+          "option": 4
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is pretty",
+          "betAmount": 2000000,
+          "option": 4
+        },
+        {
+          "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+          "username": "Imyourtarget",
+          "betAmount": 1000000,
+          "option": 4
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 2000000,
+          "option": 4
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 4
+        }
+      ],
+      "5": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 75000000,
+          "option": 5
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is pretty",
+          "betAmount": 100000000,
+          "option": 5
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 30000000,
+          "option": 5
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 5
+        }
+      ],
+      "6": [
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 75000000,
+          "option": 6
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 50000,
+          "option": 6
+        },
+        {
+          "userid": "ff0a6eb5-779a-49cb-9f5f-4642a3bfc903",
+          "username": "Imyourtarget",
+          "betAmount": 20000000,
+          "option": 6
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 10000000,
+          "option": 6
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 10000000,
+          "option": 6
+        },
+        {
+          "userid": "698d89c5-03ce-4ceb-838c-ea9eeb11942d",
+          "username": "ホロ鳥観察協会",
+          "betAmount": 15000000,
+          "option": 6
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 6
+        }
+      ]
+    }
+  }
+}
