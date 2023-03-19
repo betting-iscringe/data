@@ -6,9 +6,9 @@ Python 3 script that calls nasfaq bettingpools api
 
 Requires [python 3](https://www.python.org/downloads/) to run script.
 
-Create a file named `instructions.txt` located in the same folder of the script
+1. Create a file named `instructions.txt` in the same folder of the script
 
-In the file, write the name of event category in the first line and all the betting pool ids (in order) in the next lines
+2. In `instructions.txt`, write the name of event category on the first line and all the betting pool IDs (in order) on the next lines
 ```
 VTL Example
 9c22fc01-588b-479e-be31-74c769f32407
@@ -20,13 +20,11 @@ c3d03628-471f-4d0f-8897-ca20c91f8e01
 9b66497c-7ce9-438d-92ec-7942eaa43bf7
 7697ae51-1e25-44f7-89cd-e95a5037df0d
 ```
-Run the python file to generate the betting data and it should make a file named `<event_category>.json`
+3. Run the python file to generate the betting data. This will create a file named `<event_category>.json`. For example, if your event category is "VTL Example" the file would be named `VTL Example.json`
 
-In the example above, the file would be named `VTL Example.json`
+4. Open the corresponding betting type folder (`divegrass`, `hfz`, `etc`) and move the generated JSON file into it.
 
-Then open the corresponding betting type folder `divegrass`, `hfz` and `etc` and place the generated json in it.
-
-Next, edit `index.json` in the same folder and add the event category to the array of names.
+5. Edit `index.json` in that folder and add the event category to the array of names.
 ```json
 {
   "names": [
@@ -49,5 +47,4 @@ Next, edit `index.json` in the same folder and add the event category to the arr
   ]
 }
 ```
-
-Finally, commit changes and push and board should auto update in a minute or two
+6. Commit your changes and push them to update the board automatically within a minute or two.
