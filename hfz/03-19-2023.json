@@ -1,1 +1,208 @@
-{"5a33192b-38fc-419a-8c03-f42824f7b0ee": {"id": "5a33192b-38fc-419a-8c03-f42824f7b0ee", "topic": "HoloFightZ - Match 7 - Extreme Rules", "open": false, "winOption": 0, "totalPool": 313050000, "closingTime": 1679244540000, "options": [{"optionid": 0, "option": "Mikoler"}, {"optionid": 1, "option": "Haato"}], "userBets": {"0": [{"userid": "e2f158e4-b22e-4562-9236-a11aab56c20e", "username": "TFRBATTLERISGAY", "betAmount": 50000, "option": 0}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 100000000, "option": 0}, {"userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33", "username": "BeerSalad", "betAmount": 15000000, "option": 0}, {"userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae", "username": "butwhy...", "betAmount": 50000000, "option": 0}, {"userid": "c27401a5-7d8b-4a16-a13c-c8c3a2240dd0", "username": "Nesp", "betAmount": 10000000, "option": 0}, {"userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9", "username": "sanQ", "betAmount": 25000000, "option": 0}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 10000000, "option": 0}], "1": [{"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 100000000, "option": 1}, {"userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60", "username": "[HFZ] ELFS999", "betAmount": 3000000, "option": 1}]}}, "fef2bc2d-f133-44cf-aa16-e6a12f40ab76": {"id": "fef2bc2d-f133-44cf-aa16-e6a12f40ab76", "topic": "HoloFightZ - Match 8 - Royal Rumble Final 5", "open": false, "winOption": 1, "totalPool": 168000000, "closingTime": 1679245500000, "options": [{"optionid": 0, "option": "Subaru"}, {"optionid": 1, "option": "Kronii"}, {"optionid": 2, "option": "AZKi"}, {"optionid": 3, "option": "Kobo"}, {"optionid": 4, "option": "Flare"}], "userBets": {"0": [{"userid": "9f92d01e-adda-435b-a555-bb89d4b956e6", "username": "HFZArchiveAnon", "betAmount": 8000000, "option": 0}, {"userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33", "username": "BeerSalad", "betAmount": 10000000, "option": 0}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 10000000, "option": 0}, {"userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9", "username": "sanQ", "betAmount": 5000000, "option": 0}], "1": [{"userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33", "username": "BeerSalad", "betAmount": 10000000, "option": 1}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 10000000, "option": 1}], "2": [], "3": [{"userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33", "username": "BeerSalad", "betAmount": 10000000, "option": 3}, {"userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60", "username": "[HFZ] ELFS999", "betAmount": 5000000, "option": 3}], "4": [{"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 100000000, "option": 4}]}}}
+{
+  "5a33192b-38fc-419a-8c03-f42824f7b0ee": {
+    "id": "5a33192b-38fc-419a-8c03-f42824f7b0ee",
+    "topic": "HoloFightZ - Match 7 - Extreme Rules",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 313050000,
+    "closingTime": 1679244540000,
+    "options": [
+      { "optionid": 0, "option": "Mikoler" },
+      { "optionid": 1, "option": "Haato" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 50000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 15000000,
+          "option": 0
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 50000000,
+          "option": 0
+        },
+        {
+          "userid": "c27401a5-7d8b-4a16-a13c-c8c3a2240dd0",
+          "username": "Nesp",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 25000000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 10000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 3000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "fef2bc2d-f133-44cf-aa16-e6a12f40ab76": {
+    "id": "fef2bc2d-f133-44cf-aa16-e6a12f40ab76",
+    "topic": "HoloFightZ - Match 8 - Royal Rumble Final 5",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 168000000,
+    "closingTime": 1679245500000,
+    "options": [
+      { "optionid": 0, "option": "Subaru" },
+      { "optionid": 1, "option": "Kronii" },
+      { "optionid": 2, "option": "AZKi" },
+      { "optionid": 3, "option": "Kobo" },
+      { "optionid": 4, "option": "Flare" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 8000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 5000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 10000000,
+          "option": 1
+        }
+      ],
+      "2": [],
+      "3": [
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 3
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 5000000,
+          "option": 3
+        }
+      ],
+      "4": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 100000000,
+          "option": 4
+        }
+      ]
+    }
+  },
+  "fff144af-ba9f-496b-8cbd-21b2981022aa": {
+    "id": "fff144af-ba9f-496b-8cbd-21b2981022aa",
+    "topic": "HoloFightZ - Match 9 - WAR GAMES",
+    "winOption": "0",
+    "timestamp": 1679785403203,
+    "poolTotal": 225923595,
+    "options": [
+      { "optionid": 0, "option": "Mio  & Haato & Flare & Pekora" },
+      { "optionid": 1, "option": "AZKi & Kobo & Mikoler & Subaru" }
+    ],
+    "archive": true,
+    "userBets": [
+      {
+        "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+        "username": "butwhy...",
+        "winAmount": 110005689.06
+      },
+      {
+        "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+        "username": "[HFZ] ELFS999",
+        "winAmount": -4000000
+      },
+      {
+        "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+        "username": "IKZ",
+        "winAmount": 35917905.94
+      },
+      {
+        "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+        "username": "BeerSalad",
+        "winAmount": -10000000
+      },
+      {
+        "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+        "username": "HFZArchiveAnon",
+        "winAmount": -1000000
+      },
+      {
+        "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+        "username": "TowaBaby",
+        "winAmount": -20000
+      },
+      {
+        "userid": "d151de00-6642-4807-8db7-615be63c0103",
+        "username": "skeleturtle-2",
+        "winAmount": -2000000
+      },
+      {
+        "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+        "username": "sanQ",
+        "winAmount": -10000000
+      }
+    ]
+  }
+}
