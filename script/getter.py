@@ -9,7 +9,7 @@ if __name__ == "__main__":
 	with open(scriptDir+"\\instructions.txt", 'r') as instructFile:
 		instructions = instructFile.read().splitlines()
 		out = {}
-		with open(scriptDir+"\\"+instructions[0]+".json", "w", encoding='utf8') as outfile:
+		with open(scriptDir+"\\"+instructions[0].strip()+".json", "w", encoding='utf8') as outfile:
 			for id in instructions[1:]:
 				if id in data:
 					if not data[id]["open"]:
