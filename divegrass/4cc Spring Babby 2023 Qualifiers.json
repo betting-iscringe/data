@@ -1,1 +1,401 @@
-{"c43585fa-28b3-4549-93a8-096167b64c84": {"id": "c43585fa-28b3-4549-93a8-096167b64c84", "topic": "4cc Spring Babby 2023 Qualifiers - Group Stage - Day 1 - Game 4", "open": false, "winOption": 1, "totalPool": 404310000, "closingTime": 1682101800000, "options": [{"optionid": 0, "option": "/vt/ extorts the artists for a pngtuber"}, {"optionid": 1, "option": "/i/ does a quick sketch of their victory pose"}, {"optionid": 2, "option": "Draw"}], "userBets": {"0": [{"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 100000, "option": 0}, {"userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", "username": "Bombshell Blondes Banking", "betAmount": 100000000, "option": 0}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 100000000, "option": 0}, {"userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae", "username": "butwhy...", "betAmount": 100000000, "option": 0}], "1": [{"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 5000, "option": 1}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 100000, "option": 1}, {"userid": "889a7f7f-9803-440e-b4a4-bdf75b97c5f0", "username": "Tomato", "betAmount": 2000000, "option": 1}, {"userid": "708be5de-6f82-4353-8d4c-892c1626512e", "username": "IKZ", "betAmount": 1000000, "option": 1}], "2": [{"userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9", "username": "TowaBaby", "betAmount": 5000, "option": 2}, {"userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358", "username": "[草] potato", "betAmount": 100000, "option": 2}, {"userid": "9c7e9000-e535-454c-855e-176509d89e3e", "username": "Asdae", "betAmount": 1000000, "option": 2}, {"userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3", "username": "6letters", "betAmount": 100000000, "option": 2}]}}}
+{
+  "c43585fa-28b3-4549-93a8-096167b64c84": {
+    "id": "c43585fa-28b3-4549-93a8-096167b64c84",
+    "topic": "4cc Spring Babby 2023 Qualifiers - Group Stage - Day 1 - Game 4",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 404310000,
+    "closingTime": 1682101800000,
+    "options": [
+      { "optionid": 0, "option": "/vt/ extorts the artists for a pngtuber" },
+      {
+        "optionid": 1,
+        "option": "/i/ does a quick sketch of their victory pose"
+      },
+      { "optionid": 2, "option": "Draw" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...",
+          "betAmount": 100000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 5000,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "889a7f7f-9803-440e-b4a4-bdf75b97c5f0",
+          "username": "Tomato",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 5000,
+          "option": 2
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 100000,
+          "option": 2
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 1000000,
+          "option": 2
+        },
+        {
+          "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+          "username": "6letters",
+          "betAmount": 100000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "d715bde4-cf87-4c0e-81e9-d34d4184e8c1": {
+    "id": "d715bde4-cf87-4c0e-81e9-d34d4184e8c1",
+    "topic": "4cc Spring Babby 2023 Qualifiers - Group Stage - Day 2 - Game 3",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 753904444,
+    "closingTime": 1682185800000,
+    "options": [
+      { "optionid": 0, "option": "/his/ puts this one down in the books" },
+      {
+        "optionid": 1,
+        "option": "/vt/ doesn't even watch streams, let alone read books"
+      },
+      { "optionid": 2, "option": "Draw" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 100000,
+          "option": 0
+        },
+        {
+          "userid": "51712aad-0a34-4b10-a13c-1ea91dced49f",
+          "username": "brat",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "889a7f7f-9803-440e-b4a4-bdf75b97c5f0",
+          "username": "Tomato",
+          "betAmount": 2000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 250000,
+          "option": 1
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...afk",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 4444444,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "6a9379c7-8f35-4d5e-91e1-d8fdf7cfa4bc",
+          "username": "Fauna's Left Antler",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+          "username": "6letters",
+          "betAmount": 100000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 10000,
+          "option": 2
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 2
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 100000000,
+          "option": 2
+        },
+        {
+          "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+          "username": "sakura matou fan 2001 ",
+          "betAmount": 25000000,
+          "option": 2
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 2
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 1000000,
+          "option": 2
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 1000000,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 3000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "6e88cb28-fffc-4a77-9633-ce93cf52a225": {
+    "id": "6e88cb28-fffc-4a77-9633-ce93cf52a225",
+    "topic": "4cc Spring Babby 2023 Qualifiers - Group Stage - Day 3 - Game 3",
+    "open": false,
+    "winOption": 2,
+    "totalPool": 1149600000,
+    "closingTime": 1682272200000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/vt/ is just a live gif if you think about it"
+      },
+      {
+        "optionid": 1,
+        "option": "/wsg/ gifs are just vtuber clips if you think about it"
+      },
+      { "optionid": 2, "option": "Draw" }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "6a9379c7-8f35-4d5e-91e1-d8fdf7cfa4bc",
+          "username": "Fauna's Left Antler",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "9c7e9000-e535-454c-855e-176509d89e3e",
+          "username": "Asdae",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "9ae2d372-c5b0-404e-8bad-c9d9b59508d3",
+          "username": "6letters",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 500000,
+          "option": 0
+        },
+        {
+          "userid": "2064544e-b371-46db-b9ee-d0cf9c9338d3",
+          "username": "[造] Triangle Consulting",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "1da7c649-ade5-4538-8605-17c4a6fe6cae",
+          "username": "butwhy...afk",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 100000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "889a7f7f-9803-440e-b4a4-bdf75b97c5f0",
+          "username": "Tomato",
+          "betAmount": 2000000,
+          "option": 1
+        },
+        {
+          "userid": "fe9ab1db-49b5-455c-8e5f-0a3c556a01a1",
+          "username": "PankoManko",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "51712aad-0a34-4b10-a13c-1ea91dced49f",
+          "username": "brat",
+          "betAmount": 100000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 4000000,
+          "option": 2
+        },
+        {
+          "userid": "e9728fa6-e5bd-4ed3-b239-e093c17df712",
+          "username": "sakura matou fan 2001 ",
+          "betAmount": 25000000,
+          "option": 2
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 2
+        },
+        {
+          "userid": "2d0d6d2e-bde1-4da1-a716-1014ef93cc89",
+          "username": "become lamy",
+          "betAmount": 100000000,
+          "option": 2
+        },
+        {
+          "userid": "dbadcde2-13b0-4498-a8d7-fec9431f9259",
+          "username": "BIG PLANS",
+          "betAmount": 100000000,
+          "option": 2
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 2
+        },
+        {
+          "userid": "51712aad-0a34-4b10-a13c-1ea91dced49f",
+          "username": "brat",
+          "betAmount": 100000000,
+          "option": 2
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 1000000,
+          "option": 2
+        }
+      ]
+    }
+  }
+}
