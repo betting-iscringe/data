@@ -1,0 +1,39 @@
+name: "Update indices"
+
+on:
+  push:
+    branches:
+      - "master"
+    paths-ignore:
+      - 'index.json'
+  workflow_dispatch:
+
+concurrency:
+  group: "update"
+  cancel-in-progress: false
+
+jobs:
+  update-indices:
+    name: "Update index.json automatically"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - name: runs local action to check updated files
+        id: updater
+        uses: betting-iscringe/updateIndices@main
+      - name: stage changed files
+        run: git add .
+        if: steps.updater.outputs.hasUpdates
+      - run: git config user.name github-actions-bot
+        if: steps.updater.outputs.hasUpdates
+      - run: git config user.email support+actions@github.com
+        if: steps.updater.outputs.hasUpdates
+      - name: commit changed files
+        run: "git commit -m Updated: ${{ steps.updater.outputs.folders }}"
+        if: steps.updater.outputs.hasUpdates
+      - name: fetch from master
+        run: git fetch origin master
+        if: steps.updater.outputs.hasUpdates
+      - name: push code to master
+        run: git push origin HEAD:master
+        if: steps.updater.outputs.hasUpdates
