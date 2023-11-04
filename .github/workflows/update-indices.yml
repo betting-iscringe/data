@@ -14,6 +14,8 @@ concurrency:
 
 jobs:
   update-indices:
+    permissions:
+      contents: write 
     name: "Update index.json automatically"
     runs-on: ubuntu-latest
     steps:
