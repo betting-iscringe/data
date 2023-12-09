@@ -24,27 +24,4 @@ c3d03628-471f-4d0f-8897-ca20c91f8e01
 
 4. Open the corresponding betting type folder (`divegrass`, `hfz`, `etc`) and move the generated JSON file into it.
 
-5. Edit `index.json` in that folder and add the event category to the array of names.
-```json
-{
-  "names": [
-    "VTL2 Day 1",
-    "VTL2 Day 2 (only winnings)",
-    "VTL2 Day 3",
-    "VTL2 Day 4",
-    "VTL2 Day 5",
-    "VTL2 Day 6",
-    "4cc Spring Babby",
-    "4cc Spring Babby days 2, 5 and 11 (only winnings)",
-    "4cc Summer Cup",
-    "VTL3 Day 1",
-    "VTL3 Day 2",
-    "VTL3 Day 3",
-    "VTL3 Day 4",
-    "VTL3 Day 5",
-    "VTL3 Day 6",
-    "VTL Example"
-  ]
-}
-```
-6. Commit your changes and push them to update the board automatically within a minute or two.
+5. Commit your changes and push them to update the board automatically within a minute or two.
