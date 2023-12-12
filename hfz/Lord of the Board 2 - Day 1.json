@@ -1,0 +1,2714 @@
+{
+  "3c5122b6-b548-4c29-ba93-1d34394ed2bc": {
+    "id": "3c5122b6-b548-4c29-ba93-1d34394ed2bc",
+    "topic": "Lord of the Board 2 - Day 1 - Match 24 - Main Event: Heaven & Hell In A Cell",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 1146235810,
+    "closingTime": 1702161900000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/hfz/"
+      },
+      {
+        "optionid": 1,
+        "option": "THEKanataso"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 120000000,
+          "option": 0
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 1500000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 1
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 35000,
+          "option": 1
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1890000,
+          "option": 1
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 500000000,
+          "option": 1
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463",
+          "username": "Kuro_Pantsu",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "2dfc252d-eaff-4a17-8040-19eccd4bfcb7": {
+    "id": "2dfc252d-eaff-4a17-8040-19eccd4bfcb7",
+    "topic": "Lord of the Board 2 - Day 1 - Match 5 - Singles Group C",
+    "open": false,
+    "winOption": 2,
+    "totalPool": 1578066114,
+    "closingTime": 1702144800000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/corpo/"
+      },
+      {
+        "optionid": 1,
+        "option": "/savior/"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "6846174a-8250-44ee-90eb-dc2e2ea1ffc9",
+          "username": "mette",
+          "betAmount": 4444444,
+          "option": 0
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 0
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 350050,
+          "option": 0
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 500000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 50000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 1
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is a Splatoon expert",
+          "betAmount": 500000000,
+          "option": 1
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 500000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1600000,
+          "option": 1
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 15000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 2500000,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 5000000,
+          "option": 2
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 15000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "54199fee-832e-48e6-bbe6-620409abf4f3": {
+    "id": "54199fee-832e-48e6-bbe6-620409abf4f3",
+    "topic": "Lord of the Board 2 - Day 1 - Match 3 - Singles Group B",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 1786777176,
+    "closingTime": 1702143000000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/hfz/"
+      },
+      {
+        "optionid": 1,
+        "option": "/koopa/"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 700000,
+          "option": 0
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is a Splatoon expert",
+          "betAmount": 500000000,
+          "option": 0
+        },
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 50000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 120000000,
+          "option": 0
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1500000,
+          "option": 0
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "6846174a-8250-44ee-90eb-dc2e2ea1ffc9",
+          "username": "mette",
+          "betAmount": 555556,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "ba90744b-f887-4fb9-9eee-b8e1b3c4d4b1",
+          "username": "Taba",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 350000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 1
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 3000000,
+          "option": 1
+        },
+        {
+          "userid": "6846174a-8250-44ee-90eb-dc2e2ea1ffc9",
+          "username": "mette",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 100000000,
+          "option": 2
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 5000000,
+          "option": 2
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 3000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "6b6041f2-2a49-4200-af6b-a2a9783c2887": {
+    "id": "6b6041f2-2a49-4200-af6b-a2a9783c2887",
+    "topic": "Lord of the Board 2 - Day 1 - Match 22 - Singles Group G",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 1062721620,
+    "closingTime": 1702160100000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Now that the dust has settled..."
+      },
+      {
+        "optionid": 1,
+        "option": "/mayo/"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 0
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 1100000,
+          "option": 0
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 2500000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 1
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 500000,
+          "option": 1
+        },
+        {
+          "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463",
+          "username": "Kuro_Pantsu",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 15000000,
+          "option": 1
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 500000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 2
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 5000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "26db394e-6bbc-43b5-b410-26206e0743d8": {
+    "id": "26db394e-6bbc-43b5-b410-26206e0743d8",
+    "topic": "Lord of the Board 2 - Day 1 - Match 10 - Singles Group G",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 1604571620,
+    "closingTime": 1702149300000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/vsj/"
+      },
+      {
+        "optionid": 1,
+        "option": "/choc/"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 30000000,
+          "option": 0
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1500000,
+          "option": 0
+        },
+        {
+          "userid": "ba90744b-f887-4fb9-9eee-b8e1b3c4d4b1",
+          "username": "Taba",
+          "betAmount": 20000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 50000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 1
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is a Splatoon expert",
+          "betAmount": 500000000,
+          "option": 1
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 400000,
+          "option": 1
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 500000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 20000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "92a706fe-8db0-4ad5-a20c-bfb6227d7e53": {
+    "id": "92a706fe-8db0-4ad5-a20c-bfb6227d7e53",
+    "topic": "Lord of the Board 2 - Day 1 - Match 17 - Singles Group C",
+    "open": false,
+    "winOption": 2,
+    "totalPool": 660671620,
+    "closingTime": 1702155600000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/jidf/"
+      },
+      {
+        "optionid": 1,
+        "option": "/HiRyS/"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 0
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 500000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 50000,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 1
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "ba90744b-f887-4fb9-9eee-b8e1b3c4d4b1",
+          "username": "Taba",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 500000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 15000000,
+          "option": 1
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463",
+          "username": "Kuro_Pantsu",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "78ab995a-5ee6-4939-9202-9898ef16b7a7": {
+    "id": "78ab995a-5ee6-4939-9202-9898ef16b7a7",
+    "topic": "Lord of the Board 2 - Day 1 - Match 15 - Singles Group B",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 756630620,
+    "closingTime": 1702153800000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/vnug/+/kr/"
+      },
+      {
+        "optionid": 1,
+        "option": "/yo/"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 0
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 600000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 350000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 15000000,
+          "option": 1
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 200009000,
+          "option": 1
+        },
+        {
+          "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463",
+          "username": "Kuro_Pantsu",
+          "betAmount": 2000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 50000,
+          "option": 2
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 2
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "9d68284b-2ba0-4561-b8d3-f4612558ff7a": {
+    "id": "9d68284b-2ba0-4561-b8d3-f4612558ff7a",
+    "topic": "Lord of the Board 2 - Day 1 - Match 11 - Singles Group H",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 147146620,
+    "closingTime": 1702150500000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Lia from Phase Connect"
+      },
+      {
+        "optionid": 1,
+        "option": "/wvt/"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 0
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 100000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "ba90744b-f887-4fb9-9eee-b8e1b3c4d4b1",
+          "username": "Taba",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 25000,
+          "option": 1
+        },
+        {
+          "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463",
+          "username": "Kuro_Pantsu",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1500000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "25f9d816-0609-49ae-b3ff-5eba5505993e": {
+    "id": "25f9d816-0609-49ae-b3ff-5eba5505993e",
+    "topic": "Lord of the Board 2 - Day 1 - Match 13 - Singles Group I",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 659671620,
+    "closingTime": 1702152000000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/eien/"
+      },
+      {
+        "optionid": 1,
+        "option": "/fvr/"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 0
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 250000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 15000000,
+          "option": 0
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 100000000,
+          "option": 0
+        },
+        {
+          "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463",
+          "username": "Kuro_Pantsu",
+          "betAmount": 1000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 1
+        },
+        {
+          "userid": "f2586832-1501-4e14-9277-716e509c3653",
+          "username": "ringobrewery",
+          "betAmount": 5500000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 300000,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "952fe827-ea90-4d53-bb72-b85400a778a4": {
+    "id": "952fe827-ea90-4d53-bb72-b85400a778a4",
+    "topic": "Lord of the Board 2 - Day 1 - Match 8 - Tag Ro28",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 675550810,
+    "closingTime": 1702147500000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Black Coffee [/nijiEN/ & /warkop/]"
+      },
+      {
+        "optionid": 1,
+        "option": "LIGMA FROG [/ltg/ & /vsj/]"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 0
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 25000000,
+          "option": 1
+        },
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 50000,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 1
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 600000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 500000,
+          "option": 1
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 2590000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 20000000,
+          "option": 1
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 15000000,
+          "option": 1
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 100000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "8f12a821-cb73-4344-b9ef-1009bacf2e39": {
+    "id": "8f12a821-cb73-4344-b9ef-1009bacf2e39",
+    "topic": "Lord of the Board 2 - Day 1 - Match 6 - Singles Group D",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 1633771620,
+    "closingTime": 1702145700000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/ltg/"
+      },
+      {
+        "optionid": 1,
+        "option": "/pcg/"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 0
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 500000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 50000,
+          "option": 1
+        },
+        {
+          "userid": "6846174a-8250-44ee-90eb-dc2e2ea1ffc9",
+          "username": "mette",
+          "betAmount": 85000000,
+          "option": 1
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1500000,
+          "option": 1
+        },
+        {
+          "userid": "f2586832-1501-4e14-9277-716e509c3653",
+          "username": "ringobrewery",
+          "betAmount": 5500000,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 1
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 100000,
+          "option": 1
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 2500000,
+          "option": 1
+        },
+        {
+          "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463",
+          "username": "Kuro_Pantsu",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 500000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is a Splatoon expert",
+          "betAmount": 500000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "f0cc25b6-0236-4c42-9486-dbbfeefa09fb": {
+    "id": "f0cc25b6-0236-4c42-9486-dbbfeefa09fb",
+    "topic": "Lord of the Board 2 - Day 1 - Match 1 - People's Champion Title Match",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 1694096220,
+    "closingTime": 1702141800000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/lig/"
+      },
+      {
+        "optionid": 1,
+        "option": "/hag/"
+      },
+      {
+        "optionid": 2,
+        "option": "/morig/"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "6846174a-8250-44ee-90eb-dc2e2ea1ffc9",
+          "username": "mette",
+          "betAmount": 35000000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "ba90744b-f887-4fb9-9eee-b8e1b3c4d4b1",
+          "username": "Taba",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463",
+          "username": "Kuro_Pantsu",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is a Splatoon expert",
+          "betAmount": 500000000,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 30000000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "6846174a-8250-44ee-90eb-dc2e2ea1ffc9",
+          "username": "mette",
+          "betAmount": 691268,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 500000000,
+          "option": 2
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 500000,
+          "option": 2
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 300000,
+          "option": 2
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 44444,
+          "option": 2
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 30000000,
+          "option": 2
+        },
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 50000,
+          "option": 2
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 10000000,
+          "option": 2
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 5000000,
+          "option": 2
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 44444444,
+          "option": 2
+        },
+        {
+          "userid": "6846174a-8250-44ee-90eb-dc2e2ea1ffc9",
+          "username": "mette",
+          "betAmount": 4444444,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "443f0e1a-d77e-46cf-846c-e88843b77565": {
+    "id": "443f0e1a-d77e-46cf-846c-e88843b77565",
+    "topic": "Lord of the Board 2 - Day 1 - Match 4 - Tag Ro28",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 1212334546,
+    "closingTime": 1702143900000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Ogey Rrat [/hlgg/ & /rrat/]"
+      },
+      {
+        "optionid": 1,
+        "option": "DeathStar [/morig/ & /starry-eyed/]"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 50000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 0
+        },
+        {
+          "userid": "ba90744b-f887-4fb9-9eee-b8e1b3c4d4b1",
+          "username": "Taba",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is a Splatoon expert",
+          "betAmount": 500000000,
+          "option": 0
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 500000,
+          "option": 0
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 5484848,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 44444444,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 1
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 44444,
+          "option": 1
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 30000000,
+          "option": 1
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 100000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "532be9ab-f3d4-442b-8d9a-3205d8c3ea07": {
+    "id": "532be9ab-f3d4-442b-8d9a-3205d8c3ea07",
+    "topic": "Lord of the Board 2 - Day 1 - Match 23 - Singles Group H",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 671721620,
+    "closingTime": 1702161000000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/tsunX/"
+      },
+      {
+        "optionid": 1,
+        "option": "/holoX/"
+      },
+      {
+        "optionid": 2,
+        "option": "DrawX"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 0
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 600000,
+          "option": 0
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 100000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 1
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 500000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 15000000,
+          "option": 1
+        },
+        {
+          "userid": "ba90744b-f887-4fb9-9eee-b8e1b3c4d4b1",
+          "username": "Taba",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463",
+          "username": "Kuro_Pantsu",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 2
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 5000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "c9915cb5-0fec-4fb0-9924-92cc1507dac7": {
+    "id": "c9915cb5-0fec-4fb0-9924-92cc1507dac7",
+    "topic": "Lord of the Board 2 - Day 1 - Match 20 - Tag Ro28",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 766516366,
+    "closingTime": 1702158300000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Bear Force One [/haha/ & /who/]"
+      },
+      {
+        "optionid": 1,
+        "option": "[Name Pending] [/choc/ & /asp/ & /tactical/]"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 0
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 600000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "6846174a-8250-44ee-90eb-dc2e2ea1ffc9",
+          "username": "mette",
+          "betAmount": 555556,
+          "option": 1
+        },
+        {
+          "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463",
+          "username": "Kuro_Pantsu",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "463fc6c2-201d-4dbc-a35b-0e6960c2ec89",
+          "username": "AltoWalker",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 150000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 20000000,
+          "option": 1
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 3400000,
+          "option": 1
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 200000000,
+          "option": 1
+        },
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 15000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "18207dd7-f614-4964-bb03-9cd843fa79c4": {
+    "id": "18207dd7-f614-4964-bb03-9cd843fa79c4",
+    "topic": "Lord of the Board 2 - Day 1 - Match 9 - Singles Group F",
+    "open": false,
+    "winOption": 2,
+    "totalPool": 1176821620,
+    "closingTime": 1702148400000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/hag/"
+      },
+      {
+        "optionid": 1,
+        "option": "/mans/"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 50000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 0
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is a Splatoon expert",
+          "betAmount": 500000000,
+          "option": 0
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 300000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 1
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 350000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 35000000,
+          "option": 1
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1200000,
+          "option": 1
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463",
+          "username": "Kuro_Pantsu",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 2
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1300000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "eb967085-3904-452f-a725-ac94d9a23a92": {
+    "id": "eb967085-3904-452f-a725-ac94d9a23a92",
+    "topic": "Lord of the Board 2 - Day 1 - Match 16 - Tag Ro28",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 645265810,
+    "closingTime": 1702154700000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Maldives Mavens [/mep/ & /wawa/]"
+      },
+      {
+        "optionid": 1,
+        "option": "The Library [/wg/ & The Shiori Novella]"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 5000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 1
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 1200000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 250000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 15000000,
+          "option": 1
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463",
+          "username": "Kuro_Pantsu",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ]
+    }
+  },
+  "7142cc3c-b530-4c2e-a90d-8841a472b125": {
+    "id": "7142cc3c-b530-4c2e-a90d-8841a472b125",
+    "topic": "Lord of the Board 2 - Day 1 - Match 14 - Singles Group A",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 1057821620,
+    "closingTime": 1702153200000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/shon/"
+      },
+      {
+        "optionid": 1,
+        "option": "/mion/"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 1500000,
+          "option": 0
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 500000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 20000000,
+          "option": 0
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 500000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 1
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is a Splatoon expert",
+          "betAmount": 500000000,
+          "option": 1
+        },
+        {
+          "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463",
+          "username": "Kuro_Pantsu",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 2
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1200000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "8034f852-0754-4487-9484-b67e52d46fe6": {
+    "id": "8034f852-0754-4487-9484-b67e52d46fe6",
+    "topic": "Lord of the Board 2 - Day 1 - Match 19 - Singles Group E",
+    "open": false,
+    "winOption": 2,
+    "totalPool": 657956620,
+    "closingTime": 1702157400000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Anya Global"
+      },
+      {
+        "optionid": 1,
+        "option": "Anya-Petra Global"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 0
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 400000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 1
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 230000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 3700000,
+          "option": 1
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 100000000,
+          "option": 1
+        },
+        {
+          "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463",
+          "username": "Kuro_Pantsu",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 5000,
+          "option": 2
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 2
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 5000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "3a4a92d3-ed01-43c0-bff0-5f4dc3889867": {
+    "id": "3a4a92d3-ed01-43c0-bff0-5f4dc3889867",
+    "topic": "Lord of the Board 2 - Day 1 - Match 2 - Singles Group A",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 1599371620,
+    "closingTime": 1702142400000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/asp/"
+      },
+      {
+        "optionid": 1,
+        "option": "Himemori Luna"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463",
+          "username": "Kuro_Pantsu",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "463fc6c2-201d-4dbc-a35b-0e6960c2ec89",
+          "username": "AltoWalker",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 0
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 6000000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 20000000,
+          "option": 0
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 500000000,
+          "option": 0
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 10000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 1
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 15000000,
+          "option": 1
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is a Splatoon expert",
+          "betAmount": 500000000,
+          "option": 1
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 200000,
+          "option": 1
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 500000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 50000,
+          "option": 2
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 3000000,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 5000000,
+          "option": 2
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 1000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "648c6fda-8f22-4b87-9655-f268660870f9": {
+    "id": "648c6fda-8f22-4b87-9655-f268660870f9",
+    "topic": "Lord of the Board 2 - Day 1 - Match 21 - Singles Group F",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 1557531619,
+    "closingTime": 1702159200000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/grave/"
+      },
+      {
+        "optionid": 1,
+        "option": "Semi-Regular Sana Thread"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463",
+          "username": "Kuro_Pantsu",
+          "betAmount": 2000000,
+          "option": 0
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 10000,
+          "option": 0
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 1300000,
+          "option": 0
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 0
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 500000000,
+          "option": 1
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 1
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1599999,
+          "option": 1
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 2
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 5000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "902a969e-7540-4bcf-a350-7dc4313841c6": {
+    "id": "902a969e-7540-4bcf-a350-7dc4313841c6",
+    "topic": "Lord of the Board 2 - Day 1 - Match 18 - Singles Group D",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 1049976620,
+    "closingTime": 1702156500000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Lamy's Huge Boobies"
+      },
+      {
+        "optionid": 1,
+        "option": "/exWACTOR/"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 0
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 600000,
+          "option": 0
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 250000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1500000,
+          "option": 0
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 500000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 1
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 5000,
+          "option": 2
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "fa815d7b-ff68-46a2-ab53-d6ce06607cb4": {
+    "id": "fa815d7b-ff68-46a2-ab53-d6ce06607cb4",
+    "topic": "Lord of the Board 2 - Day 1 - Match 7 - Singles Group E",
+    "open": false,
+    "winOption": 1,
+    "totalPool": 1174237276,
+    "closingTime": 1702146600000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "/vtai/"
+      },
+      {
+        "optionid": 1,
+        "option": "/vt/uber Drawthread"
+      },
+      {
+        "optionid": 2,
+        "option": "Draw"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "e2f158e4-b22e-4562-9236-a11aab56c20e",
+          "username": "TFRBATTLERISGAY",
+          "betAmount": 50000,
+          "option": 0
+        },
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 0
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 2500000,
+          "option": 0
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 65656,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 10000000,
+          "option": 0
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 100000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 1
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 1
+        },
+        {
+          "userid": "fe69dd95-1004-4505-b2ef-6a6b520b784e",
+          "username": "Aki is a Splatoon expert",
+          "betAmount": 500000000,
+          "option": 1
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 5000000,
+          "option": 1
+        }
+      ],
+      "2": [
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 2
+        },
+        {
+          "userid": "340d2c3b-29b6-48a0-9c85-fe3e740dbd60",
+          "username": "[HFZ] ELFS999",
+          "betAmount": 3000000,
+          "option": 2
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 5000000,
+          "option": 2
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1000000,
+          "option": 2
+        },
+        {
+          "userid": "f467b1e6-b9f2-4c86-ac4a-e79186a214a9",
+          "username": "sanQ",
+          "betAmount": 5000000,
+          "option": 2
+        },
+        {
+          "userid": "10be6ad4-b543-4491-b583-735eda2fdbee",
+          "username": "towasamarich",
+          "betAmount": 15000000,
+          "option": 2
+        }
+      ]
+    }
+  },
+  "a391b241-8385-412e-9244-babf34e56832": {
+    "id": "a391b241-8385-412e-9244-babf34e56832",
+    "topic": "Lord of the Board 2 - Day 1 - Match 12 - Tag Ro28",
+    "open": false,
+    "winOption": 0,
+    "totalPool": 638860810,
+    "closingTime": 1702151100000,
+    "options": [
+      {
+        "optionid": 0,
+        "option": "Fighting WACTOR EX [/exWACTOR/ & /fig/]"
+      },
+      {
+        "optionid": 1,
+        "option": "Toaster & Kettle [/vsj+/ & /999/+/VOMS/]"
+      }
+    ],
+    "userBets": {
+      "0": [
+        {
+          "userid": "708be5de-6f82-4353-8d4c-892c1626512e",
+          "username": "IKZ",
+          "betAmount": 5000000,
+          "option": 0
+        },
+        {
+          "userid": "cc9d6a1f-db60-4b0c-a70a-02ca9056b358",
+          "username": "[草] potato",
+          "betAmount": 10810810,
+          "option": 0
+        },
+        {
+          "userid": "9f92d01e-adda-435b-a555-bb89d4b956e6",
+          "username": "HFZArchiveAnon",
+          "betAmount": 1000000,
+          "option": 0
+        },
+        {
+          "userid": "a68abd17-8311-4bd3-a4c5-a0998c920dc9",
+          "username": "TowaBaby",
+          "betAmount": 50000,
+          "option": 0
+        },
+        {
+          "userid": "79c5aa12-d3e9-49aa-9b63-5cd3bb5c7e33",
+          "username": "BeerSalad",
+          "betAmount": 20000000,
+          "option": 0
+        },
+        {
+          "userid": "6595aa93-8d64-4894-84b0-249a275a7049",
+          "username": "[永] Collective Onobot Fund",
+          "betAmount": 100000000,
+          "option": 0
+        }
+      ],
+      "1": [
+        {
+          "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482",
+          "username": "Bombshell Blondes Banking",
+          "betAmount": 500000000,
+          "option": 1
+        },
+        {
+          "userid": "d151de00-6642-4807-8db7-615be63c0103",
+          "username": "skeleturtle-2",
+          "betAmount": 1000000,
+          "option": 1
+        },
+        {
+          "userid": "7c1b1f37-37f1-4f20-a43b-4d5b1ce3f2af",
+          "username": "REAPER REAPER",
+          "betAmount": 1000000,
+          "option": 1
+        }
+      ]
+    }
+  }
+}
