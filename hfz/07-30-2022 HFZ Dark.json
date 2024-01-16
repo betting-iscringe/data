@@ -859,8 +859,8 @@
   "282c1384-a31c-429a-8787-bc54987efd77": {
     "id": "282c1384-a31c-429a-8787-bc54987efd77",
     "topic": "HFZ Dark - Match 14 - Main Event (3v1 Handicap)",
-    "open": true,
-    "winOption": null,
+    "open": false,
+    "winOption": 1,
     "totalPool": 45055001,
     "closingTime": 1659206280000,
     "options": [
