@@ -452,8 +452,8 @@
 	"3fcd5737-228c-4cba-98eb-bda53f585b11": {
 		"id": "3fcd5737-228c-4cba-98eb-bda53f585b11",
 		"topic": "HoloFightZ - Match 4 - One Fall",
-		"open": true,
-		"winOption": null,
+		"open": false,
+		"winOption": 0,
 		"totalPool": 100353856,
 		"closingTime": 1659283281463,
 		"options": [
