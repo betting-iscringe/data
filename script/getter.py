@@ -6,7 +6,7 @@ if __name__ == "__main__":
 	res = requests.get("https://nasfaq.biz/api/getBettingPools")
 	data = res.json()['bettingPools']
 	scriptDir = str(pathlib.Path(__file__).parent.resolve())
-	with open(scriptDir+"\\instructions.txt", 'r') as instructFile:
+	with open(scriptDir+"\\instructions.txt", 'r', encoding='utf8') as instructFile:
 		instructions = instructFile.read().splitlines()
 		out = {}
 		with open(scriptDir+"\\"+instructions[0].strip()+".json", "w", encoding='utf8') as outfile:
