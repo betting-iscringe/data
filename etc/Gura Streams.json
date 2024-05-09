@@ -293,4 +293,95 @@
       ]
     }
   }
+    "341d9e42-fca5-42fc-8e04-e50b348565cd": {
+	  "id": "341d9e42-fca5-42fc-8e04-e50b348565cd", 
+	  "topic": "Gura has returned! How long will the streak last this time? The streak is considered over when 7 days pass without a publicly archived stream.", 
+	  "open": false, 
+	  "winOption": 1, 
+	  "totalPool": 17009500000, 
+	  "closingTime": 1713153600000, 
+	  "options": 
+	  [
+	  {
+		  "optionid": 0, 
+		  "option": "1. This will be her only stream."
+		  }, 
+	  {
+		  "optionid": 1, 
+		  "option": "2 streams. One more after this."
+		  }, 
+	  {
+		  "optionid": 2, 
+		  "option": "3 streams. We might get a couple."
+		  }, 
+	  {
+		  "optionid": 3, 
+		  "option": "4 streams. She's feelin' it now."
+		  }, 
+	  {
+		  "optionid": 4, 
+		  "option": "5 or more streams. She's BACK, baybee."
+		  }
+		  ], 
+		  "userBets": {
+			  "0": [
+			  {
+				  "userid": "ddf873d8-dae4-4205-a98a-04baefbd081d", 
+				  "username": "Anon D. Zain", 
+				  "betAmount": 3000000, 
+				  "option": 0
+				  }, 
+			  {
+				  "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", 
+				  "username": "Bombshell Blondes Banking", 
+				  "betAmount": 5000000000, 
+				  "option": 0
+				  }
+				  ], 
+			  "1": [
+			  {
+				  "userid": "463fc6c2-201d-4dbc-a35b-0e6960c2ec89", 
+				  "username": "AltoWalker", 
+				  "betAmount": 5000000000, 
+				  "option": 1
+				  }, 
+			  {
+				  "userid": "ddf873d8-dae4-4205-a98a-04baefbd081d", 
+				  "username": "Anon D. Zain", 
+				  "betAmount": 1500000, 
+				  "option": 1
+				  }
+				  ], 
+			  "2": [
+			  {
+				  "userid": "8a45cc0b-1717-4c8c-9ac9-90021d076463", 
+				  "username": "Kuro_Pantsu", 
+				  "betAmount": 5000000, 
+				  "option": 2
+				  }, 
+			  {
+				  "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", 
+				  "username": "Bombshell Blondes Banking", 
+				  "betAmount": 1000000000, 
+				  "option": 2
+				  }
+				  ], 
+			  "3": [
+			  {
+				  "userid": "463fc6c2-201d-4dbc-a35b-0e6960c2ec89", 
+				  "username": "AltoWalker", 
+				  "betAmount": 5000000000, 
+				  "option": 3
+				  }
+				  ], 
+			  "4": [
+			  {
+				  "userid": "726b5a5e-9dc0-438e-b6be-fb901a51f482", 
+				  "username": "Bombshell Blondes Banking", 
+				  "betAmount": 1000000000, 
+				  "option": 4
+				  }
+				]
+		  }
+	  }
 }
