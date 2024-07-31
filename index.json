@@ -1,8 +1,16 @@
 {
   "files": [
-    { "Holofightz": "/hfz" },
-    { "4cc vt league": "/divegrass" },
-    { "Random bets archived": "/etc" }
+    {
+      "Holofightz": "/hfz"
+    },
+    {
+      "4cc vt league": "/divegrass"
+    },
+    {
+      "Random bets archived": "/etc"
+    }
   ],
-  "defaults": ["hfz"]
+  "defaults": [
+    "divegrass"
+  ]
 }
