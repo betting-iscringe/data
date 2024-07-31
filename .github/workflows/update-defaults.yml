@@ -1,19 +1,22 @@
-name: "Update indices"
+name: "Update defaults in index"
 
 on:
-  push:
-    branches:
-      - "master"
-    paths-ignore:
-      - 'index.json'
   workflow_dispatch:
+    inputs:
+      default:
+        type: choice
+        description: Default category to set
+        options: 
+          - hfz
+          - divegrass
+          - etc
 
 concurrency:
   group: "update"
   cancel-in-progress: false
 
 jobs:
-  update-indices:
+  update-defaults:
     permissions:
       contents: write 
     name: "Update index.json automatically"
@@ -22,7 +25,9 @@ jobs:
       - uses: actions/checkout@main
       - name: runs local action to check updated files
         id: updater
-        uses: betting-iscringe/updaterAction/indices@main
+        uses: betting-iscringe/updaterAction/defaults@main
+        with:
+          default: ${{ inputs.default }} 
       - name: stage changed files
         run: git add .
         if: steps.updater.outputs.hasUpdates
@@ -31,7 +36,7 @@ jobs:
       - run: git config user.email support+actions@github.com
         if: steps.updater.outputs.hasUpdates
       - name: commit changed files
-        run: "git commit -m 'Updated: ${{ steps.updater.outputs.folders }}'"
+        run: "git commit -m 'Updated: defaults'"
         if: steps.updater.outputs.hasUpdates
       - name: fetch from master
         run: git fetch origin master
