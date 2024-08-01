@@ -36,7 +36,7 @@ jobs:
       - run: git config user.email support+actions@github.com
         if: steps.updater.outputs.hasUpdates
       - name: commit changed files
-        run: "git commit -m 'Updated: defaults'"
+        run: "git commit -m 'Updated: default event to ${{ inputs.default }}'"
         if: steps.updater.outputs.hasUpdates
       - name: fetch from master
         run: git fetch origin master
