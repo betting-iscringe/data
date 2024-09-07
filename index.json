@@ -8,9 +8,12 @@
     },
     {
       "Random bets archived": "/etc"
+    },
+    {
+    "Vtuber Racing Project": "/vtrp"
     }
   ],
   "defaults": [
-    "hfz"
+    "divegrass"
   ]
 }
