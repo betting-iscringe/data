@@ -1,16 +1,20 @@
 {
   "files": [
     {
-      "Holofightz": "/hfz"
+      "name": "Holofightz",
+      "value": "/hfz"
     },
     {
-      "4cc vt league": "/divegrass"
+      "name": "4cc vt league",
+      "value": "/divegrass"
     },
     {
-    "Vtuber Racing Project": "/vtrp"
+      "name": "Vtuber Racing Project",
+      "value": "/vtrp"
     },
     {
-      "Random bets archived": "/etc"
+      "name": "Random bets archived",
+      "value": "/etc"
     }
   ],
   "defaults": [
