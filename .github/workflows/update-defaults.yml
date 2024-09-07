@@ -9,6 +9,7 @@ on:
         options: 
           - hfz
           - divegrass
+          - vtrp
           - etc
 
 concurrency:
