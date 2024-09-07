@@ -15,7 +15,10 @@
     {
       "name": "Random bets archived",
       "value": "/etc"
-    }
+    },{
+      "name": "test category",
+      "value": "/testshit"
+    },
   ],
   "defaults": [
     "divegrass"
